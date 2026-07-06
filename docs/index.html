@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>연세 공지 Watcher</title>
+<style>
+  /* ============================================================
+     연세 공지 Watcher — お知らせ集約ダッシュボード
+     配色: 延世大の紺(#003876)をアクセントに、読みやすさ最優先
+     ============================================================ */
+  :root {
+    --navy: #003876;        /* 延世ネイビー */
+    --navy-soft: #eaf0f7;   /* ネイビーの淡色 (背景用) */
+    --bg: #fafbfc;
+    --card: #ffffff;
+    --text: #1c2733;
+    --muted: #6b7684;
+    --line: #e3e8ee;
+    --new: #d93f3f;         /* NEWバッジ */
+    --warn-bg: #fff7e0;
+    --warn-text: #8a6100;
+    --ok: #1a7f4b;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
+      "Noto Sans KR", "Hiragino Sans", "Noto Sans JP", "Malgun Gothic", sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+  }
+  a { color: var(--navy); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  button { font-family: inherit; cursor: pointer; }
+  button:focus-visible, input:focus-visible, select:focus-visible {
+    outline: 2px solid var(--navy);
+    outline-offset: 2px;
+  }
+
+  .wrap { max-width: 880px; margin: 0 auto; padding: 0 16px 64px; }
+
+  /* --- ヘッダ --- */
+  header.site {
+    border-bottom: 3px solid var(--navy);
+    padding: 28px 0 14px;
+    margin-bottom: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 8px 16px;
+  }
+  header.site h1 { margin: 0; font-size: 22px; letter-spacing: 0.02em; }
+  header.site h1 .en { color: var(--navy); }
+  header.site .sub { color: var(--muted); font-size: 13px; }
+  #generatedAt { margin-left: auto; font-size: 12.5px; color: var(--muted); }
+
+  /* --- 操作バー --- */
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  .toolbar select {
+    padding: 7px 10px;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    background: var(--card);
+    font-size: 14px;
+  }
+  .btn {
+    padding: 7px 14px;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    background: var(--card);
+    font-size: 14px;
+  }
+  .btn:hover { background: var(--navy-soft); }
+  .btn.primary {
+    background: var(--navy);
+    border-color: var(--navy);
+    color: #fff;
+  }
+  .btn.primary:hover { background: #024a99; }
+  .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+  .spacer { flex: 1; }
+
+  /* --- ステータス表示 --- */
+  #status {
+    margin: 0 0 16px;
+    padding: 10px 14px;
+    border-radius: 6px;
+    font-size: 14px;
+    display: none;
+  }
+  #status.info { display: block; background: var(--navy-soft); color: var(--navy); }
+  #status.ok { display: block; background: #e7f5ec; color: var(--ok); }
+  #status.error { display: block; background: #fdeaea; color: #a02626; }
+
+  /* --- サイトセクション --- */
+  section.site-block { margin-bottom: 30px; }
+  section.site-block > h2 {
+    font-size: 16px;
+    margin: 0 0 8px;
+    padding-left: 10px;
+    border-left: 4px solid var(--navy);
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  section.site-block > h2 .count { font-size: 12.5px; color: var(--muted); font-weight: normal; }
+  .site-error {
+    background: #fdeaea;
+    color: #a02626;
+    border-radius: 6px;
+    padding: 10px 14px;
+    font-size: 13.5px;
+  }
+
+  /* --- 記事リスト --- */
+  ul.notices { list-style: none; margin: 0; padding: 0; background: var(--card);
+    border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+  ul.notices li {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 10px;
+    align-items: baseline;
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--line);
+  }
+  ul.notices li:last-child { border-bottom: none; }
+  ul.notices li .title { flex: 1 1 60%; min-width: 240px; }
+  ul.notices li .meta { font-size: 12.5px; color: var(--muted); white-space: nowrap; }
+
+  /* --- バッジ類 --- */
+  .badge {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 1px 7px;
+    border-radius: 10px;
+    vertical-align: 1px;
+    margin-right: 6px;
+    white-space: nowrap;
+  }
+  .badge.new { background: var(--new); color: #fff; }
+  .badge.pin { background: var(--navy-soft); color: var(--navy); }
+  .badge.cat { background: #eef1f4; color: var(--muted); font-weight: 500; }
+  .badge.low { background: var(--warn-bg); color: var(--warn-text); font-weight: 500; }
+  .badge.sitechip { background: #eef1f4; color: var(--muted); font-weight: 500; }
+
+  /* --- モーダル (設定 / サイト追加) --- */
+  .modal-backdrop {
+    position: fixed; inset: 0;
+    background: rgba(20, 30, 45, 0.45);
+    display: none;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 60px 16px;
+    z-index: 10;
+  }
+  .modal-backdrop.open { display: flex; }
+  .modal {
+    background: var(--card);
+    border-radius: 10px;
+    max-width: 480px;
+    width: 100%;
+    padding: 22px 24px;
+    box-shadow: 0 12px 40px rgba(0,0,0,0.18);
+  }
+  .modal h3 { margin: 0 0 14px; font-size: 17px; }
+  .field { margin-bottom: 14px; }
+  .field label { display: block; font-size: 13px; color: var(--muted); margin-bottom: 4px; }
+  .field input, .field select {
+    width: 100%;
+    padding: 8px 10px;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  .field .hint { font-size: 12px; color: var(--muted); margin-top: 3px; }
+  .modal .actions { display: flex; gap: 8px; justify-content: flex-end; margin-top: 18px; }
+
+  footer {
+    margin-top: 48px;
+    font-size: 12.5px;
+    color: var(--muted);
+    border-top: 1px solid var(--line);
+    padding-top: 14px;
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .modal { animation: pop 0.15s ease-out; }
+    @keyframes pop { from { transform: translateY(-6px); opacity: 0; } }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="site">
+    <h1><span class="en">YONSEI</span> 공지 Watcher</h1>
+    <span class="sub">学内お知らせ集約ダッシュボード</span>
+    <span id="generatedAt"></span>
+  </header>
+
+  <div class="toolbar">
+    <select id="siteFilter" aria-label="サイトで絞り込み">
+      <option value="">全サイト</option>
+    </select>
+    <select id="viewMode" aria-label="表示方法">
+      <option value="bysite">サイト別セクション</option>
+      <option value="latest">新着順(横断)</option>
+    </select>
+    <span class="spacer"></span>
+    <button class="btn" id="btnAddSite">＋ 新しいサイトを追加</button>
+    <button class="btn primary" id="btnScrapeNow">⟳ 今すぐ取得</button>
+    <button class="btn" id="btnSettings" title="GitHub設定">⚙ 設定</button>
+  </div>
+
+  <p id="status" role="status"></p>
+
+  <main id="content"><p style="color:var(--muted)">読み込み中…</p></main>
+
+  <footer>
+    データは GitHub Actions が6時間ごとに自動更新します。「今すぐ取得」を押した場合、
+    反映まで1〜2分かかります(取得完了後にページを再読み込みしてください)。
+  </footer>
+</div>
+
+<!-- ===== 設定モーダル (リポジトリ情報 + GitHubトークン) ===== -->
+<div class="modal-backdrop" id="settingsModal">
+  <div class="modal" role="dialog" aria-labelledby="settingsTitle">
+    <h3 id="settingsTitle">GitHub 設定</h3>
+    <div class="field">
+      <label for="cfgOwner">リポジトリのオーナー (ユーザー名)</label>
+      <input id="cfgOwner" type="text" autocomplete="off" placeholder="例: your-name">
+    </div>
+    <div class="field">
+      <label for="cfgRepo">リポジトリ名</label>
+      <input id="cfgRepo" type="text" autocomplete="off" placeholder="例: yonsei-notice-watch">
+    </div>
+    <div class="field">
+      <label for="cfgBranch">ブランチ名</label>
+      <input id="cfgBranch" type="text" autocomplete="off" placeholder="main">
+    </div>
+    <div class="field">
+      <label for="cfgToken">Personal Access Token</label>
+      <input id="cfgToken" type="password" autocomplete="off"
+             placeholder="保存済みの場合は空欄のままでOK">
+      <p class="hint">
+        トークンはこのブラウザのlocalStorageにのみ保存され、画面には表示されず、
+        GitHub API (api.github.com) 以外には送信されません。
+        発行方法はREADMEを参照してください(このリポジトリ限定・最小権限を推奨)。
+      </p>
+    </div>
+    <div class="actions">
+      <button class="btn" id="btnClearToken">トークンを削除</button>
+      <button class="btn" data-close="settingsModal">閉じる</button>
+      <button class="btn primary" id="btnSaveSettings">保存</button>
+    </div>
+  </div>
+</div>
+
+<!-- ===== サイト追加モーダル ===== -->
+<div class="modal-backdrop" id="addSiteModal">
+  <div class="modal" role="dialog" aria-labelledby="addSiteTitle">
+    <h3 id="addSiteTitle">新しいサイトを追加</h3>
+    <div class="field">
+      <label for="addName">表示名</label>
+      <input id="addName" type="text" placeholder="例: 문과대학 공지사항">
+    </div>
+    <div class="field">
+      <label for="addUrl">一覧ページのURL</label>
+      <input id="addUrl" type="url" placeholder="https://.../notice.do">
+    </div>
+    <div class="field">
+      <label for="addType">CMSタイプ</label>
+      <select id="addType">
+        <option value="jwxe">jwxe型 (연세대の標準的な学科サイト)</option>
+        <option value="kboard">KBoard型 (WordPress系)</option>
+        <option value="generic">わからない (generic: 自動判定・低信頼)</option>
+      </select>
+      <p class="hint">
+        詳細URLが「?mode=view&amp;articleNo=…」ならjwxe型、
+        「?mod=document&amp;uid=…」ならKBoard型です。
+      </p>
+    </div>
+    <div class="actions">
+      <button class="btn" data-close="addSiteModal">キャンセル</button>
+      <button class="btn primary" id="btnSubmitSite">追加してコミット</button>
+    </div>
+  </div>
+</div>
+
+<script>
+"use strict";
+/* ============================================================
+   연세 공지 Watcher — フロントエンドロジック
+   - docs/sites.config.json と docs/data/notices.json を読み込んで表示
+   - localStorageで既読ID管理 → NEWバッジ
+   - GitHub REST APIで sites.config.json の更新 & workflow_dispatch
+   ============================================================ */
+
+// ---------- localStorage のキー ----------
+const LS_SEEN = "ynw_seen_ids";      // 前回訪問時に見た記事IDの配列
+const LS_TOKEN = "ynw_gh_token";     // GitHub Personal Access Token
+const LS_REPO = "ynw_repo_config";   // { owner, repo, branch }
+
+// ---------- グローバル状態 ----------
+let sitesConfig = [];   // sites.config.json の中身
+let noticesData = null; // notices.json の中身
+let newIds = new Set(); // 今回「NEW」扱いのID集合
+
+// ---------- 起動 ----------
+document.addEventListener("DOMContentLoaded", init);
+
+async function init() {
+  bindUi();
+  loadRepoConfigIntoForm();
+
+  try {
+    // 設定とデータを並行して取得 (キャッシュ回避のためタイムスタンプ付与)
+    const bust = "?t=" + Date.now();
+    const [cfgRes, dataRes] = await Promise.all([
+      fetch("./sites.config.json" + bust),
+      fetch("./data/notices.json" + bust),
+    ]);
+    if (!cfgRes.ok) throw new Error("sites.config.json の読み込みに失敗しました");
+    sitesConfig = (await cfgRes.json()).sites || [];
+
+    if (dataRes.ok) {
+      noticesData = await dataRes.json();
+    } else {
+      // まだ一度もスクレイプが走っていない場合
+      noticesData = { generated_at: null, sites: [] };
+      showStatus("info",
+        "まだデータがありません。「今すぐ取得」を押すか、GitHub Actionsの初回実行をお待ちください。");
+    }
+
+    computeNewIds();
+    populateSiteFilter();
+    render();
+    markAllAsSeen(); // 表示した時点で既読として保存 (次回訪問時の基準になる)
+  } catch (err) {
+    showStatus("error", "初期化エラー: " + err.message);
+  }
+}
+
+// ---------- UIイベントの紐付け ----------
+function bindUi() {
+  document.getElementById("siteFilter").addEventListener("change", render);
+  document.getElementById("viewMode").addEventListener("change", render);
+  document.getElementById("btnSettings").addEventListener("click", () => openModal("settingsModal"));
+  document.getElementById("btnAddSite").addEventListener("click", onClickAddSite);
+  document.getElementById("btnScrapeNow").addEventListener("click", onClickScrapeNow);
+  document.getElementById("btnSaveSettings").addEventListener("click", onSaveSettings);
+  document.getElementById("btnClearToken").addEventListener("click", onClearToken);
+  document.getElementById("btnSubmitSite").addEventListener("click", onSubmitSite);
+
+  // data-close属性を持つボタンでモーダルを閉じる
+  document.querySelectorAll("[data-close]").forEach((btn) =>
+    btn.addEventListener("click", () => closeModal(btn.dataset.close))
+  );
+  // 背景クリックでも閉じる
+  document.querySelectorAll(".modal-backdrop").forEach((bd) =>
+    bd.addEventListener("click", (e) => { if (e.target === bd) bd.classList.remove("open"); })
+  );
+}
+
+// ============================================================
+//  NEWバッジ (既読管理)
+// ============================================================
+
+/** 前回保存した既読ID集合と比較して、今回の新着IDを求める */
+function computeNewIds() {
+  const seen = new Set(JSON.parse(localStorage.getItem(LS_SEEN) || "[]"));
+  const firstVisit = seen.size === 0; // 初回訪問時は全部NEWになってうるさいので抑制
+  newIds = new Set();
+  if (firstVisit) return;
+
+  for (const site of noticesData.sites || []) {
+    for (const item of site.items || []) {
+      const key = site.site_id + ":" + item.id;
+      if (!seen.has(key)) newIds.add(key);
+    }
+  }
+}
+
+/** 現在表示中の全記事IDを「既読」としてlocalStorageに保存する */
+function markAllAsSeen() {
+  const all = [];
+  for (const site of noticesData.sites || []) {
+    for (const item of site.items || []) {
+      all.push(site.site_id + ":" + item.id);
+    }
+  }
+  if (all.length > 0) {
+    localStorage.setItem(LS_SEEN, JSON.stringify(all));
+  }
+}
+
+// ============================================================
+//  描画
+// ============================================================
+
+function populateSiteFilter() {
+  const sel = document.getElementById("siteFilter");
+  for (const site of sitesConfig) {
+    const opt = document.createElement("option");
+    opt.value = site.site_id;
+    opt.textContent = site.site_name;
+    sel.appendChild(opt);
+  }
+}
+
+function render() {
+  const filter = document.getElementById("siteFilter").value;
+  const mode = document.getElementById("viewMode").value;
+  const content = document.getElementById("content");
+  content.innerHTML = "";
+
+  // 生成日時の表示
+  const gen = document.getElementById("generatedAt");
+  gen.textContent = noticesData.generated_at
+    ? "最終更新: " + formatDateTime(noticesData.generated_at)
+    : "";
+
+  const sites = (noticesData.sites || []).filter(
+    (s) => !filter || s.site_id === filter
+  );
+
+  if (sites.length === 0) {
+    content.innerHTML = '<p style="color:var(--muted)">表示できるデータがありません。</p>';
+    return;
+  }
+
+  if (mode === "latest") {
+    renderLatest(content, sites);
+  } else {
+    renderBySite(content, sites);
+  }
+}
+
+/** サイト別セクション表示 */
+function renderBySite(container, sites) {
+  for (const site of sites) {
+    const section = document.createElement("section");
+    section.className = "site-block";
+
+    const h2 = document.createElement("h2");
+    const link = document.createElement("a");
+    link.href = site.site_url;
+    link.target = "_blank";
+    link.rel = "noopener";
+    link.textContent = site.site_name;
+    h2.appendChild(link);
+    const count = document.createElement("span");
+    count.className = "count";
+    count.textContent = `${site.count}件`;
+    h2.appendChild(count);
+    section.appendChild(h2);
+
+    if (site.status === "error") {
+      const p = document.createElement("p");
+      p.className = "site-error";
+      p.textContent = `このサイトの取得に失敗しました: ${site.error || "不明なエラー"}`;
+      section.appendChild(p);
+    } else {
+      section.appendChild(buildList(site.items, site, { showSiteName: false }));
+    }
+    container.appendChild(section);
+  }
+}
+
+/** 全サイト横断・新着順表示 */
+function renderLatest(container, sites) {
+  const merged = [];
+  for (const site of sites) {
+    for (const item of site.items || []) merged.push({ site, item });
+  }
+  // 日付降順 (日付なしは末尾)
+  merged.sort((a, b) => String(b.item.date || "").localeCompare(String(a.item.date || "")));
+
+  const section = document.createElement("section");
+  section.className = "site-block";
+  const h2 = document.createElement("h2");
+  h2.textContent = "新着順(全サイト横断)";
+  section.appendChild(h2);
+
+  const ul = document.createElement("ul");
+  ul.className = "notices";
+  for (const { site, item } of merged) {
+    ul.appendChild(buildListItem(item, site, { showSiteName: true }));
+  }
+  section.appendChild(ul);
+  container.appendChild(section);
+}
+
+function buildList(items, site, opts) {
+  const ul = document.createElement("ul");
+  ul.className = "notices";
+  for (const item of items || []) {
+    ul.appendChild(buildListItem(item, site, opts));
+  }
+  return ul;
+}
+
+/** 記事1件分の<li>を組み立てる (XSS防止のためtextContentで挿入) */
+function buildListItem(item, site, { showSiteName }) {
+  const li = document.createElement("li");
+
+  const titleWrap = document.createElement("span");
+  titleWrap.className = "title";
+
+  // NEWバッジ
+  if (newIds.has(site.site_id + ":" + item.id)) {
+    titleWrap.appendChild(makeBadge("new", "NEW"));
+  }
+  // 固定(공지)バッジ
+  if (item.pinned) {
+    titleWrap.appendChild(makeBadge("pin", "공지"));
+  }
+  // カテゴリバッジ
+  if (item.category) {
+    titleWrap.appendChild(makeBadge("cat", item.category));
+  }
+  // サイト名チップ (横断表示のとき)
+  if (showSiteName) {
+    titleWrap.appendChild(makeBadge("sitechip", site.site_name));
+  }
+
+  const a = document.createElement("a");
+  a.href = item.url;
+  a.target = "_blank";
+  a.rel = "noopener";
+  a.textContent = item.title;
+  titleWrap.appendChild(a);
+
+  // 低信頼バッジ (genericパーサーの結果)
+  if (item.confidence === "low") {
+    titleWrap.appendChild(document.createTextNode(" "));
+    titleWrap.appendChild(
+      makeBadge("low", "⚠ 自動判定のため取得漏れの可能性があります")
+    );
+  }
+
+  const meta = document.createElement("span");
+  meta.className = "meta";
+  meta.textContent = item.date || "";
+
+  li.appendChild(titleWrap);
+  li.appendChild(meta);
+  return li;
+}
+
+function makeBadge(cls, text) {
+  const b = document.createElement("span");
+  b.className = "badge " + cls;
+  b.textContent = text;
+  return b;
+}
+
+// ============================================================
+//  GitHub API まわり
+// ============================================================
+
+/** localStorageからリポジトリ設定を読む。未設定項目はURLから推測する */
+function getRepoConfig() {
+  const saved = JSON.parse(localStorage.getItem(LS_REPO) || "{}");
+  const guess = guessRepoFromLocation();
+  return {
+    owner: saved.owner || guess.owner || "",
+    repo: saved.repo || guess.repo || "",
+    branch: saved.branch || "main",
+  };
+}
+
+/** https://OWNER.github.io/REPO/ 形式のURLからowner/repoを推測する */
+function guessRepoFromLocation() {
+  const host = location.hostname; // 例: saku.github.io
+  const m = host.match(/^([^.]+)\.github\.io$/);
+  if (!m) return {};
+  const seg = location.pathname.split("/").filter(Boolean);
+  return { owner: m[1], repo: seg[0] || "" };
+}
+
+function getToken() {
+  return localStorage.getItem(LS_TOKEN) || "";
+}
+
+/** 設定+トークンが揃っているか確認し、なければ設定モーダルを開く */
+function requireAuth() {
+  const cfg = getRepoConfig();
+  const token = getToken();
+  if (!cfg.owner || !cfg.repo || !token) {
+    showStatus("info", "先にGitHub設定 (オーナー・リポジトリ名・トークン) を保存してください。");
+    openModal("settingsModal");
+    return null;
+  }
+  return { ...cfg, token };
+}
+
+/** GitHub APIへの共通fetch。トークンはAuthorizationヘッダでのみ使用する */
+async function ghFetch(path, options = {}, auth) {
+  const res = await fetch("https://api.github.com" + path, {
+    ...options,
+    headers: {
+      Accept: "application/vnd.github+json",
+      Authorization: "Bearer " + auth.token,
+      "X-GitHub-Api-Version": "2022-11-28",
+      ...(options.headers || {}),
+    },
+  });
+  if (!res.ok) {
+    let detail = "";
+    try { detail = (await res.json()).message || ""; } catch { /* 無視 */ }
+    throw new Error(`GitHub API ${res.status}: ${detail || res.statusText}`);
+  }
+  return res;
+}
+
+// ---------- 設定モーダル ----------
+
+function loadRepoConfigIntoForm() {
+  const cfg = getRepoConfig();
+  document.getElementById("cfgOwner").value = cfg.owner;
+  document.getElementById("cfgRepo").value = cfg.repo;
+  document.getElementById("cfgBranch").value = cfg.branch;
+  // トークンはセキュリティ上、フォームに書き戻さない (空欄=保存済みのまま)
+}
+
+function onSaveSettings() {
+  const owner = document.getElementById("cfgOwner").value.trim();
+  const repo = document.getElementById("cfgRepo").value.trim();
+  const branch = document.getElementById("cfgBranch").value.trim() || "main";
+  localStorage.setItem(LS_REPO, JSON.stringify({ owner, repo, branch }));
+
+  const token = document.getElementById("cfgToken").value.trim();
+  if (token) {
+    localStorage.setItem(LS_TOKEN, token);
+    document.getElementById("cfgToken").value = ""; // 入力欄はすぐ消す
+  }
+  closeModal("settingsModal");
+  showStatus("ok", "設定を保存しました。");
+}
+
+function onClearToken() {
+  localStorage.removeItem(LS_TOKEN);
+  showStatus("ok", "保存済みのトークンを削除しました。");
+}
+
+// ---------- サイト追加 ----------
+
+function onClickAddSite() {
+  if (!requireAuth()) return; // トークン未設定なら先に設定モーダルへ
+  openModal("addSiteModal");
+}
+
+async function onSubmitSite() {
+  const auth = requireAuth();
+  if (!auth) return;
+
+  const name = document.getElementById("addName").value.trim();
+  const url = document.getElementById("addUrl").value.trim();
+  const type = document.getElementById("addType").value;
+
+  if (!name || !url) {
+    showStatus("error", "表示名とURLの両方を入力してください。");
+    return;
+  }
+  try { new URL(url); } catch {
+    showStatus("error", "URLの形式が正しくありません。");
+    return;
+  }
+
+  const btn = document.getElementById("btnSubmitSite");
+  btn.disabled = true;
+  try {
+    showStatus("info", "sites.config.json を更新しています…");
+
+    // 1) 現在の sites.config.json とSHAを取得 (GET)
+    const path = `/repos/${auth.owner}/${auth.repo}/contents/docs/sites.config.json`;
+    const getRes = await ghFetch(`${path}?ref=${encodeURIComponent(auth.branch)}`, {}, auth);
+    const fileInfo = await getRes.json();
+    const current = JSON.parse(b64DecodeUtf8(fileInfo.content));
+
+    // 2) 新しいエントリを配列に追加
+    const siteId = generateSiteId(url, current.sites || []);
+    current.sites = current.sites || [];
+    current.sites.push({
+      site_id: siteId,
+      site_name: name,
+      site_url: url,
+      type,
+      status: "active",
+    });
+
+    // 3) PUTでコミット
+    await ghFetch(path, {
+      method: "PUT",
+      body: JSON.stringify({
+        message: `feat: add site "${name}" (${siteId})`,
+        content: b64EncodeUtf8(JSON.stringify(current, null, 2) + "\n"),
+        sha: fileInfo.sha,
+        branch: auth.branch,
+      }),
+    }, auth);
+
+    closeModal("addSiteModal");
+    document.getElementById("addName").value = "";
+    document.getElementById("addUrl").value = "";
+    showStatus("ok",
+      `「${name}」を追加しました (site_id: ${siteId})。「今すぐ取得」を押すと次回更新から反映されます。`);
+  } catch (err) {
+    showStatus("error", "サイト追加に失敗しました: " + err.message);
+  } finally {
+    btn.disabled = false;
+  }
+}
+
+/** URLのホスト名からsite_idを自動生成する (重複時は連番を付ける) */
+function generateSiteId(url, existingSites) {
+  let base = "site";
+  try {
+    const host = new URL(url).hostname;             // 例: glc.yonsei.ac.kr
+    base = host.split(".")[0].replace(/[^a-z0-9]/gi, "").toLowerCase() || "site";
+  } catch { /* デフォルトのまま */ }
+
+  const used = new Set(existingSites.map((s) => s.site_id));
+  if (!used.has(base)) return base;
+  let n = 2;
+  while (used.has(base + n)) n++;
+  return base + n;
+}
+
+// ---------- 今すぐ取得 (workflow_dispatch) ----------
+
+async function onClickScrapeNow() {
+  const auth = requireAuth();
+  if (!auth) return;
+
+  const btn = document.getElementById("btnScrapeNow");
+  btn.disabled = true;
+  try {
+    showStatus("info", "スクレイプを起動しています…");
+    await ghFetch(
+      `/repos/${auth.owner}/${auth.repo}/actions/workflows/scrape.yml/dispatches`,
+      {
+        method: "POST",
+        body: JSON.stringify({ ref: auth.branch }),
+      },
+      auth
+    );
+    showStatus("ok",
+      "スクレイプを起動しました。完了まで1〜2分ほどかかります。しばらくしてからページを再読み込みしてください。");
+  } catch (err) {
+    showStatus("error", "起動に失敗しました: " + err.message);
+  } finally {
+    btn.disabled = false;
+  }
+}
+
+// ============================================================
+//  小物ユーティリティ
+// ============================================================
+
+function openModal(id) { document.getElementById(id).classList.add("open"); }
+function closeModal(id) { document.getElementById(id).classList.remove("open"); }
+
+function showStatus(kind, message) {
+  const el = document.getElementById("status");
+  el.className = kind;
+  el.textContent = message;
+}
+
+/** ISO日時をローカル表示用に整形 */
+function formatDateTime(iso) {
+  try {
+    const d = new Date(iso);
+    return d.toLocaleString("ja-JP", { dateStyle: "medium", timeStyle: "short" });
+  } catch { return iso; }
+}
+
+/** GitHub APIのbase64コンテンツをUTF-8として正しくデコードする */
+function b64DecodeUtf8(b64) {
+  const bin = atob(b64.replace(/\n/g, ""));
+  const bytes = Uint8Array.from(bin, (c) => c.charCodeAt(0));
+  return new TextDecoder("utf-8").decode(bytes);
+}
+
+/** UTF-8文字列をGitHub API用のbase64にエンコードする */
+function b64EncodeUtf8(str) {
+  const bytes = new TextEncoder().encode(str);
+  let bin = "";
+  for (let i = 0; i < bytes.length; i += 0x8000) {
+    bin += String.fromCharCode.apply(null, bytes.subarray(i, i + 0x8000));
+  }
+  return btoa(bin);
+}
+</script>
+</body>
+</html>

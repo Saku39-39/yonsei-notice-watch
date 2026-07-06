@@ -1,0 +1,49 @@
+# .github/workflows/scrape.yml
+# 6時間ごと + 手動(workflow_dispatch)で公지사항をスクレイプし、
+# data/notices.json に変更があれば自動コミット&プッシュする。
+
+name: scrape
+
+on:
+  schedule:
+    # 6時間ごと (UTC基準。KSTでは 09:00 / 15:00 / 21:00 / 03:00)
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {} # ダッシュボードの「今すぐ取得」ボタンからAPI経由で起動される
+
+permissions:
+  contents: write # 生成したJSONをコミットするために必要
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Node.js をセットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: 依存パッケージをインストール
+        run: npm ci
+
+      - name: スクレイプを実行
+        run: node scripts/scrape.js
+
+      - name: 変更があればコミット&プッシュ
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/notices.json docs/data/notices.json
+          if git diff --cached --quiet; then
+            echo "変更なし。コミットをスキップします。"
+          else
+            git commit -m "chore: update notices.json ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi

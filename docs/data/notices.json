@@ -1,0 +1,142 @@
+{
+  "generated_at": "2026-07-06T11:21:29.729Z",
+  "sites": [
+    {
+      "site_id": "graduate",
+      "site_name": "대학원 교내공지",
+      "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
+      "type": "jwxe",
+      "status": "ok",
+      "fetched_at": "2026-07-06T11:21:29.712Z",
+      "count": 6,
+      "items": [
+        {
+          "id": "250944",
+          "title": "2026-2학기 대학원 등록금 납부 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=250944&article.offset=0&articleLimit=10",
+          "date": "2026-07-03",
+          "category": null,
+          "pinned": true
+        },
+        {
+          "id": "250901",
+          "title": "2026학년도 2학기 BK21 장학조교 모집 공고",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=250901",
+          "date": "2026-07-01",
+          "category": null,
+          "pinned": true
+        },
+        {
+          "id": "250938",
+          "title": "2026-2학기 외국인 유학생 장학금 신청 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=250938&article.offset=0&articleLimit=10",
+          "date": "2026-07-02",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "250921",
+          "title": "대학원 학위논문 제출 일정 안내 (2026년 8월 졸업)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=250921",
+          "date": "2026-06-30",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "250897",
+          "title": "연구윤리 교육 이수 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=250897",
+          "date": "2026-06-27",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "250880",
+          "title": "2026-여름 계절학기 성적 열람 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=250880",
+          "date": "2026-06-25",
+          "category": null,
+          "pinned": false
+        }
+      ]
+    },
+    {
+      "site_id": "socsci",
+      "site_name": "사회과학대학 공지사항",
+      "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
+      "type": "jwxe",
+      "status": "ok",
+      "fetched_at": "2026-07-06T11:21:29.715Z",
+      "count": 3,
+      "items": [
+        {
+          "id": "88213",
+          "title": "2026-2학기 수강신청 일정 안내",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=88213",
+          "date": "2026-07-02",
+          "category": null,
+          "pinned": true
+        },
+        {
+          "id": "88201",
+          "title": "사회과학대학 콜로키움 개최 안내 (7월)",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=88201",
+          "date": "2026-06-29",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "88188",
+          "title": "문화인류학과 대학원 세미나실 이용 안내",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=88188",
+          "date": "2026-06-26",
+          "category": null,
+          "pinned": false
+        }
+      ]
+    },
+    {
+      "site_id": "glc",
+      "site_name": "글로벌인재대학(GLC) 전체공지",
+      "site_url": "https://glc.yonsei.ac.kr/notice/",
+      "type": "kboard",
+      "status": "ok",
+      "fetched_at": "2026-07-06T11:21:29.729Z",
+      "count": 4,
+      "items": [
+        {
+          "id": "5120",
+          "title": "2026-2학기 재학생 등록 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=5120",
+          "date": "2026-07-03",
+          "category": "학사",
+          "pinned": true
+        },
+        {
+          "id": "5112",
+          "title": "2026-2학기 교내장학금 신청 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=5112&pageid=1",
+          "date": "2026-07-01",
+          "category": "장학",
+          "pinned": false
+        },
+        {
+          "id": "5098",
+          "title": "글로벌 문화교류 프로그램 참가자 모집",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=5098&pageid=1",
+          "date": "2026-06-28",
+          "category": "행사",
+          "pinned": false
+        },
+        {
+          "id": "5091",
+          "title": "여름방학 중 행정실 운영시간 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=5091&pageid=1",
+          "date": "2026-06-25",
+          "category": "학사",
+          "pinned": false
+        }
+      ]
+    }
+  ]
+}

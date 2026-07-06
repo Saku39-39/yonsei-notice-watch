@@ -1,0 +1,25 @@
+{
+  "sites": [
+    {
+      "site_id": "graduate",
+      "site_name": "대학원 교내공지",
+      "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
+      "type": "jwxe",
+      "status": "active"
+    },
+    {
+      "site_id": "socsci",
+      "site_name": "사회과학대학 공지사항",
+      "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
+      "type": "jwxe",
+      "status": "active"
+    },
+    {
+      "site_id": "glc",
+      "site_name": "글로벌인재대학(GLC) 전체공지",
+      "site_url": "https://glc.yonsei.ac.kr/notice/",
+      "type": "kboard",
+      "status": "active"
+    }
+  ]
+}
