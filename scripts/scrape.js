@@ -26,7 +26,7 @@ const OUTPUT_PATH = path.join(ROOT, "data", "notices.json");
 const DOCS_OUTPUT_PATH = path.join(ROOT, "docs", "data", "notices.json");
 const FIXTURES_DIR = path.join(ROOT, "test", "fixtures");
 
-const MAX_ITEMS_PER_SITE = 50; // 各サイト直近50件程度
+const MAX_ITEMS_PER_SITE = 20; // 各サイト直近50件程度
 const FETCH_TIMEOUT_MS = 30000;
 
 // typeに応じたパーサーの対応表
