@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T12:01:35.733Z",
+  "generated_at": "2026-07-06T13:44:29.951Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,8 +7,8 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-06T12:01:29.998Z",
-      "count": 23,
+      "fetched_at": "2026-07-06T13:44:25.430Z",
+      "count": 20,
       "items": [
         {
           "id": "474223",
@@ -169,30 +169,6 @@
           "date": "2026-06-05",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "472554",
-          "title": "[논문] 학술지『해양유산연구』제25호(특별호) 논문 모집 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=472554&article.offset=0&articleLimit=10",
-          "date": "2026-06-05",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "472517",
-          "title": "[기타] 2026-1학기 외국인 대학원생 Peer-Mentoring 동료 멘토링 프로그램 운영 및 신청 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=472517&article.offset=0&articleLimit=10",
-          "date": "2026-06-04",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "471316",
-          "title": "[장학] 2026학년도 2학기 삼성꿈장학재단 글로벌 희망장학생 공모",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=471316&article.offset=0&articleLimit=10",
-          "date": "2026-05-19",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -202,8 +178,8 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-06T12:01:32.122Z",
-      "count": 22,
+      "fetched_at": "2026-07-06T13:44:27.992Z",
+      "count": 20,
       "items": [
         {
           "id": "451529",
@@ -364,22 +340,6 @@
           "date": "2026-04-08",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "468343",
-          "title": "2026년 1학기 졸업앨범 촬영 일정 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=468343&article.offset=0&articleLimit=10",
-          "date": "2026-04-07",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "468209",
-          "title": "2026학년도 1학기 학부 수강과목 철회 안내(4. 14.(화) 09:00 ~ 4. 16.(목) 23:59)",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=468209&article.offset=0&articleLimit=10",
-          "date": "2026-04-06",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -389,8 +349,8 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-06T12:01:33.864Z",
-      "count": 36,
+      "fetched_at": "2026-07-06T13:44:29.951Z",
+      "count": 20,
       "items": [
         {
           "id": "2115",
@@ -551,156 +511,8 @@
           "date": "2026-06-25",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2107",
-          "title": "[슈피겐코리아] 고용노동부 청년일경험사업 연계, 글로벌 메이커스 인턴십 모집(~6/14(일)까지)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2107",
-          "date": "2026-06-09",
-          "category": "취업",
-          "pinned": false
-        },
-        {
-          "id": "2104",
-          "title": "[(주)에이바이오머티리얼즈] 화장품/식품 원료 해외영업 인재 채용 (D-22)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2104",
-          "date": "2026-06-04",
-          "category": "취업",
-          "pinned": false
-        },
-        {
-          "id": "2103",
-          "title": "[농어촌희망재단]2026년 2학기 농림축산식품부 대학장학금 선발안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2103",
-          "date": "2026-06-04",
-          "category": "장학",
-          "pinned": false
-        },
-        {
-          "id": "2102",
-          "title": "[서울시립미술관] 2026 외국어 도슨트 역량강화교육",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2102",
-          "date": "2026-06-02",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2101",
-          "title": "‘2026년 해외조달시장 전문인력 양성과정’ 교육생 모집(6.7(일)까지)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2101",
-          "date": "2026-06-02",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2100",
-          "title": "2026-2학기 바이오생활전공실험1(여름방학 인턴) 신청서 접수 공지",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2100",
-          "date": "2026-06-01",
-          "category": "학사",
-          "pinned": false
-        },
-        {
-          "id": "2099",
-          "title": "국립국어원 「우리말 어원(역사) 사전」 이름 짓기 공모전",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2099",
-          "date": "2026-06-01",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2098",
-          "title": "2026학년도 여름학기 GLC행정팀 근로장학생(자체) 모집 공고",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2098",
-          "date": "2026-05-28",
-          "category": "장학",
-          "pinned": false
-        },
-        {
-          "id": "2097",
-          "title": "[IDP] 2026 호주·캐나다 유학박람회 안내 (6월 13일)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2097",
-          "date": "2026-05-26",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2096",
-          "title": "2026년도 식품외식·푸드테크 기술사업화 교육생 모집",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2096",
-          "date": "2026-05-21",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2095",
-          "title": "[슈피겐코리아] 2026년 글로벌 메이커스 인턴십 모집(~5/25(월)까지)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2095",
-          "date": "2026-05-20",
-          "category": "취업",
-          "pinned": false
-        },
-        {
-          "id": "2094",
-          "title": "2026학년도 2학기 한국장학재단 'AI학업장려 학자금대출' 사업 안내 (대상: 응용정보공학전공)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2094",
-          "date": "2026-05-19",
-          "category": "장학",
-          "pinned": false
-        },
-        {
-          "id": "2093",
-          "title": "2026년도 산학협동재단 국내 외국인 근로자 자녀 장학생 선발 안내 (~6/7 마감)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2093",
-          "date": "2026-05-19",
-          "category": "장학",
-          "pinned": false
-        },
-        {
-          "id": "2090",
-          "title": "[한-아세안센터] 아세안+3 청년 리트릿(ASEAN+3 Youth Retreat) 프로그램",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2090",
-          "date": "2026-05-15",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2089",
-          "title": "2026 월정사 글로벌 리더 여름 캠프(SEON; In Full Bloom of Light)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2089",
-          "date": "2026-05-14",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2088",
-          "title": "[NAVER Z] 6월 전분야 체험형 인턴 (2차)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2088",
-          "date": "2026-05-14",
-          "category": "취업",
-          "pinned": false
         }
       ]
-    },
-    {
-      "site_id": "ysgsa",
-      "site_name": "대학원 총학생회",
-      "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
-      "type": "generic",
-      "status": "ok",
-      "fetched_at": "2026-07-06T12:01:35.127Z",
-      "count": 0,
-      "items": []
-    },
-    {
-      "site_id": "ysgsa2",
-      "site_name": "대학원 총학생회",
-      "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
-      "type": "jwxe",
-      "status": "ok",
-      "fetched_at": "2026-07-06T12:01:35.733Z",
-      "count": 0,
-      "items": []
     }
   ]
 }
