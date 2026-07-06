@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T11:53:30.434Z",
+  "generated_at": "2026-07-06T11:58:13.559Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-06T11:53:26.314Z",
+      "fetched_at": "2026-07-06T11:58:08.151Z",
       "count": 23,
       "items": [
         {
@@ -202,7 +202,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-06T11:53:28.981Z",
+      "fetched_at": "2026-07-06T11:58:10.181Z",
       "count": 22,
       "items": [
         {
@@ -389,7 +389,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-06T11:53:30.434Z",
+      "fetched_at": "2026-07-06T11:58:12.054Z",
       "count": 36,
       "items": [
         {
@@ -681,6 +681,16 @@
           "pinned": false
         }
       ]
+    },
+    {
+      "site_id": "ysgsa",
+      "site_name": "대학원 총학생회",
+      "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
+      "type": "generic",
+      "status": "ok",
+      "fetched_at": "2026-07-06T11:58:13.559Z",
+      "count": 0,
+      "items": []
     }
   ]
 }
