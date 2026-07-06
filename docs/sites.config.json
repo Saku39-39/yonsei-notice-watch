@@ -20,20 +20,6 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "active"
-    },
-    {
-      "site_id": "ysgsa",
-      "site_name": "대학원 총학생회",
-      "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
-      "type": "generic",
-      "status": "active"
-    },
-    {
-      "site_id": "ysgsa2",
-      "site_name": "대학원 총학생회",
-      "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
-      "type": "jwxe",
-      "status": "active"
     }
   ]
 }
