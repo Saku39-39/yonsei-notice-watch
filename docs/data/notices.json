@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T01:50:47.641Z",
+  "generated_at": "2026-07-07T09:19:25.294Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-07T01:50:42.273Z",
+      "fetched_at": "2026-07-07T09:19:20.324Z",
       "count": 20,
       "items": [
+        {
+          "id": "474616",
+          "title": "[공지] [학적] 2026학년도 2학기 재입학 안내 (2026 Fall Semester Re-Admission Application Guidelines)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=474616&article.offset=0&articleLimit=10",
+          "date": "2026-07-07",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "474223",
           "title": "[공지] [등록] 2026년 2학기 농촌 출신 대학원생 학자금대출 신청 안내",
@@ -161,14 +169,6 @@
           "date": "2026-06-05",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "472555",
-          "title": "[논문] 등재학술지 한국교육 제53권 제2호 게재논문 및 제20회 KEDI 데이터 연구 학술대회 논문 공모 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=472555&article.offset=0&articleLimit=10",
-          "date": "2026-06-05",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-07T01:50:44.071Z",
+      "fetched_at": "2026-07-07T09:19:21.964Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-07T01:50:45.970Z",
+      "fetched_at": "2026-07-07T09:19:23.850Z",
       "count": 20,
       "items": [
         {
@@ -481,6 +481,14 @@
           "pinned": true
         },
         {
+          "id": "2117",
+          "title": "[Morgan Stanley] 2027 Asia Internship Programs New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2117",
+          "date": "2026-07-07",
+          "category": "취업",
+          "pinned": false
+        },
+        {
           "id": "2112",
           "title": "[밥게이트(Bobgate)] 게임 번역 전문 회사 밥게이트(Bobgate) 채용",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2112",
@@ -503,14 +511,6 @@
           "date": "2026-06-26",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2108",
-          "title": "세계은행그룹(World Bank Group) 채용 설명회 개최 안내 [7.1.(수) 12:00]",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2108",
-          "date": "2026-06-25",
-          "category": "취업",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-07T01:50:47.641Z",
+      "fetched_at": "2026-07-07T09:19:25.294Z",
       "count": 0,
       "items": []
     }
