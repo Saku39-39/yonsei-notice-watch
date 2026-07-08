@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T01:22:03.235Z",
+  "generated_at": "2026-07-08T08:04:13.695Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-08T01:21:56.784Z",
+      "fetched_at": "2026-07-08T08:04:06.888Z",
       "count": 20,
       "items": [
+        {
+          "id": "474680",
+          "title": "[공지] [등록] 2026학년도 일반대학원 신입생 추가 등록 신청 안내 (신촌, 국제캠퍼스)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=474680&article.offset=0&articleLimit=10",
+          "date": "2026-07-08",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "474616",
           "title": "[공지] [학적] 2026학년도 2학기 재입학 안내 (2026 Fall Semester Re-Admission Application Guidelines)",
@@ -161,14 +169,6 @@
           "date": "2026-06-05",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "472562",
-          "title": "[논문] [주시경교양교육연구소] 교양교육 전문 학술지 「대학교양교육연구」제11권 제2호(통권 23호) 발간 사업 시행",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=472562&article.offset=0&articleLimit=10",
-          "date": "2026-06-05",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-08T01:21:59.397Z",
+      "fetched_at": "2026-07-08T08:04:09.028Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-08T01:22:01.873Z",
+      "fetched_at": "2026-07-08T08:04:11.707Z",
       "count": 20,
       "items": [
         {
@@ -482,7 +482,7 @@
         },
         {
           "id": "2117",
-          "title": "[Morgan Stanley] 2027 Asia Internship Programs New",
+          "title": "[Morgan Stanley] 2027 Asia Internship Programs",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2117",
           "date": "2026-07-07",
           "category": "취업",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-08T01:22:03.234Z",
+      "fetched_at": "2026-07-08T08:04:13.694Z",
       "count": 0,
       "items": []
     }
