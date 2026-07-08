@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T13:24:48.691Z",
+  "generated_at": "2026-07-08T19:02:30.952Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-08T13:24:43.813Z",
+      "fetched_at": "2026-07-08T19:02:24.815Z",
       "count": 20,
       "items": [
         {
@@ -63,14 +63,6 @@
           "title": "[공지] [입학] 2026학년도 2학기 합격자 안내서 안내",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=473480&article.offset=0&articleLimit=10",
           "date": "2026-06-17",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "473144",
-          "title": "[공지] [수업] 2026-1학기 대학원 기말 강의평가 실시 안내 (2026 Spring Semester Course Evaluations)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=473144&article.offset=0&articleLimit=10",
-          "date": "2026-06-12",
           "category": null,
           "pinned": true
         },
@@ -155,6 +147,14 @@
           "pinned": false
         },
         {
+          "id": "473144",
+          "title": "[수업] 2026-1학기 대학원 기말 강의평가 실시 안내 (2026 Spring Semester Course Evaluations)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=473144&article.offset=0&articleLimit=10",
+          "date": "2026-06-12",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "472607",
           "title": "[기타] 2026-1 외국인 대학원생 학사-문화 연계 탐방 참가자 모집 안내 2026 Summer Cultural Exploration Tour for International Graduate Students",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=472607&article.offset=0&articleLimit=10",
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-08T13:24:45.626Z",
+      "fetched_at": "2026-07-08T19:02:26.934Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-08T13:24:47.684Z",
+      "fetched_at": "2026-07-08T19:02:29.203Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-08T13:24:48.690Z",
+      "fetched_at": "2026-07-08T19:02:30.952Z",
       "count": 0,
       "items": []
     }
