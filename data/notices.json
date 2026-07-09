@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T19:02:30.952Z",
+  "generated_at": "2026-07-09T01:30:34.824Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-08T19:02:24.815Z",
+      "fetched_at": "2026-07-09T01:30:30.124Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-08T19:02:26.934Z",
+      "fetched_at": "2026-07-09T01:30:32.052Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-08T19:02:29.203Z",
+      "fetched_at": "2026-07-09T01:30:33.441Z",
       "count": 20,
       "items": [
         {
@@ -481,6 +481,14 @@
           "pinned": true
         },
         {
+          "id": "2118",
+          "title": "AI 기반 대학수학 학습지원 프로그램 Math-uP Plus 참가자 모집 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2118",
+          "date": "2026-07-09",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2117",
           "title": "[Morgan Stanley] 2027 Asia Internship Programs",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2117",
@@ -503,14 +511,6 @@
           "date": "2026-06-29",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2109",
-          "title": "ABInBev Korea 오비맥주 2026년 TET 신입사원 채용",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2109",
-          "date": "2026-06-26",
-          "category": "취업",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-08T19:02:30.952Z",
+      "fetched_at": "2026-07-09T01:30:34.824Z",
       "count": 0,
       "items": []
     }
