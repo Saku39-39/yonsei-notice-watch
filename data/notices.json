@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T01:27:57.085Z",
+  "generated_at": "2026-07-10T08:56:20.215Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-10T01:27:52.596Z",
+      "fetched_at": "2026-07-10T08:56:15.472Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-10T01:27:53.881Z",
+      "fetched_at": "2026-07-10T08:56:17.300Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-10T01:27:56.138Z",
+      "fetched_at": "2026-07-10T08:56:18.569Z",
       "count": 20,
       "items": [
         {
@@ -481,6 +481,14 @@
           "pinned": true
         },
         {
+          "id": "2119",
+          "title": "[토스] 외국인 유학생 대상 실무 프로젝트 대외활동 '토스 포리너 브릿지 크루 2기' 모집 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2119",
+          "date": "2026-07-10",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2118",
           "title": "AI 기반 대학수학 학습지원 프로그램 Math-uP Plus 참가자 모집",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2118",
@@ -503,14 +511,6 @@
           "date": "2026-06-30",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2111",
-          "title": "[SNOW] 8월 전분야 체험형 인턴 모집",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2111",
-          "date": "2026-06-29",
-          "category": "취업",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-10T01:27:57.085Z",
+      "fetched_at": "2026-07-10T08:56:20.214Z",
       "count": 0,
       "items": []
     }
