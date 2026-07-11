@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T12:46:34.308Z",
+  "generated_at": "2026-07-11T18:41:28.969Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-11T12:46:27.227Z",
+      "fetched_at": "2026-07-11T18:41:23.153Z",
       "count": 20,
       "items": [
         {
@@ -91,14 +91,6 @@
           "pinned": true
         },
         {
-          "id": "464079",
-          "title": "[공지] [논문] 2026학년도 1학기 학위논문 연구계획서 제출 및 논문심사 일정 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=464079&article.offset=0&articleLimit=10",
-          "date": "2026-02-10",
-          "category": null,
-          "pinned": true
-        },
-        {
           "id": "462347",
           "title": "[공지] [기타] 2026년 연세대학교 대학원 기관토플 시행 안내",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=462347&article.offset=0&articleLimit=10",
@@ -169,6 +161,14 @@
           "date": "2026-06-05",
           "category": null,
           "pinned": false
+        },
+        {
+          "id": "472562",
+          "title": "[논문] [주시경교양교육연구소] 교양교육 전문 학술지 「대학교양교육연구」제11권 제2호(통권 23호) 발간 사업 시행",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=472562&article.offset=0&articleLimit=10",
+          "date": "2026-06-05",
+          "category": null,
+          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-11T12:46:29.882Z",
+      "fetched_at": "2026-07-11T18:41:25.602Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-11T12:46:32.379Z",
+      "fetched_at": "2026-07-11T18:41:27.461Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-11T12:46:34.308Z",
+      "fetched_at": "2026-07-11T18:41:28.969Z",
       "count": 0,
       "items": []
     }
