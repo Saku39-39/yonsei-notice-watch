@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T01:24:24.154Z",
+  "generated_at": "2026-07-13T08:42:04.751Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-13T01:24:19.789Z",
+      "fetched_at": "2026-07-13T08:42:00.077Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-13T01:24:21.597Z",
+      "fetched_at": "2026-07-13T08:42:01.604Z",
       "count": 20,
       "items": [
         {
@@ -278,6 +278,14 @@
           "pinned": true
         },
         {
+          "id": "474852",
+          "title": "2026학년도 여름 계절제 학부 강의정보 공유를 위한 설문 실시 안내( 7. 23.(목) ~ 7. 29.(수))",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=474852&article.offset=0&articleLimit=10",
+          "date": "2026-07-13",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "472716",
           "title": "2026학년도 2학기 캠퍼스내/졸업예정자 복수전공, 융복합전공(연계,융합전공) 신청 안내",
           "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=472716&article.offset=0&articleLimit=10",
@@ -332,14 +340,6 @@
           "date": "2026-04-17",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "468468",
-          "title": "2026학년도 2학기 캠퍼스내 소속변경 전형 안내(2026. 4. 28.(화) ~ 5. 4.(월) 17:00까지)",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=468468&article.offset=0&articleLimit=10",
-          "date": "2026-04-08",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-13T01:24:22.893Z",
+      "fetched_at": "2026-07-13T08:42:03.003Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-13T01:24:24.154Z",
+      "fetched_at": "2026-07-13T08:42:04.750Z",
       "count": 0,
       "items": []
     }
