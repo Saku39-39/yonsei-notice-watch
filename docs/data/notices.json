@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T07:46:41.658Z",
+  "generated_at": "2026-07-15T13:04:28.232Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-15T07:46:36.280Z",
+      "fetched_at": "2026-07-15T13:04:22.091Z",
       "count": 20,
       "items": [
         {
@@ -115,6 +115,22 @@
           "pinned": true
         },
         {
+          "id": "475027",
+          "title": "[수업] 광주과학기술원(GIST) 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 20.(월) 13:00]",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475027&article.offset=0&articleLimit=10",
+          "date": "2026-07-15",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "475026",
+          "title": "[수업] 성균관대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 20.(월) 13:00]",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475026&article.offset=0&articleLimit=10",
+          "date": "2026-07-15",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "474591",
           "title": "[수업] 서울대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 10.(금) 13:00]",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=474591&article.offset=0&articleLimit=10",
@@ -153,22 +169,6 @@
           "date": "2026-06-05",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "472565",
-          "title": "[논문] 동신대학교 창의융복합연구 제4권 제1호 논문투고 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=472565&article.offset=0&articleLimit=10",
-          "date": "2026-06-05",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "472562",
-          "title": "[논문] [주시경교양교육연구소] 교양교육 전문 학술지 「대학교양교육연구」제11권 제2호(통권 23호) 발간 사업 시행",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=472562&article.offset=0&articleLimit=10",
-          "date": "2026-06-05",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-15T07:46:37.966Z",
+      "fetched_at": "2026-07-15T13:04:24.336Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-15T07:46:39.918Z",
+      "fetched_at": "2026-07-15T13:04:26.794Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-15T07:46:41.658Z",
+      "fetched_at": "2026-07-15T13:04:28.231Z",
       "count": 0,
       "items": []
     }
