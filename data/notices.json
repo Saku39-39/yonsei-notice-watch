@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T07:51:39.980Z",
+  "generated_at": "2026-07-16T13:13:06.742Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-16T07:51:33.884Z",
+      "fetched_at": "2026-07-16T13:13:02.351Z",
       "count": 20,
       "items": [
         {
@@ -115,6 +115,30 @@
           "pinned": true
         },
         {
+          "id": "475161",
+          "title": "[수업] 울산과학기술원(UNIST) 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 23.(수) 13:00]",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475161&article.offset=0&articleLimit=10",
+          "date": "2026-07-16",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "475159",
+          "title": "[수업] 한국과학기술원(KAIST) 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 22.(수) 13:00]",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475159&article.offset=0&articleLimit=10",
+          "date": "2026-07-16",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "475157",
+          "title": "[수업] 아주대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 22.(수) 13:00]",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475157&article.offset=0&articleLimit=10",
+          "date": "2026-07-16",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "475149",
           "title": "[기타] 연세대학교 대학원 글로벌성공센터 직원(대체근로자) 모집",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475149&article.offset=0&articleLimit=10",
@@ -145,30 +169,6 @@
           "date": "2026-07-06",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "473484",
-          "title": "[입학] 2026학년도 후기 일반대학원(미래캠퍼스) 특별전형 원서접수 및 서류(PDF파일) 제출 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=473484&article.offset=0&articleLimit=10",
-          "date": "2026-06-17",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "473286",
-          "title": "[장학] [3.1문화재단] 2026학년도 장학생 모집 공고",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=473286&article.offset=0&articleLimit=10",
-          "date": "2026-06-15",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "473144",
-          "title": "[수업] 2026-1학기 대학원 기말 강의평가 실시 안내 (2026 Spring Semester Course Evaluations)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=473144&article.offset=0&articleLimit=10",
-          "date": "2026-06-12",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-16T07:51:36.468Z",
+      "fetched_at": "2026-07-16T13:13:03.487Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-16T07:51:38.125Z",
+      "fetched_at": "2026-07-16T13:13:05.504Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-16T07:51:39.980Z",
+      "fetched_at": "2026-07-16T13:13:06.741Z",
       "count": 0,
       "items": []
     }
