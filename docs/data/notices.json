@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T01:19:51.890Z",
+  "generated_at": "2026-07-16T07:51:39.980Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-16T01:19:47.170Z",
+      "fetched_at": "2026-07-16T07:51:33.884Z",
       "count": 20,
       "items": [
         {
@@ -115,6 +115,14 @@
           "pinned": true
         },
         {
+          "id": "475149",
+          "title": "[기타] 연세대학교 대학원 글로벌성공센터 직원(대체근로자) 모집",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475149&article.offset=0&articleLimit=10",
+          "date": "2026-07-16",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "475027",
           "title": "[수업] 광주과학기술원(GIST) 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 20.(월) 13:00]",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475027&article.offset=0&articleLimit=10",
@@ -161,14 +169,6 @@
           "date": "2026-06-12",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "472607",
-          "title": "[기타] 2026-1 외국인 대학원생 학사-문화 연계 탐방 참가자 모집 안내 2026 Summer Cultural Exploration Tour for International Graduate Students",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=472607&article.offset=0&articleLimit=10",
-          "date": "2026-06-05",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-16T01:19:48.979Z",
+      "fetched_at": "2026-07-16T07:51:36.468Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-16T01:19:50.968Z",
+      "fetched_at": "2026-07-16T07:51:38.125Z",
       "count": 20,
       "items": [
         {
@@ -482,7 +482,7 @@
         },
         {
           "id": "2122",
-          "title": "[알파사이츠] 2026년 하반기 주요 고객사 프로젝트 담당자 [신입/Trainee] 채용 New",
+          "title": "[알파사이츠] 2026년 하반기 주요 고객사 프로젝트 담당자 [신입/Trainee] 채용",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2122",
           "date": "2026-07-15",
           "category": "취업",
@@ -490,7 +490,7 @@
         },
         {
           "id": "2121",
-          "title": "[현대자동차] 외국인 유학생 인턴십 (채용전환형) New",
+          "title": "[현대자동차] 외국인 유학생 인턴십 (채용전환형)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2121",
           "date": "2026-07-15",
           "category": "취업",
@@ -498,7 +498,7 @@
         },
         {
           "id": "2120",
-          "title": "[NAVER Z] 8월 전분야 체험형 인턴 New",
+          "title": "[NAVER Z] 8월 전분야 체험형 인턴",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2120",
           "date": "2026-07-15",
           "category": "취업",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-16T01:19:51.889Z",
+      "fetched_at": "2026-07-16T07:51:39.980Z",
       "count": 0,
       "items": []
     }
