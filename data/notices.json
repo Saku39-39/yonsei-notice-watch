@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T13:13:06.742Z",
+  "generated_at": "2026-07-16T18:52:43.109Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,17 +7,9 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-16T13:13:02.351Z",
+      "fetched_at": "2026-07-16T18:52:37.234Z",
       "count": 20,
       "items": [
-        {
-          "id": "474680",
-          "title": "[공지] [등록] 2026학년도 일반대학원 신입생 추가 등록 신청 안내 (신촌, 국제캠퍼스)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=474680&article.offset=0&articleLimit=10",
-          "date": "2026-07-08",
-          "category": null,
-          "pinned": true
-        },
         {
           "id": "474616",
           "title": "[공지] [학적] 2026학년도 2학기 재입학 안내 (2026 Fall Semester Re-Admission Application Guidelines)",
@@ -163,6 +155,14 @@
           "pinned": false
         },
         {
+          "id": "474680",
+          "title": "[등록] 2026학년도 일반대학원 신입생 추가 등록 신청 안내 (신촌, 국제캠퍼스)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=474680&article.offset=0&articleLimit=10",
+          "date": "2026-07-08",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "474591",
           "title": "[수업] 서울대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 10.(금) 13:00]",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=474591&article.offset=0&articleLimit=10",
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-16T13:13:03.487Z",
+      "fetched_at": "2026-07-16T18:52:39.060Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-16T13:13:05.504Z",
+      "fetched_at": "2026-07-16T18:52:41.323Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-16T13:13:06.741Z",
+      "fetched_at": "2026-07-16T18:52:43.109Z",
       "count": 0,
       "items": []
     }
