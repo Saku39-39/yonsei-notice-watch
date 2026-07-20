@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T01:24:41.577Z",
+  "generated_at": "2026-07-20T08:33:55.562Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-20T01:24:32.059Z",
+      "fetched_at": "2026-07-20T08:33:49.807Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-20T01:24:36.498Z",
+      "fetched_at": "2026-07-20T08:33:51.976Z",
       "count": 20,
       "items": [
         {
@@ -278,6 +278,14 @@
           "pinned": true
         },
         {
+          "id": "475230",
+          "title": "[안내] 2026학년도 행정팀 여름방학 집중휴가(2026.7.27.~7.31.) 실시 안내",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=475230&article.offset=0&articleLimit=10",
+          "date": "2026-07-20",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "474938",
           "title": "[학부] 2026년 8월 학위가운 대여 세탁.보관료 납부 및 대여안내 (연희관 107호)",
           "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=474938&article.offset=0&articleLimit=10",
@@ -332,14 +340,6 @@
           "date": "2026-05-13",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "470596",
-          "title": "2026학년도 2학기 학생설계전공 신청 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=470596&article.offset=0&articleLimit=10",
-          "date": "2026-05-08",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -349,9 +349,17 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-20T01:24:39.901Z",
+      "fetched_at": "2026-07-20T08:33:53.703Z",
       "count": 20,
       "items": [
+        {
+          "id": "2123",
+          "title": "2026-2학기 바이오생활창의설계2 사전 신청서 모집 (~7/31 마감) New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2123",
+          "date": "2026-07-20",
+          "category": "학사",
+          "pinned": true
+        },
         {
           "id": "2115",
           "title": "2026학년도 2학기 연세대학교 글로벌인재대학 강사 채용공고",
@@ -481,6 +489,14 @@
           "pinned": true
         },
         {
+          "id": "2124",
+          "title": "TEST New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2124",
+          "date": "2026-07-20",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "2122",
           "title": "[알파사이츠] 2026년 하반기 주요 고객사 프로젝트 담당자 [신입/Trainee] 채용",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2122",
@@ -495,22 +511,6 @@
           "date": "2026-07-15",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2120",
-          "title": "[NAVER Z] 8월 전분야 체험형 인턴",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2120",
-          "date": "2026-07-15",
-          "category": "취업",
-          "pinned": false
-        },
-        {
-          "id": "2119",
-          "title": "[토스] 외국인 유학생 대상 실무 프로젝트 대외활동 '토스 포리너 브릿지 크루 2기' 모집",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2119",
-          "date": "2026-07-10",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-20T01:24:41.576Z",
+      "fetched_at": "2026-07-20T08:33:55.561Z",
       "count": 0,
       "items": []
     }
