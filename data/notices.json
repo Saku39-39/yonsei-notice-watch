@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T01:20:57.567Z",
+  "generated_at": "2026-07-21T08:03:50.835Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-21T01:20:49.650Z",
+      "fetched_at": "2026-07-21T08:03:45.441Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-21T01:20:53.088Z",
+      "fetched_at": "2026-07-21T08:03:48.342Z",
       "count": 20,
       "items": [
         {
@@ -349,12 +349,12 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-21T01:20:55.775Z",
+      "fetched_at": "2026-07-21T08:03:49.907Z",
       "count": 20,
       "items": [
         {
           "id": "2124",
-          "title": "2026-2학기 재학생(GBED) GLC 교양 교과목 수강신청 안내(TEST) New",
+          "title": "2026-2학기 재학생(GBED) GLC 교양 교과목 수강신청 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2124",
           "date": "2026-07-20",
           "category": "학사",
@@ -362,7 +362,7 @@
         },
         {
           "id": "2123",
-          "title": "2026-2학기 바이오생활창의설계2 사전 신청서 모집 (~7/31 마감) New",
+          "title": "2026-2학기 바이오생활창의설계2 사전 신청서 모집 (~7/31 마감)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2123",
           "date": "2026-07-20",
           "category": "학사",
@@ -497,17 +497,17 @@
           "pinned": true
         },
         {
-          "id": "2122",
-          "title": "[알파사이츠] 2026년 하반기 주요 고객사 프로젝트 담당자 [신입/Trainee] 채용",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2122",
-          "date": "2026-07-15",
-          "category": "취업",
+          "id": "2125",
+          "title": "[국회사무처] 2026년도 국회 대학(원)생 아카데미(2차) 과정 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2125",
+          "date": "2026-07-21",
+          "category": "일반",
           "pinned": false
         },
         {
-          "id": "2121",
-          "title": "[현대자동차] 외국인 유학생 인턴십 (채용전환형)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2121",
+          "id": "2122",
+          "title": "[알파사이츠] 2026년 하반기 주요 고객사 프로젝트 담당자 [신입/Trainee] 채용",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2122",
           "date": "2026-07-15",
           "category": "취업",
           "pinned": false
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-21T01:20:57.566Z",
+      "fetched_at": "2026-07-21T08:03:50.835Z",
       "count": 0,
       "items": []
     }
