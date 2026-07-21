@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T19:21:10.489Z",
+  "generated_at": "2026-07-21T01:20:57.567Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-20T19:21:03.717Z",
+      "fetched_at": "2026-07-21T01:20:49.650Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-20T19:21:06.212Z",
+      "fetched_at": "2026-07-21T01:20:53.088Z",
       "count": 20,
       "items": [
         {
@@ -349,9 +349,17 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-20T19:21:08.439Z",
+      "fetched_at": "2026-07-21T01:20:55.775Z",
       "count": 20,
       "items": [
+        {
+          "id": "2124",
+          "title": "2026-2학기 재학생(GBED) GLC 교양 교과목 수강신청 안내(TEST) New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2124",
+          "date": "2026-07-20",
+          "category": "학사",
+          "pinned": true
+        },
         {
           "id": "2123",
           "title": "2026-2학기 바이오생활창의설계2 사전 신청서 모집 (~7/31 마감) New",
@@ -489,14 +497,6 @@
           "pinned": true
         },
         {
-          "id": "2124",
-          "title": "TEST New",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2124",
-          "date": "2026-07-20",
-          "category": null,
-          "pinned": false
-        },
-        {
           "id": "2122",
           "title": "[알파사이츠] 2026년 하반기 주요 고객사 프로젝트 담당자 [신입/Trainee] 채용",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2122",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-20T19:21:10.489Z",
+      "fetched_at": "2026-07-21T01:20:57.566Z",
       "count": 0,
       "items": []
     }
