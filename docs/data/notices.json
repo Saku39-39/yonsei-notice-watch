@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T01:19:44.733Z",
+  "generated_at": "2026-07-22T08:04:45.562Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-22T01:19:36.303Z",
+      "fetched_at": "2026-07-22T08:04:40.049Z",
       "count": 20,
       "items": [
         {
@@ -107,8 +107,16 @@
           "pinned": true
         },
         {
+          "id": "475436",
+          "title": "[수업] 한림대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 24.(금) 17:00]",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475436&article.offset=0&articleLimit=10",
+          "date": "2026-07-22",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "475161",
-          "title": "[수업] 울산과학기술원(UNIST) 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 23.(수) 13:00]",
+          "title": "[수업] 울산과학기술원(UNIST) 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 23.(목) 13:00]",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475161&article.offset=0&articleLimit=10",
           "date": "2026-07-16",
           "category": null,
@@ -161,14 +169,6 @@
           "date": "2026-07-08",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "474591",
-          "title": "[수업] 서울대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 10.(금) 13:00]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=474591&article.offset=0&articleLimit=10",
-          "date": "2026-07-06",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-22T01:19:39.652Z",
+      "fetched_at": "2026-07-22T08:04:42.364Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-22T01:19:42.292Z",
+      "fetched_at": "2026-07-22T08:04:43.819Z",
       "count": 20,
       "items": [
         {
@@ -506,7 +506,7 @@
         },
         {
           "id": "2125",
-          "title": "[국회사무처] 2026년도 국회 대학(원)생 아카데미(2차) 과정 안내 New",
+          "title": "[국회사무처] 2026년도 국회 대학(원)생 아카데미(2차) 과정 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2125",
           "date": "2026-07-21",
           "category": "일반",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-22T01:19:44.732Z",
+      "fetched_at": "2026-07-22T08:04:45.562Z",
       "count": 0,
       "items": []
     }
