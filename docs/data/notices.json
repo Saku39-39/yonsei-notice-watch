@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T18:53:45.745Z",
+  "generated_at": "2026-07-23T01:26:47.740Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-22T18:53:41.092Z",
+      "fetched_at": "2026-07-23T01:26:43.986Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-22T18:53:43.067Z",
+      "fetched_at": "2026-07-23T01:26:45.404Z",
       "count": 20,
       "items": [
         {
@@ -349,12 +349,12 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-22T18:53:44.974Z",
+      "fetched_at": "2026-07-23T01:26:46.877Z",
       "count": 20,
       "items": [
         {
           "id": "2126",
-          "title": "글로벌인재대학 졸업요건 설명회 참가신청 안내_2026.8.6.(목) New",
+          "title": "글로벌인재대학 졸업요건 설명회 참가신청 안내_2026.8.6.(목)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2126",
           "date": "2026-07-22",
           "category": "학사",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-22T18:53:45.744Z",
+      "fetched_at": "2026-07-23T01:26:47.740Z",
       "count": 0,
       "items": []
     }
