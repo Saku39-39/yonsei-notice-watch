@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:07:17.929Z",
+  "generated_at": "2026-07-23T13:19:10.809Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-23T08:06:43.672Z",
+      "fetched_at": "2026-07-23T13:19:04.065Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-23T08:06:46.320Z",
+      "fetched_at": "2026-07-23T13:19:06.367Z",
       "count": 20,
       "items": [
         {
@@ -348,11 +348,171 @@
       "site_name": "글로벌인재대학(GLC) 전체공지",
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
-      "status": "error",
-      "fetched_at": "2026-07-23T08:07:16.323Z",
-      "error": "This operation was aborted",
-      "count": 0,
-      "items": []
+      "status": "ok",
+      "fetched_at": "2026-07-23T13:19:09.188Z",
+      "count": 20,
+      "items": [
+        {
+          "id": "2126",
+          "title": "글로벌인재대학 졸업요건 설명회 참가신청 안내_2026.8.6.(목)",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2126",
+          "date": "2026-07-22",
+          "category": "학사",
+          "pinned": true
+        },
+        {
+          "id": "2124",
+          "title": "2026-2학기 재학생(GBED) GLC 교양 교과목 수강신청 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2124",
+          "date": "2026-07-20",
+          "category": "학사",
+          "pinned": true
+        },
+        {
+          "id": "2123",
+          "title": "2026-2학기 바이오생활창의설계2 사전 신청서 모집 (~7/31 마감)",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2123",
+          "date": "2026-07-20",
+          "category": "학사",
+          "pinned": true
+        },
+        {
+          "id": "2115",
+          "title": "2026학년도 2학기 연세대학교 글로벌인재대학 강사 채용공고",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2115",
+          "date": "2026-07-01",
+          "category": "채용",
+          "pinned": true
+        },
+        {
+          "id": "2113",
+          "title": "2026-2 글로벌인재학부 복학생 진리장학금(소급) 신청 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2113",
+          "date": "2026-07-01",
+          "category": "장학",
+          "pinned": true
+        },
+        {
+          "id": "2110",
+          "title": "2027학년도 1학기 GLC 교환학생 모집 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2110",
+          "date": "2026-06-29",
+          "category": "일반",
+          "pinned": true
+        },
+        {
+          "id": "2106",
+          "title": "2026학년도 2학기 캠퍼스내 복수전공 신청 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2106",
+          "date": "2026-06-09",
+          "category": "학사",
+          "pinned": true
+        },
+        {
+          "id": "2105",
+          "title": "2026학년도 2학기 AI융합심화전공 신청 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2105",
+          "date": "2026-06-05",
+          "category": "일반",
+          "pinned": true
+        },
+        {
+          "id": "2092",
+          "title": "2026-1 TOPIK 응시료 지원 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2092",
+          "date": "2026-05-18",
+          "category": "일반",
+          "pinned": true
+        },
+        {
+          "id": "2085",
+          "title": "2026-2 재입학 전형 안내(Re-Admission Application for Fall semester 2026)",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2085",
+          "date": "2026-05-13",
+          "category": "학사",
+          "pinned": true
+        },
+        {
+          "id": "2083",
+          "title": "2026학년도 2학기 외국인 GLC 학생의 전공진입을 위한 한국어성적 제출 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2083",
+          "date": "2026-05-11",
+          "category": "학사",
+          "pinned": true
+        },
+        {
+          "id": "2082",
+          "title": "2026학년도 2학기 글로벌인재대학 전공신청 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2082",
+          "date": "2026-05-11",
+          "category": "학사",
+          "pinned": true
+        },
+        {
+          "id": "2074",
+          "title": "전공 진입 및 졸업 요건 안내(부모 모두 외국인인 외국인 학생)",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2074",
+          "date": "2026-05-06",
+          "category": "일반",
+          "pinned": true
+        },
+        {
+          "id": "2073",
+          "title": "2026년 한국어능력시험(TOPIK) 시행 계획 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2073",
+          "date": "2026-05-06",
+          "category": "일반",
+          "pinned": true
+        },
+        {
+          "id": "2024",
+          "title": "[국제처] 외국인 학위과정 유학생 민간단체보험 제도 안내 (KOR/ENG/CHN/JPN)",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2024",
+          "date": "2026-03-10",
+          "category": "일반",
+          "pinned": true
+        },
+        {
+          "id": "1955",
+          "title": "[서울시] 서울탤런트허브 (서울 소재기업/해외인재 상시 매칭 플랫폼)",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=1955",
+          "date": "2025-11-04",
+          "category": "일반",
+          "pinned": true
+        },
+        {
+          "id": "1893",
+          "title": "GLC 신입생을 위한 온라인 튜터링 동영상 강의 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=1893",
+          "date": "2025-08-13",
+          "category": "일반",
+          "pinned": true
+        },
+        {
+          "id": "1748",
+          "title": "GLC 학술 한국어 쓰기 동영상 강의 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=1748",
+          "date": "2025-03-17",
+          "category": "일반",
+          "pinned": true
+        },
+        {
+          "id": "1701",
+          "title": "글로벌기초교육학부(GBED) 교양과목 이수 요건",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=1701",
+          "date": "2024-12-19",
+          "category": "학사",
+          "pinned": true
+        },
+        {
+          "id": "2129",
+          "title": "[Morgan Stanley] 2027 Japan Summer Analyst Program New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2129",
+          "date": "2026-07-23",
+          "category": "취업",
+          "pinned": false
+        }
+      ]
     },
     {
       "site_id": "ysgsa",
@@ -360,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-23T08:07:17.929Z",
+      "fetched_at": "2026-07-23T13:19:10.808Z",
       "count": 0,
       "items": []
     }
