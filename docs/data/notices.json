@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T08:03:35.088Z",
+  "generated_at": "2026-07-24T13:12:49.069Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-24T08:03:28.983Z",
+      "fetched_at": "2026-07-24T13:12:43.571Z",
       "count": 20,
       "items": [
         {
@@ -107,6 +107,30 @@
           "pinned": true
         },
         {
+          "id": "475589",
+          "title": "[수업] 포항공과대학교(POSTECH) 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 3.(월) 17:00]",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475589&article.offset=0&articleLimit=10",
+          "date": "2026-07-24",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "475588",
+          "title": "[수업] 세종대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 3.(월) 17:00]",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475588&article.offset=0&articleLimit=10",
+          "date": "2026-07-24",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "475587",
+          "title": "[수업] 한양대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 3.(월) 17:00]",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475587&article.offset=0&articleLimit=10",
+          "date": "2026-07-24",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "475585",
           "title": "[수업] 고려대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 3.(월) 17:00]",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475585&article.offset=0&articleLimit=10",
@@ -145,30 +169,6 @@
           "date": "2026-07-16",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "475159",
-          "title": "[수업] 한국과학기술원(KAIST) 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 22.(수) 13:00]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475159&article.offset=0&articleLimit=10",
-          "date": "2026-07-16",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "475157",
-          "title": "[수업] 아주대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 22.(수) 13:00]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475157&article.offset=0&articleLimit=10",
-          "date": "2026-07-16",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "475149",
-          "title": "[기타] 연세대학교 대학원 글로벌성공센터 직원(대체근로자) 모집",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475149&article.offset=0&articleLimit=10",
-          "date": "2026-07-16",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-24T08:03:31.525Z",
+      "fetched_at": "2026-07-24T13:12:45.546Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-24T08:03:33.730Z",
+      "fetched_at": "2026-07-24T13:12:47.960Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-24T08:03:35.087Z",
+      "fetched_at": "2026-07-24T13:12:49.069Z",
       "count": 0,
       "items": []
     }
