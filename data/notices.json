@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T18:56:02.687Z",
+  "generated_at": "2026-07-24T01:23:14.260Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-23T18:55:58.395Z",
+      "fetched_at": "2026-07-24T01:23:10.423Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-23T18:56:00.309Z",
+      "fetched_at": "2026-07-24T01:23:11.486Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-23T18:56:01.753Z",
+      "fetched_at": "2026-07-24T01:23:12.950Z",
       "count": 20,
       "items": [
         {
@@ -505,11 +505,11 @@
           "pinned": true
         },
         {
-          "id": "2129",
-          "title": "[Morgan Stanley] 2027 Japan Summer Analyst Program New",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2129",
-          "date": "2026-07-23",
-          "category": "취업",
+          "id": "2130",
+          "title": "[국제처] Fall 2026 Recruitment of 9th Yonsei Campus Harmony Supporters / 2026-2학기 Yonsei Campus Harmony 서포터즈 9기 모집 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2130",
+          "date": "2026-07-24",
+          "category": "일반",
           "pinned": false
         }
       ]
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-23T18:56:02.686Z",
+      "fetched_at": "2026-07-24T01:23:14.259Z",
       "count": 0,
       "items": []
     }
