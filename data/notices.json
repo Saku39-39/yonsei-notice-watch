@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T01:23:14.260Z",
+  "generated_at": "2026-07-24T08:03:35.088Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-24T01:23:10.423Z",
+      "fetched_at": "2026-07-24T08:03:28.983Z",
       "count": 20,
       "items": [
         {
@@ -107,6 +107,22 @@
           "pinned": true
         },
         {
+          "id": "475585",
+          "title": "[수업] 고려대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 3.(월) 17:00]",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475585&article.offset=0&articleLimit=10",
+          "date": "2026-07-24",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "475583",
+          "title": "[수업] 경희대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 3.(월) 17:00]",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475583&article.offset=0&articleLimit=10",
+          "date": "2026-07-24",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "475479",
           "title": "[장학] [교수학습혁신센터] 대학원생 조교 선발",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475479&article.offset=0&articleLimit=10",
@@ -153,22 +169,6 @@
           "date": "2026-07-16",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "475027",
-          "title": "[수업] 광주과학기술원(GIST) 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 20.(월) 13:00]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475027&article.offset=0&articleLimit=10",
-          "date": "2026-07-15",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "475026",
-          "title": "[수업] 성균관대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 20.(월) 13:00]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475026&article.offset=0&articleLimit=10",
-          "date": "2026-07-15",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-24T01:23:11.486Z",
+      "fetched_at": "2026-07-24T08:03:31.525Z",
       "count": 20,
       "items": [
         {
@@ -349,9 +349,17 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-24T01:23:12.950Z",
+      "fetched_at": "2026-07-24T08:03:33.730Z",
       "count": 20,
       "items": [
+        {
+          "id": "2131",
+          "title": "2026-2학기 글로벌인재학부(GLD) 장학금 선발 결과 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2131",
+          "date": "2026-07-24",
+          "category": "장학",
+          "pinned": true
+        },
         {
           "id": "2126",
           "title": "글로벌인재대학 졸업요건 설명회 참가신청 안내_2026.8.6.(목)",
@@ -503,14 +511,6 @@
           "date": "2024-12-19",
           "category": "학사",
           "pinned": true
-        },
-        {
-          "id": "2130",
-          "title": "[국제처] Fall 2026 Recruitment of 9th Yonsei Campus Harmony Supporters / 2026-2학기 Yonsei Campus Harmony 서포터즈 9기 모집 New",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2130",
-          "date": "2026-07-24",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-24T01:23:14.259Z",
+      "fetched_at": "2026-07-24T08:03:35.087Z",
       "count": 0,
       "items": []
     }
