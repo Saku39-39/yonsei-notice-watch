@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T01:23:33.919Z",
+  "generated_at": "2026-07-25T07:47:15.885Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-25T01:23:28.416Z",
+      "fetched_at": "2026-07-25T07:47:08.838Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-07-25T01:23:30.710Z",
+      "fetched_at": "2026-07-25T07:47:11.138Z",
       "count": 20,
       "items": [
         {
@@ -349,12 +349,12 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-07-25T01:23:32.380Z",
+      "fetched_at": "2026-07-25T07:47:13.792Z",
       "count": 20,
       "items": [
         {
           "id": "2131",
-          "title": "2026-2학기 글로벌인재학부(GLD) 장학금 선발 결과 안내 New",
+          "title": "2026-2학기 글로벌인재학부(GLD) 장학금 선발 결과 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2131",
           "date": "2026-07-24",
           "category": "장학",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-07-25T01:23:33.919Z",
+      "fetched_at": "2026-07-25T07:47:15.884Z",
       "count": 0,
       "items": []
     }
