@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T01:26:22.777Z",
+  "generated_at": "2026-08-03T08:56:47.750Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-03T01:26:17.665Z",
+      "fetched_at": "2026-08-03T08:56:42.261Z",
       "count": 20,
       "items": [
+        {
+          "id": "475838",
+          "title": "[공지] [수업] 2026학년도 2학기 일반대학원 수강신청 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475838&article.offset=0&articleLimit=10",
+          "date": "2026-08-03",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "474616",
           "title": "[공지] [학적] 2026학년도 2학기 재입학 안내 (2026 Fall Semester Re-Admission Application Guidelines)",
@@ -107,6 +115,14 @@
           "pinned": true
         },
         {
+          "id": "475802",
+          "title": "[기타] 2026년 하반기 울산광역시 대학(원)생 학자금대출 이자지원사업 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475802&article.offset=0&articleLimit=10",
+          "date": "2026-08-03",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "475589",
           "title": "[수업] 포항공과대학교(POSTECH) 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 3.(월) 17:00]",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475589&article.offset=0&articleLimit=10",
@@ -153,22 +169,6 @@
           "date": "2026-07-23",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "475436",
-          "title": "[수업] 한림대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 24.(금) 17:00]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475436&article.offset=0&articleLimit=10",
-          "date": "2026-07-22",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "475161",
-          "title": "[수업] 울산과학기술원(UNIST) 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 23.(목) 13:00]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475161&article.offset=0&articleLimit=10",
-          "date": "2026-07-16",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-03T01:26:19.591Z",
+      "fetched_at": "2026-08-03T08:56:44.722Z",
       "count": 20,
       "items": [
         {
@@ -349,9 +349,17 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-03T01:26:20.959Z",
+      "fetched_at": "2026-08-03T08:56:46.755Z",
       "count": 20,
       "items": [
+        {
+          "id": "2134",
+          "title": "2026년 8월 GLC 졸업 리셉션 및 학위가운 대여 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2134",
+          "date": "2026-08-03",
+          "category": "학사",
+          "pinned": true
+        },
         {
           "id": "2131",
           "title": "2026-2학기 글로벌인재학부(GLD) 장학금 선발 결과 안내",
@@ -378,18 +386,10 @@
         },
         {
           "id": "2123",
-          "title": "2026-2학기 바이오생활창의설계2 사전 신청서 모집 (~7/31 마감)",
+          "title": "2026-2학기 바이오생활창의설계2 사전 신청서 모집 (접수기한 연장: ~8/7(금))",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2123",
           "date": "2026-07-20",
           "category": "학사",
-          "pinned": true
-        },
-        {
-          "id": "2115",
-          "title": "2026학년도 2학기 연세대학교 글로벌인재대학 강사 채용공고",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2115",
-          "date": "2026-07-01",
-          "category": "채용",
           "pinned": true
         },
         {
@@ -402,7 +402,7 @@
         },
         {
           "id": "2110",
-          "title": "2027학년도 1학기 GLC 교환학생 모집 안내",
+          "title": "2027학년도 1학기 GLC 교환학생 모집 안내 (접수기간 연장: ~8/9(일))",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2110",
           "date": "2026-06-29",
           "category": "일반",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-03T01:26:22.776Z",
+      "fetched_at": "2026-08-03T08:56:47.749Z",
       "count": 0,
       "items": []
     }
