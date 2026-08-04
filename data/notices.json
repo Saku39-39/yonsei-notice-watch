@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T01:16:12.796Z",
+  "generated_at": "2026-08-04T08:13:38.507Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-04T01:16:07.526Z",
+      "fetched_at": "2026-08-04T08:13:33.745Z",
       "count": 20,
       "items": [
         {
@@ -107,6 +107,14 @@
           "pinned": true
         },
         {
+          "id": "476002",
+          "title": "[기타] 2026년 제2회 서울시 대학(원)생 학자금대출이자 지원 신청 공고",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476002&article.offset=0&articleLimit=10",
+          "date": "2026-08-04",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "475802",
           "title": "[기타] 2026년 하반기 울산광역시 대학(원)생 학자금대출 이자지원사업 안내",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475802&article.offset=0&articleLimit=10",
@@ -161,14 +169,6 @@
           "date": "2026-07-23",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "475436",
-          "title": "[수업] 한림대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 7. 24.(금) 17:00]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475436&article.offset=0&articleLimit=10",
-          "date": "2026-07-22",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-04T01:16:09.675Z",
+      "fetched_at": "2026-08-04T08:13:35.476Z",
       "count": 20,
       "items": [
         {
@@ -349,12 +349,12 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-04T01:16:11.622Z",
+      "fetched_at": "2026-08-04T08:13:36.769Z",
       "count": 20,
       "items": [
         {
           "id": "2134",
-          "title": "2026년 8월 GLC 졸업 리셉션 및 학위가운 대여 안내 New",
+          "title": "2026년 8월 GLC 졸업 리셉션 및 학위가운 대여 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2134",
           "date": "2026-08-03",
           "category": "학사",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-04T01:16:12.796Z",
+      "fetched_at": "2026-08-04T08:13:38.506Z",
       "count": 0,
       "items": []
     }
