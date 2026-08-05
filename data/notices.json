@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T01:19:42.301Z",
+  "generated_at": "2026-08-05T08:12:26.773Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-05T01:19:37.546Z",
+      "fetched_at": "2026-08-05T08:12:18.097Z",
       "count": 20,
       "items": [
+        {
+          "id": "476071",
+          "title": "[공지] [졸업] 2026년 8월 학위수여식 안내(신촌/국제)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476071&article.offset=0&articleLimit=10",
+          "date": "2026-08-05",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "475838",
           "title": "[공지] [수업] 2026학년도 2학기 일반대학원 수강신청 안내",
@@ -107,6 +115,14 @@
           "pinned": true
         },
         {
+          "id": "476080",
+          "title": "[수업] 과학기술연합대학원대학교(UST) 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 10.(월) 13:00]",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476080&article.offset=0&articleLimit=10",
+          "date": "2026-08-05",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "476002",
           "title": "[기타] 2026년 제2회 서울시 대학(원)생 학자금대출이자 지원 신청 공고",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476002&article.offset=0&articleLimit=10",
@@ -153,22 +169,6 @@
           "date": "2026-07-24",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "475583",
-          "title": "[수업] 경희대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 3.(월) 17:00]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475583&article.offset=0&articleLimit=10",
-          "date": "2026-07-24",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "475479",
-          "title": "[장학] [교수학습혁신센터] 대학원생 조교 선발",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475479&article.offset=0&articleLimit=10",
-          "date": "2026-07-23",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-05T01:19:39.352Z",
+      "fetched_at": "2026-08-05T08:12:19.609Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-05T01:19:40.803Z",
+      "fetched_at": "2026-08-05T08:12:21.542Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-05T01:19:42.300Z",
+      "fetched_at": "2026-08-05T08:12:26.773Z",
       "count": 0,
       "items": []
     }
