@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T01:17:08.202Z",
+  "generated_at": "2026-08-06T08:11:19.446Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-06T01:17:02.197Z",
+      "fetched_at": "2026-08-06T08:11:14.514Z",
       "count": 20,
       "items": [
         {
@@ -178,9 +178,17 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-06T01:17:04.420Z",
+      "fetched_at": "2026-08-06T08:11:16.328Z",
       "count": 20,
       "items": [
+        {
+          "id": "476141",
+          "title": "[공지] 2026학년도 2학기 외국인 학생 커뮤니티(Yonsei Internatial Student Comunity) 멘토 모집(~8.21.)",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=476141&article.offset=0&articleLimit=10",
+          "date": "2026-08-06",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "451529",
           "title": "[공지] 장기미개설 과목에 대한 대체재수강 제도 시행 안내(매 학기 수강신청 확인 및 변경기간 종료 후 2주간 (계절학기에는 신청 불가)",
@@ -332,14 +340,6 @@
           "date": "2026-05-20",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "470888",
-          "title": "2026학년도 2학기 재입학 전형 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=470888&article.offset=0&articleLimit=10",
-          "date": "2026-05-13",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-06T01:17:05.948Z",
+      "fetched_at": "2026-08-06T08:11:17.768Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-06T01:17:08.202Z",
+      "fetched_at": "2026-08-06T08:11:19.446Z",
       "count": 0,
       "items": []
     }
