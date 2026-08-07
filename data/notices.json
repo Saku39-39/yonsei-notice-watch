@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T06:56:59.621Z",
+  "generated_at": "2026-08-07T12:35:16.000Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-07T06:56:52.342Z",
+      "fetched_at": "2026-08-07T12:35:10.971Z",
       "count": 20,
       "items": [
+        {
+          "id": "476226",
+          "title": "[공지] [수업] 3대학원(서강대, 이화여대) 2026학년도 2학기 대학원 학점교환 수강 안내 및 한국과학기술연구원(KIST) 교과목 수강 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476226&article.offset=0&articleLimit=10",
+          "date": "2026-08-07",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "476071",
           "title": "[공지] [졸업] 2026년 8월 학위수여식 안내(신촌/국제)",
@@ -161,14 +169,6 @@
           "date": "2026-07-24",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "475585",
-          "title": "[수업] 고려대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 3.(월) 17:00]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475585&article.offset=0&articleLimit=10",
-          "date": "2026-07-24",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-07T06:56:55.056Z",
+      "fetched_at": "2026-08-07T12:35:12.792Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-07T06:56:57.546Z",
+      "fetched_at": "2026-08-07T12:35:14.780Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-07T06:56:59.621Z",
+      "fetched_at": "2026-08-07T12:35:15.999Z",
       "count": 0,
       "items": []
     }
