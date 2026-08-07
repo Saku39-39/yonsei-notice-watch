@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T01:58:52.874Z",
+  "generated_at": "2026-08-07T06:56:59.621Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-07T01:58:47.208Z",
+      "fetched_at": "2026-08-07T06:56:52.342Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-07T01:58:49.055Z",
+      "fetched_at": "2026-08-07T06:56:55.056Z",
       "count": 20,
       "items": [
         {
@@ -286,6 +286,14 @@
           "pinned": true
         },
         {
+          "id": "476201",
+          "title": "2026년 8월 학부 졸업자 대상 졸업 후 진로(취업·진학) 현황 조사 안내",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=476201&article.offset=0&articleLimit=10",
+          "date": "2026-08-07",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "475230",
           "title": "[안내] 2026학년도 행정팀 여름방학 집중휴가(2026.7.27.~7.31.) 실시 안내",
           "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=475230&article.offset=0&articleLimit=10",
@@ -332,14 +340,6 @@
           "date": "2026-05-27",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "471443",
-          "title": "2026학년도 2학기 한국장학재단 'AI학업장려 학자금대출' 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=471443&article.offset=0&articleLimit=10",
-          "date": "2026-05-20",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-07T01:58:50.840Z",
+      "fetched_at": "2026-08-07T06:56:57.546Z",
       "count": 20,
       "items": [
         {
@@ -409,22 +409,6 @@
           "pinned": true
         },
         {
-          "id": "2106",
-          "title": "2026학년도 2학기 캠퍼스내 복수전공 신청 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2106",
-          "date": "2026-06-09",
-          "category": "학사",
-          "pinned": true
-        },
-        {
-          "id": "2105",
-          "title": "2026학년도 2학기 AI융합심화전공 신청 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2105",
-          "date": "2026-06-05",
-          "category": "일반",
-          "pinned": true
-        },
-        {
           "id": "2092",
           "title": "2026-1 TOPIK 응시료 지원 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2092",
@@ -444,14 +428,6 @@
           "id": "2083",
           "title": "2026학년도 2학기 외국인 GLC 학생의 전공진입을 위한 한국어성적 제출 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2083",
-          "date": "2026-05-11",
-          "category": "학사",
-          "pinned": true
-        },
-        {
-          "id": "2082",
-          "title": "2026학년도 2학기 글로벌인재대학 전공신청 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2082",
           "date": "2026-05-11",
           "category": "학사",
           "pinned": true
@@ -511,6 +487,30 @@
           "date": "2024-12-19",
           "category": "학사",
           "pinned": true
+        },
+        {
+          "id": "2140",
+          "title": "[선농문화포럼] 외국인 유학생 대상「2026년 리더십 아카데미」가을 과정 신청 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2140",
+          "date": "2026-08-06",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2139",
+          "title": "[HIMUN] 제50차 모의유엔 총회 사전관람 신청 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2139",
+          "date": "2026-08-06",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2138",
+          "title": "2026 창작악단 기획공연 <긴산조 협주곡 Ⅲ> 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2138",
+          "date": "2026-08-06",
+          "category": "일반",
+          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-07T01:58:52.874Z",
+      "fetched_at": "2026-08-07T06:56:59.621Z",
       "count": 0,
       "items": []
     }
