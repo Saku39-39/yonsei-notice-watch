@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T00:45:50.205Z",
+  "generated_at": "2026-08-10T07:04:15.060Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-10T00:45:45.276Z",
+      "fetched_at": "2026-08-10T07:04:11.199Z",
       "count": 20,
       "items": [
+        {
+          "id": "476287",
+          "title": "[공지] [등록] 2026-2학기 학부/대학원 재학생 등록안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476287&article.offset=0&articleLimit=10",
+          "date": "2026-08-10",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "476226",
           "title": "[공지] [수업] 3대학원(서강대, 이화여대) 2026학년도 2학기 대학원 학점교환 수강 안내 및 한국과학기술연구원(KIST) 교과목 수강 안내",
@@ -115,6 +123,14 @@
           "pinned": true
         },
         {
+          "id": "476274",
+          "title": "[수업] 국방대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 12.(수) 13:00]",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476274&article.offset=0&articleLimit=10",
+          "date": "2026-08-10",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "476080",
           "title": "[수업] 과학기술연합대학원대학교(UST) 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 10.(월) 13:00]",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476080&article.offset=0&articleLimit=10",
@@ -153,22 +169,6 @@
           "date": "2026-07-24",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "475587",
-          "title": "[수업] 한양대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 3.(월) 17:00]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475587&article.offset=0&articleLimit=10",
-          "date": "2026-07-24",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "475585",
-          "title": "[수업] 고려대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 3.(월) 17:00]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475585&article.offset=0&articleLimit=10",
-          "date": "2026-07-24",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-10T00:45:47.694Z",
+      "fetched_at": "2026-08-10T07:04:12.214Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-10T00:45:49.030Z",
+      "fetched_at": "2026-08-10T07:04:13.735Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-10T00:45:50.205Z",
+      "fetched_at": "2026-08-10T07:04:15.060Z",
       "count": 0,
       "items": []
     }
