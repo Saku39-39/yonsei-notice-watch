@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T00:45:25.330Z",
+  "generated_at": "2026-08-11T06:42:59.655Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-11T00:45:20.854Z",
+      "fetched_at": "2026-08-11T06:42:52.327Z",
       "count": 20,
       "items": [
         {
@@ -123,6 +123,14 @@
           "pinned": true
         },
         {
+          "id": "476327",
+          "title": "[기타] [2026학년도 2학기 연세대학교(서울캠퍼스) 장애대학(원)생 교육활동 지원인력(대학원생) 모집 공고(제1차)]",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476327&article.offset=0&articleLimit=10",
+          "date": "2026-08-11",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "476274",
           "title": "[수업] 국방대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 12.(수) 13:00]",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476274&article.offset=0&articleLimit=10",
@@ -161,14 +169,6 @@
           "date": "2026-07-24",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "475588",
-          "title": "[수업] 세종대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 3.(월) 17:00]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475588&article.offset=0&articleLimit=10",
-          "date": "2026-07-24",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-11T00:45:22.626Z",
+      "fetched_at": "2026-08-11T06:42:55.004Z",
       "count": 20,
       "items": [
         {
@@ -303,7 +303,7 @@
         },
         {
           "id": "474938",
-          "title": "[학부] 2026년 8월 학위가운 대여 세탁.보관료 납부 및 대여안내 (연희관 107호)",
+          "title": "[학부/일반대학원] 2026년 8월 학위가운 대여 세탁.보관료 납부 및 대여안내 (연희관 107호)",
           "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=474938&article.offset=0&articleLimit=10",
           "date": "2026-07-14",
           "category": null,
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-11T00:45:24.053Z",
+      "fetched_at": "2026-08-11T06:42:57.773Z",
       "count": 20,
       "items": [
         {
@@ -369,25 +369,9 @@
           "pinned": true
         },
         {
-          "id": "2126",
-          "title": "글로벌인재대학 졸업요건 설명회 참가신청 안내_2026.8.6.(목)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2126",
-          "date": "2026-07-22",
-          "category": "학사",
-          "pinned": true
-        },
-        {
           "id": "2124",
           "title": "2026-2학기 재학생(GBED) GLC 교양 교과목 수강신청 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2124",
-          "date": "2026-07-20",
-          "category": "학사",
-          "pinned": true
-        },
-        {
-          "id": "2123",
-          "title": "2026-2학기 바이오생활창의설계2 사전 신청서 모집 (접수기한 연장: ~8/7(금))",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2123",
           "date": "2026-07-20",
           "category": "학사",
           "pinned": true
@@ -401,35 +385,11 @@
           "pinned": true
         },
         {
-          "id": "2110",
-          "title": "2027학년도 1학기 GLC 교환학생 모집 안내 (접수기간 연장: ~8/9(일))",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2110",
-          "date": "2026-06-29",
-          "category": "일반",
-          "pinned": true
-        },
-        {
           "id": "2092",
           "title": "2026-1 TOPIK 응시료 지원 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2092",
           "date": "2026-05-18",
           "category": "일반",
-          "pinned": true
-        },
-        {
-          "id": "2085",
-          "title": "2026-2 재입학 전형 안내(Re-Admission Application for Fall semester 2026)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2085",
-          "date": "2026-05-13",
-          "category": "학사",
-          "pinned": true
-        },
-        {
-          "id": "2083",
-          "title": "2026학년도 2학기 외국인 GLC 학생의 전공진입을 위한 한국어성적 제출 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2083",
-          "date": "2026-05-11",
-          "category": "학사",
           "pinned": true
         },
         {
@@ -511,6 +471,46 @@
           "date": "2026-08-06",
           "category": "일반",
           "pinned": false
+        },
+        {
+          "id": "2137",
+          "title": "[독도재단] 2026 외국인 유학생 독도사랑 말하기 대회",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2137",
+          "date": "2026-08-04",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2136",
+          "title": "제10회 대학생 통상정책 토론대회",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2136",
+          "date": "2026-08-04",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2133",
+          "title": "[Study in Korea] 2026년 한국유학 홍보 숏폼 영상 공모전",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2133",
+          "date": "2026-08-03",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2132",
+          "title": "[국회사무처] 2026년도 국회 청년민주주의과정(2차) 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2132",
+          "date": "2026-08-03",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2130",
+          "title": "[국제처] Fall 2026 Recruitment of 9th Yonsei Campus Harmony Supporters / 2026-2학기 Yonsei Campus Harmony 서포터즈 9기 모집",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2130",
+          "date": "2026-07-24",
+          "category": "일반",
+          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-11T00:45:25.330Z",
+      "fetched_at": "2026-08-11T06:42:59.655Z",
       "count": 0,
       "items": []
     }
