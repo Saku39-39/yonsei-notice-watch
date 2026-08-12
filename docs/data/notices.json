@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:03:31.601Z",
+  "generated_at": "2026-08-12T12:39:15.233Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-12T07:03:26.030Z",
+      "fetched_at": "2026-08-12T12:39:08.139Z",
       "count": 20,
       "items": [
+        {
+          "id": "476459",
+          "title": "[공지] [논문] 2026학년도 2학기 학위논문 연구계획서 제출 및 논문심사 일정 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476459&article.offset=0&articleLimit=10",
+          "date": "2026-08-12",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "476287",
           "title": "[공지] [등록] 2026-2학기 학부/대학원 재학생 등록안내",
@@ -161,14 +169,6 @@
           "date": "2026-08-03",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "475589",
-          "title": "[수업] 포항공과대학교(POSTECH) 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 3.(월) 17:00]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475589&article.offset=0&articleLimit=10",
-          "date": "2026-07-24",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-12T07:03:28.151Z",
+      "fetched_at": "2026-08-12T12:39:10.750Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-12T07:03:30.828Z",
+      "fetched_at": "2026-08-12T12:39:13.283Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-12T07:03:31.600Z",
+      "fetched_at": "2026-08-12T12:39:15.233Z",
       "count": 0,
       "items": []
     }
