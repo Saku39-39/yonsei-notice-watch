@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T18:42:55.440Z",
+  "generated_at": "2026-08-12T00:53:22.769Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-11T18:42:49.993Z",
+      "fetched_at": "2026-08-12T00:53:18.862Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-11T18:42:51.909Z",
+      "fetched_at": "2026-08-12T00:53:20.059Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-11T18:42:53.731Z",
+      "fetched_at": "2026-08-12T00:53:22.039Z",
       "count": 20,
       "items": [
         {
@@ -449,6 +449,14 @@
           "pinned": true
         },
         {
+          "id": "2141",
+          "title": "2026-2학기 GLC 행정팀 근로장학생 모집 공고 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2141",
+          "date": "2026-08-12",
+          "category": "장학",
+          "pinned": false
+        },
+        {
           "id": "2140",
           "title": "[선농문화포럼] 외국인 유학생 대상「2026년 리더십 아카데미」가을 과정 신청 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2140",
@@ -503,14 +511,6 @@
           "date": "2026-08-03",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2130",
-          "title": "[국제처] Fall 2026 Recruitment of 9th Yonsei Campus Harmony Supporters / 2026-2학기 Yonsei Campus Harmony 서포터즈 9기 모집",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2130",
-          "date": "2026-07-24",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-11T18:42:55.439Z",
+      "fetched_at": "2026-08-12T00:53:22.768Z",
       "count": 0,
       "items": []
     }
