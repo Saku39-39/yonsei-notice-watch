@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T00:54:59.214Z",
+  "generated_at": "2026-08-13T07:07:20.823Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-13T00:54:53.446Z",
+      "fetched_at": "2026-08-13T07:07:14.640Z",
       "count": 20,
       "items": [
+        {
+          "id": "476482",
+          "title": "[공지] [기타] 연세메일 신청 방법 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476482&article.offset=0&articleLimit=10",
+          "date": "2026-08-13",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "476459",
           "title": "[공지] [논문] 2026학년도 2학기 학위논문 연구계획서 제출 및 논문심사 일정 안내",
@@ -131,6 +139,14 @@
           "pinned": true
         },
         {
+          "id": "476543",
+          "title": "[수업] 인하대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 18.(화) 13:00]",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476543&article.offset=0&articleLimit=10",
+          "date": "2026-08-13",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "476327",
           "title": "[기타] [2026학년도 2학기 연세대학교(서울캠퍼스) 장애대학(원)생 교육활동 지원인력(대학원생) 모집 공고(제1차)]",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476327&article.offset=0&articleLimit=10",
@@ -153,22 +169,6 @@
           "date": "2026-08-05",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "476002",
-          "title": "[기타] 2026년 제2회 서울시 대학(원)생 학자금대출이자 지원 신청 공고",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476002&article.offset=0&articleLimit=10",
-          "date": "2026-08-04",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "475802",
-          "title": "[기타] 2026년 하반기 울산광역시 대학(원)생 학자금대출 이자지원사업 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=475802&article.offset=0&articleLimit=10",
-          "date": "2026-08-03",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-13T00:54:55.808Z",
+      "fetched_at": "2026-08-13T07:07:17.862Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-13T00:54:57.788Z",
+      "fetched_at": "2026-08-13T07:07:19.632Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-13T00:54:59.214Z",
+      "fetched_at": "2026-08-13T07:07:20.823Z",
       "count": 0,
       "items": []
     }
