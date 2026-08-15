@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:16:42.556Z",
+  "generated_at": "2026-08-15T12:13:11.172Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-15T06:16:35.968Z",
+      "fetched_at": "2026-08-15T12:13:04.761Z",
       "count": 20,
       "items": [
         {
@@ -147,26 +147,26 @@
           "pinned": true
         },
         {
-          "id": "476543",
-          "title": "[수업] 인하대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 18.(화) 13:00]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476543&article.offset=0&articleLimit=10",
-          "date": "2026-08-13",
+          "id": "476640",
+          "title": "[논문] 2026년도 하반기 선거·정치제도 개선을 위한 등재학술지 『선거연구』 논문 공모 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476640&article.offset=0&articleLimit=10",
+          "date": "2026-08-15",
           "category": null,
           "pinned": false
         },
         {
-          "id": "476327",
-          "title": "[기타] [2026학년도 2학기 연세대학교(서울캠퍼스) 장애대학(원)생 교육활동 지원인력(대학원생) 모집 공고(제1차)]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476327&article.offset=0&articleLimit=10",
-          "date": "2026-08-11",
+          "id": "476639",
+          "title": "[논문] 등재학술지 [청소년상담연구] 34권 2호 투고 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476639&article.offset=0&articleLimit=10",
+          "date": "2026-08-15",
           "category": null,
           "pinned": false
         },
         {
-          "id": "476274",
-          "title": "[수업] 국방대학교 2026학년도 2학기 대학원 학점교환 수강 안내 [마감: 2026. 8. 12.(수) 13:00]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476274&article.offset=0&articleLimit=10",
-          "date": "2026-08-10",
+          "id": "476638",
+          "title": "[논문] 제15회 KNDA 학술논문상 공고",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476638&article.offset=0&articleLimit=10",
+          "date": "2026-08-15",
           "category": null,
           "pinned": false
         }
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-15T06:16:38.460Z",
+      "fetched_at": "2026-08-15T12:13:07.069Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-15T06:16:40.896Z",
+      "fetched_at": "2026-08-15T12:13:08.421Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-15T06:16:42.555Z",
+      "fetched_at": "2026-08-15T12:13:11.171Z",
       "count": 0,
       "items": []
     }
