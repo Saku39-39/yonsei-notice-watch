@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:20:54.290Z",
+  "generated_at": "2026-08-18T12:19:21.221Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-18T06:20:46.661Z",
+      "fetched_at": "2026-08-18T12:19:16.319Z",
       "count": 20,
       "items": [
         {
@@ -155,17 +155,17 @@
           "pinned": true
         },
         {
-          "id": "476640",
-          "title": "[논문] 2026년도 하반기 선거·정치제도 개선을 위한 등재학술지 『선거연구』 논문 공모 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476640&article.offset=0&articleLimit=10",
-          "date": "2026-08-15",
+          "id": "476767",
+          "title": "[기타] 2026-2학기 출입국업무 대행 서비스 시행 알림(외국인등록 및 체류기간 연장)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476767&article.offset=0&articleLimit=10",
+          "date": "2026-08-18",
           "category": null,
           "pinned": false
         },
         {
-          "id": "476639",
-          "title": "[논문] 등재학술지 [청소년상담연구] 34권 2호 투고 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476639&article.offset=0&articleLimit=10",
+          "id": "476640",
+          "title": "[논문] 2026년도 하반기 선거·정치제도 개선을 위한 등재학술지 『선거연구』 논문 공모 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476640&article.offset=0&articleLimit=10",
           "date": "2026-08-15",
           "category": null,
           "pinned": false
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-18T06:20:48.311Z",
+      "fetched_at": "2026-08-18T12:19:17.769Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-18T06:20:50.976Z",
+      "fetched_at": "2026-08-18T12:19:19.753Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-18T06:20:54.289Z",
+      "fetched_at": "2026-08-18T12:19:21.221Z",
       "count": 0,
       "items": []
     }
