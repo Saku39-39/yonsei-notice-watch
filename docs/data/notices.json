@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T00:30:20.388Z",
+  "generated_at": "2026-08-18T06:20:54.290Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-18T00:30:15.255Z",
+      "fetched_at": "2026-08-18T06:20:46.661Z",
       "count": 20,
       "items": [
+        {
+          "id": "476722",
+          "title": "[공지] 2026학년도 2학기 외국 국적 교내 구성원 금융 ID카드 발급 안내 / Financial ID Card Issuance Guide for International Members (Fall Semester 2026)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476722&article.offset=0&articleLimit=10",
+          "date": "2026-08-18",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "476577",
           "title": "[공지] [졸업] 미래캠퍼스 2026년 8월 학위기 수령 및 석사 학위 가운 대여 안내",
@@ -20,7 +28,7 @@
         },
         {
           "id": "476482",
-          "title": "[공지] [기타] 연세메일 신청 방법 안내",
+          "title": "[공지] [기타] 연세메일 신청 방법 안내 / Yonsei Email Account Application Guide",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476482&article.offset=0&articleLimit=10",
           "date": "2026-08-13",
           "category": null,
@@ -161,14 +169,6 @@
           "date": "2026-08-15",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "476638",
-          "title": "[논문] 제15회 KNDA 학술논문상 공고",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476638&article.offset=0&articleLimit=10",
-          "date": "2026-08-15",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-18T00:30:17.559Z",
+      "fetched_at": "2026-08-18T06:20:48.311Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-18T00:30:18.884Z",
+      "fetched_at": "2026-08-18T06:20:50.976Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-18T00:30:20.388Z",
+      "fetched_at": "2026-08-18T06:20:54.289Z",
       "count": 0,
       "items": []
     }
