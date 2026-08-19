@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T00:30:28.200Z",
+  "generated_at": "2026-08-19T06:21:49.691Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-19T00:30:23.261Z",
+      "fetched_at": "2026-08-19T06:21:42.231Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-19T00:30:25.192Z",
+      "fetched_at": "2026-08-19T06:21:45.659Z",
       "count": 20,
       "items": [
         {
@@ -349,9 +349,25 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-19T00:30:26.848Z",
+      "fetched_at": "2026-08-19T06:21:48.283Z",
       "count": 20,
       "items": [
+        {
+          "id": "2143",
+          "title": "2026-2학기 GLC 서울 문화체험 행사 참가 신청 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2143",
+          "date": "2026-08-19",
+          "category": "일반",
+          "pinned": true
+        },
+        {
+          "id": "2142",
+          "title": "국제캠퍼스 GLC 행정팀 이전 안내(8/26, 수) New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2142",
+          "date": "2026-08-19",
+          "category": "일반",
+          "pinned": true
+        },
         {
           "id": "2134",
           "title": "2026년 8월 GLC 졸업 리셉션 및 학위가운 대여 안내",
@@ -495,22 +511,6 @@
           "date": "2026-08-04",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2133",
-          "title": "[Study in Korea] 2026년 한국유학 홍보 숏폼 영상 공모전",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2133",
-          "date": "2026-08-03",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2132",
-          "title": "[국회사무처] 2026년도 국회 청년민주주의과정(2차) 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2132",
-          "date": "2026-08-03",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-19T00:30:28.200Z",
+      "fetched_at": "2026-08-19T06:21:49.691Z",
       "count": 0,
       "items": []
     }
