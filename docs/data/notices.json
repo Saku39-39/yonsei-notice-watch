@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T00:30:27.079Z",
+  "generated_at": "2026-08-20T06:22:51.214Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-20T00:30:20.841Z",
+      "fetched_at": "2026-08-20T06:22:45.117Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-20T00:30:22.937Z",
+      "fetched_at": "2026-08-20T06:22:47.566Z",
       "count": 20,
       "items": [
         {
@@ -349,12 +349,20 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-20T00:30:25.562Z",
+      "fetched_at": "2026-08-20T06:22:49.985Z",
       "count": 20,
       "items": [
         {
+          "id": "2145",
+          "title": "2026-2 GLC 튜터링 신청 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2145",
+          "date": "2026-08-20",
+          "category": "일반",
+          "pinned": true
+        },
+        {
           "id": "2143",
-          "title": "2026-2학기 GLC 서울 문화체험 행사 참가 신청 New",
+          "title": "2026-2학기 GLC 서울 문화체험 행사 참가 신청",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2143",
           "date": "2026-08-19",
           "category": "일반",
@@ -362,7 +370,7 @@
         },
         {
           "id": "2142",
-          "title": "국제캠퍼스 GLC 행정팀 이전 안내(8/26, 수) New",
+          "title": "국제캠퍼스 GLC 행정팀 이전 안내(8/26, 수)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2142",
           "date": "2026-08-19",
           "category": "일반",
@@ -385,27 +393,11 @@
           "pinned": true
         },
         {
-          "id": "2124",
-          "title": "2026-2학기 재학생(GBED) GLC 교양 교과목 수강신청 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2124",
-          "date": "2026-07-20",
-          "category": "학사",
-          "pinned": true
-        },
-        {
           "id": "2113",
           "title": "2026-2 글로벌인재학부 복학생 진리장학금(소급) 신청 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2113",
           "date": "2026-07-01",
           "category": "장학",
-          "pinned": true
-        },
-        {
-          "id": "2092",
-          "title": "2026-1 TOPIK 응시료 지원 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2092",
-          "date": "2026-05-18",
-          "category": "일반",
           "pinned": true
         },
         {
@@ -465,6 +457,22 @@
           "pinned": true
         },
         {
+          "id": "2146",
+          "title": "[금융투자교육원X해양진흥공사] 대학생 대상 해양금융 미래 전문가 과정 안내 (무료) New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2146",
+          "date": "2026-08-20",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2144",
+          "title": "[세종학당재단] 2026 세종학당 우수학습자 초청 연수 이끄미(자원봉사자) 모집 안내 (~8/23 마감) New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2144",
+          "date": "2026-08-20",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2141",
           "title": "2026-2학기 GLC 행정팀 근로장학생 모집 공고",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2141",
@@ -503,14 +511,6 @@
           "date": "2026-08-04",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2136",
-          "title": "제10회 대학생 통상정책 토론대회",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2136",
-          "date": "2026-08-04",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-20T00:30:27.078Z",
+      "fetched_at": "2026-08-20T06:22:51.214Z",
       "count": 0,
       "items": []
     }
