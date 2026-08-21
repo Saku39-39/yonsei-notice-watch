@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T00:33:12.770Z",
+  "generated_at": "2026-08-21T06:22:51.412Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-21T00:33:07.171Z",
+      "fetched_at": "2026-08-21T06:22:45.185Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-21T00:33:09.319Z",
+      "fetched_at": "2026-08-21T06:22:47.827Z",
       "count": 20,
       "items": [
         {
@@ -349,12 +349,12 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-21T00:33:11.624Z",
+      "fetched_at": "2026-08-21T06:22:49.584Z",
       "count": 20,
       "items": [
         {
           "id": "2145",
-          "title": "2026-2 GLC 튜터링 신청 안내 New",
+          "title": "2026-2 GLC 튜터링 신청 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2145",
           "date": "2026-08-20",
           "category": "일반",
@@ -458,7 +458,7 @@
         },
         {
           "id": "2146",
-          "title": "[금융투자교육원X해양진흥공사] 대학생 대상 해양금융 미래 전문가 과정 안내 (무료) New",
+          "title": "[금융투자교육원X해양진흥공사] 대학생 대상 해양금융 미래 전문가 과정 안내 (무료)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2146",
           "date": "2026-08-20",
           "category": "일반",
@@ -466,7 +466,7 @@
         },
         {
           "id": "2144",
-          "title": "[세종학당재단] 2026 세종학당 우수학습자 초청 연수 이끄미(자원봉사자) 모집 안내 (~8/23 마감) New",
+          "title": "[세종학당재단] 2026 세종학당 우수학습자 초청 연수 이끄미(자원봉사자) 모집 안내 (~8/23 마감)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2144",
           "date": "2026-08-20",
           "category": "일반",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-21T00:33:12.769Z",
+      "fetched_at": "2026-08-21T06:22:51.412Z",
       "count": 0,
       "items": []
     }
