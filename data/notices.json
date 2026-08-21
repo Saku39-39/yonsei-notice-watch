@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T06:22:51.412Z",
+  "generated_at": "2026-08-21T12:20:14.856Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-21T06:22:45.185Z",
+      "fetched_at": "2026-08-21T12:20:09.701Z",
       "count": 20,
       "items": [
+        {
+          "id": "477129",
+          "title": "[공지] [장학] 2026학년도 2학기 대학원 글로벌성공센터 대학원혁신 GSRA 모집 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=477129&article.offset=0&articleLimit=10",
+          "date": "2026-08-21",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "476722",
           "title": "[공지] 2026학년도 2학기 외국 국적 교내 구성원 금융 ID카드 발급 안내 / Financial ID Card Issuance Guide for International Members (Fall Semester 2026)",
@@ -161,14 +169,6 @@
           "date": "2026-08-18",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "476640",
-          "title": "[논문] 2026년도 하반기 선거·정치제도 개선을 위한 등재학술지 『선거연구』 논문 공모 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476640&article.offset=0&articleLimit=10",
-          "date": "2026-08-15",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-21T06:22:47.827Z",
+      "fetched_at": "2026-08-21T12:20:10.799Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-21T06:22:49.584Z",
+      "fetched_at": "2026-08-21T12:20:13.077Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-21T06:22:51.412Z",
+      "fetched_at": "2026-08-21T12:20:14.855Z",
       "count": 0,
       "items": []
     }
