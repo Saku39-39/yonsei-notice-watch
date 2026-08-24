@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T00:32:09.028Z",
+  "generated_at": "2026-08-24T06:31:59.021Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-24T00:32:04.050Z",
+      "fetched_at": "2026-08-24T06:31:53.061Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-24T00:32:05.700Z",
+      "fetched_at": "2026-08-24T06:31:55.373Z",
       "count": 20,
       "items": [
         {
@@ -278,6 +278,14 @@
           "pinned": true
         },
         {
+          "id": "477234",
+          "title": "[문화인류학과 BK21 예비교육연구단] 9월 10일(목) 리장 교수 초청 특별 강연 안내",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=477234&article.offset=0&articleLimit=10",
+          "date": "2026-08-24",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "476771",
           "title": "[홍보] 제3회 SCI-SCI Korea Workshop 참가 등록 안내",
           "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=476771&article.offset=0&articleLimit=10",
@@ -332,14 +340,6 @@
           "date": "2026-06-08",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "472560",
-          "title": "2026학년도 2학기 AI융합심화전공 선발 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=472560&article.offset=0&articleLimit=10",
-          "date": "2026-06-05",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-24T00:32:07.513Z",
+      "fetched_at": "2026-08-24T06:31:57.129Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-24T00:32:09.028Z",
+      "fetched_at": "2026-08-24T06:31:59.021Z",
       "count": 0,
       "items": []
     }
