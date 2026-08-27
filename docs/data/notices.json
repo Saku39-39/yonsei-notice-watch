@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T19:29:14.326Z",
+  "generated_at": "2026-08-27T05:23:07.416Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-26T19:29:07.559Z",
+      "fetched_at": "2026-08-27T05:23:04.035Z",
       "count": 20,
       "items": [
         {
@@ -163,10 +163,10 @@
           "pinned": true
         },
         {
-          "id": "477498",
-          "title": "[기타] Visa Seminar & 1:1 Consulting for International STEM Students and Researchers (Monday, September 14)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=477498&article.offset=0&articleLimit=10",
-          "date": "2026-08-26",
+          "id": "477548",
+          "title": "[장학] 2026년 하반기 ICONS 융합연구 장학제도 장학생 모집",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=477548&article.offset=0&articleLimit=10",
+          "date": "2026-08-27",
           "category": null,
           "pinned": false
         }
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-26T19:29:10.944Z",
+      "fetched_at": "2026-08-27T05:23:05.071Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-26T19:29:13.311Z",
+      "fetched_at": "2026-08-27T05:23:06.344Z",
       "count": 20,
       "items": [
         {
@@ -465,6 +465,30 @@
           "pinned": true
         },
         {
+          "id": "2152",
+          "title": "[Fall 2026] Welcome Party for International Students New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2152",
+          "date": "2026-08-27",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2151",
+          "title": "2026년 충주시 청년·인구정책 숏폼 공모전: 릴스 타고 미래도시 충주로! 숏폼 영상 공모전 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2151",
+          "date": "2026-08-27",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2150",
+          "title": "<2026 월정사 글로벌 리더 가을&겨울 캠프 한국대표단 모집(~9/4)> New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2150",
+          "date": "2026-08-27",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2146",
           "title": "[금융투자교육원X해양진흥공사] 대학생 대상 해양금융 미래 전문가 과정 안내 (무료)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2146",
@@ -487,30 +511,6 @@
           "date": "2026-08-12",
           "category": "장학",
           "pinned": false
-        },
-        {
-          "id": "2140",
-          "title": "[선농문화포럼] 외국인 유학생 대상「2026년 리더십 아카데미」가을 과정 신청 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2140",
-          "date": "2026-08-06",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2139",
-          "title": "[HIMUN] 제50차 모의유엔 총회 사전관람 신청 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2139",
-          "date": "2026-08-06",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2138",
-          "title": "2026 창작악단 기획공연 <긴산조 협주곡 Ⅲ> 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2138",
-          "date": "2026-08-06",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-26T19:29:14.326Z",
+      "fetched_at": "2026-08-27T05:23:07.415Z",
       "count": 0,
       "items": []
     }
