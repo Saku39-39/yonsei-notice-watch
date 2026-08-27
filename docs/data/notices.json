@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T05:23:07.416Z",
+  "generated_at": "2026-08-27T16:57:34.337Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-27T05:23:04.035Z",
+      "fetched_at": "2026-08-27T16:57:27.764Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-27T05:23:05.071Z",
+      "fetched_at": "2026-08-27T16:57:30.653Z",
       "count": 20,
       "items": [
         {
@@ -349,12 +349,20 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-27T05:23:06.344Z",
+      "fetched_at": "2026-08-27T16:57:32.565Z",
       "count": 20,
       "items": [
         {
+          "id": "2153",
+          "title": "글쓰기 대면지도 신청 방법 변경 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2153",
+          "date": "2026-08-27",
+          "category": "일반",
+          "pinned": true
+        },
+        {
           "id": "2149",
-          "title": "2026년 2학기 GLC 버디 프로그램 참가자 모집 안내 New",
+          "title": "2026년 2학기 GLC 버디 프로그램 참가자 모집 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2149",
           "date": "2026-08-26",
           "category": "일반",
@@ -465,6 +473,14 @@
           "pinned": true
         },
         {
+          "id": "2154",
+          "title": "2026-2학기 글로벌인재대학 강사 채용 공고 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2154",
+          "date": "2026-08-27",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "2152",
           "title": "[Fall 2026] Welcome Party for International Students New",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2152",
@@ -495,22 +511,6 @@
           "date": "2026-08-20",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2144",
-          "title": "[세종학당재단] 2026 세종학당 우수학습자 초청 연수 이끄미(자원봉사자) 모집 안내 (~8/23 마감)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2144",
-          "date": "2026-08-20",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2141",
-          "title": "2026-2학기 GLC 행정팀 근로장학생 모집 공고",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2141",
-          "date": "2026-08-12",
-          "category": "장학",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-27T05:23:07.415Z",
+      "fetched_at": "2026-08-27T16:57:34.337Z",
       "count": 0,
       "items": []
     }
