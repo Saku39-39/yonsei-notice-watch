@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T01:50:08.558Z",
+  "generated_at": "2026-08-28T17:47:24.230Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-28T01:50:01.166Z",
+      "fetched_at": "2026-08-28T17:47:20.193Z",
       "count": 20,
       "items": [
         {
@@ -23,14 +23,6 @@
           "title": "[공지] 2026학년도 2학기 외국 국적 교내 구성원 금융 ID카드 발급 안내 / Financial ID Card Issuance Guide for International Members (Fall Semester 2026)",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476722&article.offset=0&articleLimit=10",
           "date": "2026-08-18",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "476577",
-          "title": "[공지] [졸업] 미래캠퍼스 2026년 8월 학위기 수령 및 석사 학위 가운 대여 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476577&article.offset=0&articleLimit=10",
-          "date": "2026-08-14",
           "category": null,
           "pinned": true
         },
@@ -63,14 +55,6 @@
           "title": "[공지] [수업] 3대학원(서강대, 이화여대) 2026학년도 2학기 대학원 학점교환 수강 안내 및 한국과학기술연구원(KIST) 교과목 수강 안내",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476226&article.offset=0&articleLimit=10",
           "date": "2026-08-07",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "476071",
-          "title": "[공지] [졸업] 2026년 8월 학위수여식 안내(신촌/국제)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476071&article.offset=0&articleLimit=10",
-          "date": "2026-08-05",
           "category": null,
           "pinned": true
         },
@@ -169,6 +153,22 @@
           "date": "2026-08-27",
           "category": null,
           "pinned": false
+        },
+        {
+          "id": "477498",
+          "title": "[기타] Visa Seminar & 1:1 Consulting for International STEM Students and Researchers (Monday, September 14)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=477498&article.offset=0&articleLimit=10",
+          "date": "2026-08-26",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "477422",
+          "title": "[장학] [대학원혁신] 2026-2학기 대학원 글로벌인재육성팀 GTD GSRA 모집",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=477422&article.offset=0&articleLimit=10",
+          "date": "2026-08-26",
+          "category": null,
+          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-28T01:50:04.992Z",
+      "fetched_at": "2026-08-28T17:47:21.410Z",
       "count": 20,
       "items": [
         {
@@ -349,12 +349,12 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-28T01:50:06.771Z",
+      "fetched_at": "2026-08-28T17:47:22.745Z",
       "count": 20,
       "items": [
         {
           "id": "2153",
-          "title": "글쓰기 대면지도 신청 방법 변경 안내 New",
+          "title": "글쓰기 대면지도 신청 방법 변경 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2153",
           "date": "2026-08-27",
           "category": "일반",
@@ -473,14 +473,6 @@
           "pinned": true
         },
         {
-          "id": "2154",
-          "title": "2026-2학기 글로벌인재대학 강사 채용 공고 New",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2154",
-          "date": "2026-08-27",
-          "category": null,
-          "pinned": false
-        },
-        {
           "id": "2152",
           "title": "[Fall 2026] Welcome Party for International Students",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2152",
@@ -511,6 +503,14 @@
           "date": "2026-08-20",
           "category": "일반",
           "pinned": false
+        },
+        {
+          "id": "2144",
+          "title": "[세종학당재단] 2026 세종학당 우수학습자 초청 연수 이끄미(자원봉사자) 모집 안내 (~8/23 마감)",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2144",
+          "date": "2026-08-20",
+          "category": "일반",
+          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-28T01:50:08.558Z",
+      "fetched_at": "2026-08-28T17:47:24.230Z",
       "count": 0,
       "items": []
     }
