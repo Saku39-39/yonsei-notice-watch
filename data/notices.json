@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T16:57:34.337Z",
+  "generated_at": "2026-08-28T01:50:08.558Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-27T16:57:27.764Z",
+      "fetched_at": "2026-08-28T01:50:01.166Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-27T16:57:30.653Z",
+      "fetched_at": "2026-08-28T01:50:04.992Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-27T16:57:32.565Z",
+      "fetched_at": "2026-08-28T01:50:06.771Z",
       "count": 20,
       "items": [
         {
@@ -482,7 +482,7 @@
         },
         {
           "id": "2152",
-          "title": "[Fall 2026] Welcome Party for International Students New",
+          "title": "[Fall 2026] Welcome Party for International Students",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2152",
           "date": "2026-08-27",
           "category": "일반",
@@ -490,7 +490,7 @@
         },
         {
           "id": "2151",
-          "title": "2026년 충주시 청년·인구정책 숏폼 공모전: 릴스 타고 미래도시 충주로! 숏폼 영상 공모전 안내 New",
+          "title": "2026년 충주시 청년·인구정책 숏폼 공모전: 릴스 타고 미래도시 충주로! 숏폼 영상 공모전 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2151",
           "date": "2026-08-27",
           "category": "일반",
@@ -498,7 +498,7 @@
         },
         {
           "id": "2150",
-          "title": "<2026 월정사 글로벌 리더 가을&겨울 캠프 한국대표단 모집(~9/4)> New",
+          "title": "<2026 월정사 글로벌 리더 가을&겨울 캠프 한국대표단 모집(~9/4)>",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2150",
           "date": "2026-08-27",
           "category": "일반",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-27T16:57:34.337Z",
+      "fetched_at": "2026-08-28T01:50:08.558Z",
       "count": 0,
       "items": []
     }
