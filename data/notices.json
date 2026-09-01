@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T10:37:59.879Z",
+  "generated_at": "2026-09-01T15:39:15.044Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-01T10:37:54.454Z",
+      "fetched_at": "2026-09-01T15:39:09.027Z",
       "count": 20,
       "items": [
         {
@@ -131,6 +131,14 @@
           "pinned": true
         },
         {
+          "id": "478212",
+          "title": "2026년 상반기분 통영시 대학생 학자금 이자 지원 공고",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478212&article.offset=0&articleLimit=10",
+          "date": "2026-09-01",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "478200",
           "title": "[조교모집] 학부대학 이정아 교수님 조교 선발 공고",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478200&article.offset=0&articleLimit=10",
@@ -161,14 +169,6 @@
           "date": "2026-08-26",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "477129",
-          "title": "[장학] 2026학년도 2학기 대학원 글로벌성공센터 대학원혁신 GSRA 모집 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=477129&article.offset=0&articleLimit=10",
-          "date": "2026-08-21",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-01T10:37:56.923Z",
+      "fetched_at": "2026-09-01T15:39:11.942Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-01T10:37:58.231Z",
+      "fetched_at": "2026-09-01T15:39:13.230Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-01T10:37:59.879Z",
+      "fetched_at": "2026-09-01T15:39:15.043Z",
       "count": 0,
       "items": []
     }
