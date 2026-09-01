@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T02:18:00.958Z",
+  "generated_at": "2026-09-01T10:37:59.879Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-01T02:17:55.173Z",
+      "fetched_at": "2026-09-01T10:37:54.454Z",
       "count": 20,
       "items": [
         {
@@ -131,6 +131,14 @@
           "pinned": true
         },
         {
+          "id": "478200",
+          "title": "[조교모집] 학부대학 이정아 교수님 조교 선발 공고",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478200&article.offset=0&articleLimit=10",
+          "date": "2026-09-01",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "477548",
           "title": "[장학] 2026년 하반기 ICONS 융합연구 장학제도 장학생 모집",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=477548&article.offset=0&articleLimit=10",
@@ -161,14 +169,6 @@
           "date": "2026-08-21",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "476767",
-          "title": "[기타] 2026-2학기 출입국업무 대행 서비스 시행 알림(외국인등록 및 체류기간 연장)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476767&article.offset=0&articleLimit=10",
-          "date": "2026-08-18",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-01T02:17:56.992Z",
+      "fetched_at": "2026-09-01T10:37:56.923Z",
       "count": 20,
       "items": [
         {
@@ -207,7 +207,7 @@
         },
         {
           "id": "211305",
-          "title": "[공지] 2025-2학기 (최)우등상 및 지난 학위증 수령 관련 안내",
+          "title": "[공지] 2026-1학기 (최)우등상 및 지난 학위증 수령 관련 안내",
           "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=211305&article.offset=0&articleLimit=10",
           "date": "2024-09-19",
           "category": null,
@@ -349,9 +349,17 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-01T02:17:59.093Z",
+      "fetched_at": "2026-09-01T10:37:58.231Z",
       "count": 20,
       "items": [
+        {
+          "id": "2156",
+          "title": "외국인 유학생 대상 TOPIK 심화 프로그램 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2156",
+          "date": "2026-09-01",
+          "category": "일반",
+          "pinned": true
+        },
         {
           "id": "2153",
           "title": "글쓰기 대면지도 신청 방법 변경 안내",
@@ -473,42 +481,34 @@
           "pinned": true
         },
         {
+          "id": "2158",
+          "title": "[9/4 연세대 커리어 페어] 2027 상반기 주요 고객사 프로젝트 담당자 신입 채용_Early Track New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2158",
+          "date": "2026-09-01",
+          "category": "취업",
+          "pinned": false
+        },
+        {
+          "id": "2157",
+          "title": "[롯데지주] 밸유 for ESG 5기 대학생 봉사단 모집 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2157",
+          "date": "2026-09-01",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2155",
+          "title": "[한국정치학회] 2026 하반기 의회선거 진로 프로그램 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2155",
+          "date": "2026-09-01",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2152",
           "title": "[Fall 2026] Welcome Party for International Students",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2152",
           "date": "2026-08-27",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2151",
-          "title": "2026년 충주시 청년·인구정책 숏폼 공모전: 릴스 타고 미래도시 충주로! 숏폼 영상 공모전 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2151",
-          "date": "2026-08-27",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2150",
-          "title": "<2026 월정사 글로벌 리더 가을&겨울 캠프 한국대표단 모집(~9/4)>",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2150",
-          "date": "2026-08-27",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2146",
-          "title": "[금융투자교육원X해양진흥공사] 대학생 대상 해양금융 미래 전문가 과정 안내 (무료)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2146",
-          "date": "2026-08-20",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2144",
-          "title": "[세종학당재단] 2026 세종학당 우수학습자 초청 연수 이끄미(자원봉사자) 모집 안내 (~8/23 마감)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2144",
-          "date": "2026-08-20",
           "category": "일반",
           "pinned": false
         }
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-01T02:18:00.958Z",
+      "fetched_at": "2026-09-01T10:37:59.879Z",
       "count": 0,
       "items": []
     }
