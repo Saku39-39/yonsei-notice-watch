@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T18:43:04.317Z",
+  "generated_at": "2026-09-01T02:18:00.958Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,41 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-31T18:42:57.276Z",
+      "fetched_at": "2026-09-01T02:17:55.173Z",
       "count": 20,
       "items": [
+        {
+          "id": "478032",
+          "title": "[공지] [일반대학원] 대학원 교학팀 행정 지원 조교 모집안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478032&article.offset=0&articleLimit=10",
+          "date": "2026-09-01",
+          "category": null,
+          "pinned": true
+        },
+        {
+          "id": "478029",
+          "title": "[공지] [기타] [대학원혁신사업] 2026학년도 대학원혁신 기초학력보완 교육 프로그램 제작사업 시행 안내(~9/21)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478029&article.offset=0&articleLimit=10",
+          "date": "2026-09-01",
+          "category": null,
+          "pinned": true
+        },
+        {
+          "id": "478002",
+          "title": "[공지] [기타] [대학원혁신사업] 2026-2학기 대학원혁신 모니터링단 GSRA 모집(~2026.9.14.(월))",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478002&article.offset=0&articleLimit=10",
+          "date": "2026-09-01",
+          "category": null,
+          "pinned": true
+        },
+        {
+          "id": "477970",
+          "title": "[공지] [기타] 2026-2학기 대학원혁신 Y-ARF 대학원생 우수 학술논문 게재료 지원사업 시행 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=477970&article.offset=0&articleLimit=10",
+          "date": "2026-09-01",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "477831",
           "title": "[공지] [기타] [진로지원]대학원생을 위한, 대기업 인사팀 출신과 함께하는 자소서 특강 및 1:1 컨설팅",
@@ -137,38 +169,6 @@
           "date": "2026-08-18",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "476640",
-          "title": "[논문] 2026년도 하반기 선거·정치제도 개선을 위한 등재학술지 『선거연구』 논문 공모 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476640&article.offset=0&articleLimit=10",
-          "date": "2026-08-15",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "476639",
-          "title": "[논문] 등재학술지 [청소년상담연구] 34권 2호 투고 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476639&article.offset=0&articleLimit=10",
-          "date": "2026-08-15",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "476638",
-          "title": "[논문] 제15회 KNDA 학술논문상 공고",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476638&article.offset=0&articleLimit=10",
-          "date": "2026-08-15",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "476637",
-          "title": "[논문] 26년 KCI 국방품질연구논집(8권 2호) 논문모집",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476637&article.offset=0&articleLimit=10",
-          "date": "2026-08-15",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-08-31T18:43:00.118Z",
+      "fetched_at": "2026-09-01T02:17:56.992Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-08-31T18:43:02.501Z",
+      "fetched_at": "2026-09-01T02:17:59.093Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-08-31T18:43:04.316Z",
+      "fetched_at": "2026-09-01T02:18:00.958Z",
       "count": 0,
       "items": []
     }
