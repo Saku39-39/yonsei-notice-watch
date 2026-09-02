@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T01:39:46.644Z",
+  "generated_at": "2026-09-02T10:03:34.352Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-02T01:39:40.018Z",
+      "fetched_at": "2026-09-02T10:03:29.711Z",
       "count": 20,
       "items": [
+        {
+          "id": "478393",
+          "title": "[공지] [입학] [2027학년도 전기] 외국인 학부생 및 한국어학당 학생 대상 - 일반대학원 입학설명회 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478393&article.offset=0&articleLimit=10",
+          "date": "2026-09-02",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "478032",
           "title": "[공지] [일반대학원] 대학원 교학팀 행정 지원 조교 모집안내",
@@ -161,14 +169,6 @@
           "date": "2026-08-26",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "477422",
-          "title": "[장학] [대학원혁신] 2026-2학기 대학원 글로벌인재육성팀 GTD GSRA 모집",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=477422&article.offset=0&articleLimit=10",
-          "date": "2026-08-26",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-02T01:39:42.352Z",
+      "fetched_at": "2026-09-02T10:03:31.308Z",
       "count": 20,
       "items": [
         {
@@ -349,12 +349,12 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-02T01:39:44.811Z",
+      "fetched_at": "2026-09-02T10:03:33.007Z",
       "count": 20,
       "items": [
         {
           "id": "2156",
-          "title": "외국인 유학생 대상 TOPIK 심화 프로그램 안내 New",
+          "title": "외국인 유학생 대상 TOPIK 심화 프로그램 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2156",
           "date": "2026-09-01",
           "category": "일반",
@@ -481,6 +481,14 @@
           "pinned": true
         },
         {
+          "id": "2160",
+          "title": "제13회 세종한국어평가(SKA) 국내 시행 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2160",
+          "date": "2026-09-02",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2159",
           "title": "[국제처] 2026학년도 겨울방학 미주개발은행(Inter-American Development Bank) 해외 인턴십 프로그램 New",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2159",
@@ -490,7 +498,7 @@
         },
         {
           "id": "2158",
-          "title": "[9/4 연세대 커리어 페어] 2027 상반기 주요 고객사 프로젝트 담당자 신입 채용_Early Track New",
+          "title": "[9/4 연세대 커리어 페어] 2027 상반기 주요 고객사 프로젝트 담당자 신입 채용_Early Track",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2158",
           "date": "2026-09-01",
           "category": "취업",
@@ -498,16 +506,8 @@
         },
         {
           "id": "2157",
-          "title": "[롯데지주] 밸유 for ESG 5기 대학생 봉사단 모집 안내 New",
+          "title": "[롯데지주] 밸유 for ESG 5기 대학생 봉사단 모집 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2157",
-          "date": "2026-09-01",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2155",
-          "title": "[한국정치학회] 2026 하반기 의회선거 진로 프로그램 안내 New",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2155",
           "date": "2026-09-01",
           "category": "일반",
           "pinned": false
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-02T01:39:46.643Z",
+      "fetched_at": "2026-09-02T10:03:34.352Z",
       "count": 0,
       "items": []
     }
