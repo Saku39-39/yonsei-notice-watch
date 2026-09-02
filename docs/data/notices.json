@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T20:13:56.460Z",
+  "generated_at": "2026-09-02T01:39:46.644Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-01T20:13:49.410Z",
+      "fetched_at": "2026-09-02T01:39:40.018Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-01T20:13:51.862Z",
+      "fetched_at": "2026-09-02T01:39:42.352Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-01T20:13:54.250Z",
+      "fetched_at": "2026-09-02T01:39:44.811Z",
       "count": 20,
       "items": [
         {
@@ -481,6 +481,14 @@
           "pinned": true
         },
         {
+          "id": "2159",
+          "title": "[국제처] 2026학년도 겨울방학 미주개발은행(Inter-American Development Bank) 해외 인턴십 프로그램 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2159",
+          "date": "2026-09-02",
+          "category": "취업",
+          "pinned": false
+        },
+        {
           "id": "2158",
           "title": "[9/4 연세대 커리어 페어] 2027 상반기 주요 고객사 프로젝트 담당자 신입 채용_Early Track New",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2158",
@@ -503,14 +511,6 @@
           "date": "2026-09-01",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2152",
-          "title": "[Fall 2026] Welcome Party for International Students",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2152",
-          "date": "2026-08-27",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-01T20:13:56.460Z",
+      "fetched_at": "2026-09-02T01:39:46.643Z",
       "count": 0,
       "items": []
     }
