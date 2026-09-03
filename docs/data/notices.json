@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T01:44:51.412Z",
+  "generated_at": "2026-09-03T10:13:39.108Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-03T01:44:47.241Z",
+      "fetched_at": "2026-09-03T10:13:33.134Z",
       "count": 20,
       "items": [
         {
@@ -131,6 +131,14 @@
           "pinned": true
         },
         {
+          "id": "478553",
+          "title": "[기타] K-STAR Visa Track for Fall 2026: Information for International STEM Students",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478553&article.offset=0&articleLimit=10",
+          "date": "2026-09-03",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "478412",
           "title": "[기타] 2026학년도 2학기 대학원생 정기 주차권 등록 및 등록 전 주차비 지원 안내",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478412&article.offset=0&articleLimit=10",
@@ -161,14 +169,6 @@
           "date": "2026-09-01",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "477548",
-          "title": "[장학] 2026년 하반기 ICONS 융합연구 장학제도 장학생 모집",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=477548&article.offset=0&articleLimit=10",
-          "date": "2026-08-27",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-03T01:44:48.589Z",
+      "fetched_at": "2026-09-03T10:13:35.495Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-03T01:44:50.285Z",
+      "fetched_at": "2026-09-03T10:13:38.216Z",
       "count": 20,
       "items": [
         {
@@ -390,30 +390,6 @@
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2143",
           "date": "2026-08-19",
           "category": "일반",
-          "pinned": true
-        },
-        {
-          "id": "2142",
-          "title": "국제캠퍼스 GLC 행정팀 이전 안내(8/26, 수)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2142",
-          "date": "2026-08-19",
-          "category": "일반",
-          "pinned": true
-        },
-        {
-          "id": "2134",
-          "title": "2026년 8월 GLC 졸업 리셉션 및 학위가운 대여 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2134",
-          "date": "2026-08-03",
-          "category": "학사",
-          "pinned": true
-        },
-        {
-          "id": "2131",
-          "title": "2026-2학기 글로벌인재학부(GLD) 장학금 선발 결과 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2131",
-          "date": "2026-07-24",
-          "category": "장학",
           "pinned": true
         },
         {
@@ -481,8 +457,24 @@
           "pinned": true
         },
         {
+          "id": "2162",
+          "title": "[Fall 2026] Cultural Trip For Yonsei International Students New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2162",
+          "date": "2026-09-03",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2161",
+          "title": "[PwC컨설팅 및 Strategy&] 2026년 신입 컨설턴트 공채 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2161",
+          "date": "2026-09-03",
+          "category": "취업",
+          "pinned": false
+        },
+        {
           "id": "2160",
-          "title": "제13회 세종한국어평가(SKA) 국내 시행 안내 New",
+          "title": "제13회 세종한국어평가(SKA) 국내 시행 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2160",
           "date": "2026-09-02",
           "category": "일반",
@@ -511,6 +503,14 @@
           "date": "2026-09-01",
           "category": "일반",
           "pinned": false
+        },
+        {
+          "id": "2155",
+          "title": "[한국정치학회] 2026 하반기 의회선거 진로 프로그램 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2155",
+          "date": "2026-09-01",
+          "category": "일반",
+          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-03T01:44:51.411Z",
+      "fetched_at": "2026-09-03T10:13:39.108Z",
       "count": 0,
       "items": []
     }
