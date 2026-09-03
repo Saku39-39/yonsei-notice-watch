@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:12:07.236Z",
+  "generated_at": "2026-09-03T01:44:51.412Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-02T20:12:03.033Z",
+      "fetched_at": "2026-09-03T01:44:47.241Z",
       "count": 20,
       "items": [
         {
@@ -15,14 +15,6 @@
           "title": "[공지] [입학] [2027학년도 전기] 외국인 학부생 및 한국어학당 학생 대상 - 일반대학원 입학설명회 안내",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478393&article.offset=0&articleLimit=10",
           "date": "2026-09-02",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "478032",
-          "title": "[공지] [일반대학원] 대학원 교학팀 행정 지원 조교 모집안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478032&article.offset=0&articleLimit=10",
-          "date": "2026-09-01",
           "category": null,
           "pinned": true
         },
@@ -139,6 +131,14 @@
           "pinned": true
         },
         {
+          "id": "478412",
+          "title": "[기타] 2026학년도 2학기 대학원생 정기 주차권 등록 및 등록 전 주차비 지원 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478412&article.offset=0&articleLimit=10",
+          "date": "2026-09-03",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "478212",
           "title": "2026년 상반기분 통영시 대학생 학자금 이자 지원 공고",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478212&article.offset=0&articleLimit=10",
@@ -155,18 +155,18 @@
           "pinned": false
         },
         {
-          "id": "477548",
-          "title": "[장학] 2026년 하반기 ICONS 융합연구 장학제도 장학생 모집",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=477548&article.offset=0&articleLimit=10",
-          "date": "2026-08-27",
+          "id": "478032",
+          "title": "[일반대학원] 대학원 교학팀 행정 지원 조교 모집안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478032&article.offset=0&articleLimit=10",
+          "date": "2026-09-01",
           "category": null,
           "pinned": false
         },
         {
-          "id": "477498",
-          "title": "[기타] Visa Seminar & 1:1 Consulting for International STEM Students and Researchers (Monday, September 14)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=477498&article.offset=0&articleLimit=10",
-          "date": "2026-08-26",
+          "id": "477548",
+          "title": "[장학] 2026년 하반기 ICONS 융합연구 장학제도 장학생 모집",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=477548&article.offset=0&articleLimit=10",
+          "date": "2026-08-27",
           "category": null,
           "pinned": false
         }
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-02T20:12:04.166Z",
+      "fetched_at": "2026-09-03T01:44:48.589Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-02T20:12:06.290Z",
+      "fetched_at": "2026-09-03T01:44:50.285Z",
       "count": 20,
       "items": [
         {
@@ -490,7 +490,7 @@
         },
         {
           "id": "2159",
-          "title": "[국제처] 2026학년도 겨울방학 미주개발은행(Inter-American Development Bank) 해외 인턴십 프로그램 New",
+          "title": "[국제처] 2026학년도 겨울방학 미주개발은행(Inter-American Development Bank) 해외 인턴십 프로그램",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2159",
           "date": "2026-09-02",
           "category": "취업",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-02T20:12:07.236Z",
+      "fetched_at": "2026-09-03T01:44:51.411Z",
       "count": 0,
       "items": []
     }
