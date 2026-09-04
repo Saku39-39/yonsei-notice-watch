@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:40:57.504Z",
+  "generated_at": "2026-09-04T10:10:17.104Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-04T01:40:50.410Z",
+      "fetched_at": "2026-09-04T10:10:11.539Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-04T01:40:54.109Z",
+      "fetched_at": "2026-09-04T10:10:13.351Z",
       "count": 20,
       "items": [
         {
@@ -278,6 +278,22 @@
           "pinned": true
         },
         {
+          "id": "478672",
+          "title": "[홍보] 2027학년도 전기 일반대학원 외국인 학부 및 한국어학당 학생 대상 대학원 입학설명회",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=478672&article.offset=0&articleLimit=10",
+          "date": "2026-09-04",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "478671",
+          "title": "[홍보] 베트남 VinUniversity 조교수 채용 공고",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=478671&article.offset=0&articleLimit=10",
+          "date": "2026-09-04",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "477234",
           "title": "[문화인류학과 BK21 예비교육연구단] 9월 10일(목) 리장 교수 초청 특별 강연 안내",
           "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=477234&article.offset=0&articleLimit=10",
@@ -324,22 +340,6 @@
           "date": "2026-07-14",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "474852",
-          "title": "2026학년도 여름 계절제 학부 강의정보 공유를 위한 설문 실시 안내( 7. 23.(목) ~ 7. 29.(수))",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=474852&article.offset=0&articleLimit=10",
-          "date": "2026-07-13",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "472716",
-          "title": "2026학년도 2학기 캠퍼스내/졸업예정자 복수전공, 융복합전공(연계,융합전공) 신청 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=472716&article.offset=0&articleLimit=10",
-          "date": "2026-06-08",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-04T01:40:56.251Z",
+      "fetched_at": "2026-09-04T10:10:15.766Z",
       "count": 20,
       "items": [
         {
@@ -457,8 +457,24 @@
           "pinned": true
         },
         {
+          "id": "2164",
+          "title": "2027학년도 전기 일반대학원 외국인 학부 및 한국어학당 학생 대상 대학원 입학설명회 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2164",
+          "date": "2026-09-04",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2163",
+          "title": "2026-2027 국제동계대학 조교모집 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2163",
+          "date": "2026-09-04",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2162",
-          "title": "[Fall 2026] Cultural Trip For Yonsei International Students New",
+          "title": "[Fall 2026] Cultural Trip For Yonsei International Students",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2162",
           "date": "2026-09-03",
           "category": "일반",
@@ -466,7 +482,7 @@
         },
         {
           "id": "2161",
-          "title": "[PwC컨설팅 및 Strategy&] 2026년 신입 컨설턴트 공채 New",
+          "title": "[PwC컨설팅 및 Strategy&] 2026년 신입 컨설턴트 공채",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2161",
           "date": "2026-09-03",
           "category": "취업",
@@ -495,22 +511,6 @@
           "date": "2026-09-01",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2157",
-          "title": "[롯데지주] 밸유 for ESG 5기 대학생 봉사단 모집 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2157",
-          "date": "2026-09-01",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2155",
-          "title": "[한국정치학회] 2026 하반기 의회선거 진로 프로그램 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2155",
-          "date": "2026-09-01",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-04T01:40:57.503Z",
+      "fetched_at": "2026-09-04T10:10:17.104Z",
       "count": 0,
       "items": []
     }
