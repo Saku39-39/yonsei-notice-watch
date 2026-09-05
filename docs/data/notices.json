@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T01:40:01.258Z",
+  "generated_at": "2026-09-05T09:33:05.576Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-05T01:39:54.489Z",
+      "fetched_at": "2026-09-05T09:33:00.328Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-05T01:39:56.809Z",
+      "fetched_at": "2026-09-05T09:33:02.479Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-05T01:39:59.381Z",
+      "fetched_at": "2026-09-05T09:33:03.933Z",
       "count": 20,
       "items": [
         {
@@ -458,7 +458,7 @@
         },
         {
           "id": "2164",
-          "title": "2027학년도 전기 일반대학원 외국인 학부 및 한국어학당 학생 대상 대학원 입학설명회 New",
+          "title": "2027학년도 전기 일반대학원 외국인 학부 및 한국어학당 학생 대상 대학원 입학설명회",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2164",
           "date": "2026-09-04",
           "category": "일반",
@@ -466,7 +466,7 @@
         },
         {
           "id": "2163",
-          "title": "2026-2027 국제동계대학 조교모집 안내 New",
+          "title": "2026-2027 국제동계대학 조교모집 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2163",
           "date": "2026-09-04",
           "category": "일반",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-05T01:40:01.258Z",
+      "fetched_at": "2026-09-05T09:33:05.576Z",
       "count": 0,
       "items": []
     }
