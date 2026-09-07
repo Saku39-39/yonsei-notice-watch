@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T01:32:28.389Z",
+  "generated_at": "2026-09-07T10:52:44.095Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-07T01:32:21.390Z",
+      "fetched_at": "2026-09-07T10:52:39.457Z",
       "count": 20,
       "items": [
         {
@@ -131,6 +131,14 @@
           "pinned": true
         },
         {
+          "id": "478854",
+          "title": "[수업] 2026학년도 2학기 수강철회 안내 [9. 8.(화) ~ 9. 10.(목)]",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478854&article.offset=0&articleLimit=10",
+          "date": "2026-09-07",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "478787",
           "title": "[기타] [2026-2학기 재학생 대상] 외국인 유학생 민간단체보험 안내자료 Foreign Student Insurance",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478787&article.offset=0&articleLimit=10",
@@ -161,14 +169,6 @@
           "date": "2026-09-01",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "478200",
-          "title": "[조교모집] 학부대학 이정아 교수님 조교 선발 공고",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478200&article.offset=0&articleLimit=10",
-          "date": "2026-09-01",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-07T01:32:24.632Z",
+      "fetched_at": "2026-09-07T10:52:40.899Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-07T01:32:26.386Z",
+      "fetched_at": "2026-09-07T10:52:42.872Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-07T01:32:28.388Z",
+      "fetched_at": "2026-09-07T10:52:44.094Z",
       "count": 0,
       "items": []
     }
