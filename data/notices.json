@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T19:40:37.589Z",
+  "generated_at": "2026-09-07T01:32:28.389Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-06T19:40:32.995Z",
+      "fetched_at": "2026-09-07T01:32:21.390Z",
       "count": 20,
       "items": [
         {
@@ -131,6 +131,14 @@
           "pinned": true
         },
         {
+          "id": "478787",
+          "title": "[기타] [2026-2학기 재학생 대상] 외국인 유학생 민간단체보험 안내자료 Foreign Student Insurance",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478787&article.offset=0&articleLimit=10",
+          "date": "2026-09-07",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "478553",
           "title": "[기타] K-STAR Visa Track for Fall 2026: Information for International STEM Students",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478553&article.offset=0&articleLimit=10",
@@ -161,14 +169,6 @@
           "date": "2026-09-01",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "478032",
-          "title": "[일반대학원] 대학원 교학팀 행정 지원 조교 모집안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478032&article.offset=0&articleLimit=10",
-          "date": "2026-09-01",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-06T19:40:34.616Z",
+      "fetched_at": "2026-09-07T01:32:24.632Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-06T19:40:35.973Z",
+      "fetched_at": "2026-09-07T01:32:26.386Z",
       "count": 20,
       "items": [
         {
@@ -457,6 +457,14 @@
           "pinned": true
         },
         {
+          "id": "2165",
+          "title": "[Fall 2026] Language Exchange Program 참가자 모집 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2165",
+          "date": "2026-09-07",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2164",
           "title": "2027학년도 전기 일반대학원 외국인 학부 및 한국어학당 학생 대상 대학원 입학설명회",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2164",
@@ -503,14 +511,6 @@
           "date": "2026-09-02",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2158",
-          "title": "[9/4 연세대 커리어 페어] 2027 상반기 주요 고객사 프로젝트 담당자 신입 채용_Early Track",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2158",
-          "date": "2026-09-01",
-          "category": "취업",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-06T19:40:37.589Z",
+      "fetched_at": "2026-09-07T01:32:28.388Z",
       "count": 0,
       "items": []
     }
