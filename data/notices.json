@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T01:49:26.882Z",
+  "generated_at": "2026-09-09T10:14:19.803Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-09T01:49:19.547Z",
+      "fetched_at": "2026-09-09T10:14:14.402Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-09T01:49:22.873Z",
+      "fetched_at": "2026-09-09T10:14:16.049Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-09T01:49:24.890Z",
+      "fetched_at": "2026-09-09T10:14:18.148Z",
       "count": 20,
       "items": [
         {
@@ -457,8 +457,24 @@
           "pinned": true
         },
         {
+          "id": "2168",
+          "title": "[서울대학교 KDT] 빅데이터 핀테크 AI 고급 전문가 과정 제14기 모집 (~9/20) New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2168",
+          "date": "2026-09-09",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2167",
+          "title": "[삼성화재] 2026년 하반기 신입사원 채용 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2167",
+          "date": "2026-09-09",
+          "category": "취업",
+          "pinned": false
+        },
+        {
           "id": "2166",
-          "title": "[국제처] 외국인 학위과정 유학생 민간단체보험 제도 안내 New",
+          "title": "[국제처] 외국인 학위과정 유학생 민간단체보험 제도 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2166",
           "date": "2026-09-08",
           "category": "일반",
@@ -495,22 +511,6 @@
           "date": "2026-09-03",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2161",
-          "title": "[PwC컨설팅 및 Strategy&] 2026년 신입 컨설턴트 공채",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2161",
-          "date": "2026-09-03",
-          "category": "취업",
-          "pinned": false
-        },
-        {
-          "id": "2160",
-          "title": "제13회 세종한국어평가(SKA) 국내 시행 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2160",
-          "date": "2026-09-02",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-09T01:49:26.881Z",
+      "fetched_at": "2026-09-09T10:14:19.803Z",
       "count": 0,
       "items": []
     }
