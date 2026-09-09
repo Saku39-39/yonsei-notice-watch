@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:25:46.370Z",
+  "generated_at": "2026-09-09T20:07:22.004Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-09T15:25:40.133Z",
+      "fetched_at": "2026-09-09T20:07:16.854Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-09T15:25:42.905Z",
+      "fetched_at": "2026-09-09T20:07:18.676Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-09T15:25:44.750Z",
+      "fetched_at": "2026-09-09T20:07:20.619Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-09T15:25:46.369Z",
+      "fetched_at": "2026-09-09T20:07:22.003Z",
       "count": 0,
       "items": []
     }
