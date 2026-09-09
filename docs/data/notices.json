@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T20:24:01.567Z",
+  "generated_at": "2026-09-09T01:49:26.882Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-08T20:23:57.346Z",
+      "fetched_at": "2026-09-09T01:49:19.547Z",
       "count": 20,
       "items": [
         {
@@ -123,6 +123,14 @@
           "pinned": true
         },
         {
+          "id": "479103",
+          "title": "[기타] [Recruitment] Graduate-level student Class Teaching Assistant for Prof. Jon Bailey",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479103&article.offset=0&articleLimit=10",
+          "date": "2026-09-09",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "478958",
           "title": "[기타] 2026학년도 대학원생 인권 보호와 증진을 위한 정책 제안 및 아이디어 공모전",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478958&article.offset=0&articleLimit=10",
@@ -161,14 +169,6 @@
           "date": "2026-09-03",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "478212",
-          "title": "2026년 상반기분 통영시 대학생 학자금 이자 지원 공고",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478212&article.offset=0&articleLimit=10",
-          "date": "2026-09-01",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-08T20:23:58.770Z",
+      "fetched_at": "2026-09-09T01:49:22.873Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-08T20:24:00.184Z",
+      "fetched_at": "2026-09-09T01:49:24.890Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-08T20:24:01.566Z",
+      "fetched_at": "2026-09-09T01:49:26.881Z",
       "count": 0,
       "items": []
     }
