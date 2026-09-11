@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T01:44:22.459Z",
+  "generated_at": "2026-09-11T10:06:09.315Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-11T01:44:10.647Z",
+      "fetched_at": "2026-09-11T10:06:02.567Z",
       "count": 20,
       "items": [
         {
@@ -123,6 +123,14 @@
           "pinned": true
         },
         {
+          "id": "479561",
+          "title": "[기타] 2026년 후기 자연계대학원 박사과정 전문연구요원 편입대상자 선발 공고 - 온라인신청(9.21.(월)~10.13.(화))",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479561&article.offset=0&articleLimit=10",
+          "date": "2026-09-11",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "479103",
           "title": "[기타] [Recruitment] Graduate-level student Class Teaching Assistant for Prof. Jon Bailey",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479103&article.offset=0&articleLimit=10",
@@ -161,14 +169,6 @@
           "date": "2026-09-03",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "478412",
-          "title": "[기타] 2026학년도 2학기 대학원생 정기 주차권 등록 및 등록 전 주차비 지원 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478412&article.offset=0&articleLimit=10",
-          "date": "2026-09-03",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-11T01:44:13.930Z",
+      "fetched_at": "2026-09-11T10:06:05.084Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-11T01:44:18.376Z",
+      "fetched_at": "2026-09-11T10:06:07.441Z",
       "count": 20,
       "items": [
         {
@@ -458,7 +458,7 @@
         },
         {
           "id": "2169",
-          "title": "[삼성SDS] '26년 하반기 신입채용 안내 New",
+          "title": "[삼성SDS] '26년 하반기 신입채용 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2169",
           "date": "2026-09-10",
           "category": "취업",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-11T01:44:22.459Z",
+      "fetched_at": "2026-09-11T10:06:09.315Z",
       "count": 0,
       "items": []
     }
