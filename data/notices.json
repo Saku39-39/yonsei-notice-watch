@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:05:12.525Z",
+  "generated_at": "2026-09-14T17:08:06.710Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-14T11:05:05.781Z",
+      "fetched_at": "2026-09-14T17:07:58.791Z",
       "count": 20,
       "items": [
         {
@@ -51,14 +51,6 @@
           "pinned": true
         },
         {
-          "id": "477831",
-          "title": "[공지] [기타] [진로지원]대학원생을 위한, 대기업 인사팀 출신과 함께하는 자소서 특강 및 1:1 컨설팅",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=477831&article.offset=0&articleLimit=10",
-          "date": "2026-08-31",
-          "category": null,
-          "pinned": true
-        },
-        {
           "id": "476482",
           "title": "[공지] [기타] 연세메일 신청 방법 안내 / Yonsei Email Account Application Guide",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476482&article.offset=0&articleLimit=10",
@@ -79,14 +71,6 @@
           "title": "[공지] [등록] 2026-2학기 학부/대학원 재학생 등록안내",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476287&article.offset=0&articleLimit=10",
           "date": "2026-08-10",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "474045",
-          "title": "[공지] [학적] 2026-2학기 휴학·복학 신청 및 학적 관련 안내 / 2026-2 Guidance on Leave of Absence, Reinstatement and other Academic Records",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=474045&article.offset=0&articleLimit=10",
-          "date": "2026-06-26",
           "category": null,
           "pinned": true
         },
@@ -169,6 +153,22 @@
           "date": "2026-09-03",
           "category": null,
           "pinned": false
+        },
+        {
+          "id": "478212",
+          "title": "2026년 상반기분 통영시 대학생 학자금 이자 지원 공고",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478212&article.offset=0&articleLimit=10",
+          "date": "2026-09-01",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "478200",
+          "title": "[조교모집] 학부대학 이정아 교수님 조교 선발 공고",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478200&article.offset=0&articleLimit=10",
+          "date": "2026-09-01",
+          "category": null,
+          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-14T11:05:07.019Z",
+      "fetched_at": "2026-09-14T17:08:01.735Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-14T11:05:11.100Z",
+      "fetched_at": "2026-09-14T17:08:04.398Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-14T11:05:12.524Z",
+      "fetched_at": "2026-09-14T17:08:06.709Z",
       "count": 0,
       "items": []
     }
