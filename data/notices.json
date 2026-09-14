@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T19:56:37.558Z",
+  "generated_at": "2026-09-14T01:59:19.762Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-13T19:56:31.445Z",
+      "fetched_at": "2026-09-14T01:59:12.691Z",
       "count": 20,
       "items": [
+        {
+          "id": "479680",
+          "title": "[공지] [기타] [진로지원]대학원생을 위한, 대기업 인사팀 출신과 함께하는 면접 특강 및 1:1 컨설팅",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479680&article.offset=0&articleLimit=10",
+          "date": "2026-09-14",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "479492",
           "title": "[공지] [등록] 2026-2학기 대학원 추가등록 및 학기초과생·특수교육대상자 등록 안내",
@@ -161,14 +169,6 @@
           "date": "2026-09-03",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "478212",
-          "title": "2026년 상반기분 통영시 대학생 학자금 이자 지원 공고",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478212&article.offset=0&articleLimit=10",
-          "date": "2026-09-01",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-13T19:56:34.488Z",
+      "fetched_at": "2026-09-14T01:59:16.030Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-13T19:56:36.216Z",
+      "fetched_at": "2026-09-14T01:59:17.861Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-13T19:56:37.558Z",
+      "fetched_at": "2026-09-14T01:59:19.761Z",
       "count": 0,
       "items": []
     }
