@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T02:07:32.378Z",
+  "generated_at": "2026-09-15T10:34:47.939Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,25 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-15T02:07:26.638Z",
+      "fetched_at": "2026-09-15T10:34:39.834Z",
       "count": 20,
       "items": [
+        {
+          "id": "479986",
+          "title": "[공지] [기타] 2026학년도 2학기 K-STAR 비자트랙 설명회 (K-STAR Visa Track Information Session for Fall 2026) | 9. 21.(월) 12:00",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479986&article.offset=0&articleLimit=10",
+          "date": "2026-09-15",
+          "category": null,
+          "pinned": true
+        },
+        {
+          "id": "479914",
+          "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 특강 < AI가 코딩하고 논문 쓰는 시대, 대학원생은 무엇을 해야 하는가?> 안내 (9/30, 14:00~)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479914&article.offset=0&articleLimit=10",
+          "date": "2026-09-15",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "479680",
           "title": "[공지] [기타] [진로지원]대학원생을 위한, 대기업 인사팀 출신과 함께하는 면접 특강 및 1:1 컨설팅",
@@ -153,22 +169,6 @@
           "date": "2026-09-03",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "478212",
-          "title": "2026년 상반기분 통영시 대학생 학자금 이자 지원 공고",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478212&article.offset=0&articleLimit=10",
-          "date": "2026-09-01",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "478200",
-          "title": "[조교모집] 학부대학 이정아 교수님 조교 선발 공고",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478200&article.offset=0&articleLimit=10",
-          "date": "2026-09-01",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-15T02:07:29.355Z",
+      "fetched_at": "2026-09-15T10:34:43.335Z",
       "count": 20,
       "items": [
         {
@@ -349,9 +349,17 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-15T02:07:31.468Z",
+      "fetched_at": "2026-09-15T10:34:46.089Z",
       "count": 20,
       "items": [
+        {
+          "id": "2173",
+          "title": "2026-2 학술 한국어 말하기 워크숍 신청 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2173",
+          "date": "2026-09-15",
+          "category": "일반",
+          "pinned": true
+        },
         {
           "id": "2156",
           "title": "외국인 유학생 대상 TOPIK 심화 프로그램 안내",
@@ -457,6 +465,14 @@
           "pinned": true
         },
         {
+          "id": "2174",
+          "title": "[Fall 2026] Business Writing Program for International Students (limited spots!) New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2174",
+          "date": "2026-09-15",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2172",
           "title": "2026 강동 『미네르바 액티브러닝』 유학생멘토 모집 New",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2172",
@@ -495,22 +511,6 @@
           "date": "2026-09-09",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2166",
-          "title": "[국제처] 외국인 학위과정 유학생 민간단체보험 제도 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2166",
-          "date": "2026-09-08",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2165",
-          "title": "[Fall 2026] Language Exchange Program 참가자 모집",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2165",
-          "date": "2026-09-07",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-15T02:07:32.377Z",
+      "fetched_at": "2026-09-15T10:34:47.938Z",
       "count": 0,
       "items": []
     }
