@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T21:06:21.113Z",
+  "generated_at": "2026-09-15T02:07:32.378Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-14T21:06:12.640Z",
+      "fetched_at": "2026-09-15T02:07:26.638Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-14T21:06:16.351Z",
+      "fetched_at": "2026-09-15T02:07:29.355Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-14T21:06:19.721Z",
+      "fetched_at": "2026-09-15T02:07:31.468Z",
       "count": 20,
       "items": [
         {
@@ -457,6 +457,22 @@
           "pinned": true
         },
         {
+          "id": "2172",
+          "title": "2026 강동 『미네르바 액티브러닝』 유학생멘토 모집 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2172",
+          "date": "2026-09-15",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2171",
+          "title": "[현대자동차그룹] 현대자동차그룹 HINT 2기 교육생 모집 (~10/5) New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2171",
+          "date": "2026-09-15",
+          "category": "취업",
+          "pinned": false
+        },
+        {
           "id": "2169",
           "title": "[삼성SDS] '26년 하반기 신입채용 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2169",
@@ -495,22 +511,6 @@
           "date": "2026-09-07",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2164",
-          "title": "2027학년도 전기 일반대학원 외국인 학부 및 한국어학당 학생 대상 대학원 입학설명회",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2164",
-          "date": "2026-09-04",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2163",
-          "title": "2026-2027 국제동계대학 조교모집 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2163",
-          "date": "2026-09-04",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-14T21:06:21.113Z",
+      "fetched_at": "2026-09-15T02:07:32.377Z",
       "count": 0,
       "items": []
     }
