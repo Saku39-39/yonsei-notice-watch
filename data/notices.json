@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T01:59:09.259Z",
+  "generated_at": "2026-09-16T10:23:18.839Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,17 +7,9 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-16T01:59:02.123Z",
+      "fetched_at": "2026-09-16T10:23:11.933Z",
       "count": 20,
       "items": [
-        {
-          "id": "480030",
-          "title": "[공지] [기타] 2026 외국인 유학생 취업컨설팅(취업·비자 MATCH-up Day)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=480030&article.offset=0&articleLimit=10",
-          "date": "2026-09-16",
-          "category": null,
-          "pinned": true
-        },
         {
           "id": "479986",
           "title": "[공지] [기타] 2026학년도 2학기 K-STAR 비자트랙 설명회 (K-STAR Visa Track Information Session for Fall 2026) | 9. 21.(월) 12:00",
@@ -44,7 +36,7 @@
         },
         {
           "id": "479492",
-          "title": "[공지] [등록] 2026-2학기 대학원 추가등록 및 학기초과생·특수교육대상자 등록 안내",
+          "title": "[공지] [등록] 2026-2학기 대학원 추가등록 및 학기초과생·특수교육대상자 등록 안내 (2차 추가등록 안내 포함)",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479492&article.offset=0&articleLimit=10",
           "date": "2026-09-10",
           "category": null,
@@ -169,6 +161,14 @@
           "date": "2026-09-03",
           "category": null,
           "pinned": false
+        },
+        {
+          "id": "478412",
+          "title": "[기타] 2026학년도 2학기 대학원생 정기 주차권 등록 및 등록 전 주차비 지원 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478412&article.offset=0&articleLimit=10",
+          "date": "2026-09-03",
+          "category": null,
+          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-16T01:59:05.257Z",
+      "fetched_at": "2026-09-16T10:23:15.333Z",
       "count": 20,
       "items": [
         {
@@ -349,12 +349,20 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-16T01:59:07.890Z",
+      "fetched_at": "2026-09-16T10:23:16.983Z",
       "count": 20,
       "items": [
         {
+          "id": "2175",
+          "title": "2026학년도 2학기 졸업앨범 사진촬영 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2175",
+          "date": "2026-09-16",
+          "category": "일반",
+          "pinned": true
+        },
+        {
           "id": "2173",
-          "title": "2026-2 학술 한국어 말하기 워크숍 신청 안내 New",
+          "title": "2026-2 학술 한국어 말하기 워크숍 신청 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2173",
           "date": "2026-09-15",
           "category": "일반",
@@ -466,7 +474,7 @@
         },
         {
           "id": "2174",
-          "title": "[Fall 2026] Business Writing Program for International Students (limited spots!) New",
+          "title": "[Fall 2026] Business Writing Program for International Students (limited spots!)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2174",
           "date": "2026-09-15",
           "category": "일반",
@@ -503,14 +511,6 @@
           "date": "2026-09-09",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2167",
-          "title": "[삼성화재] 2026년 하반기 신입사원 채용",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2167",
-          "date": "2026-09-09",
-          "category": "취업",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-16T01:59:09.258Z",
+      "fetched_at": "2026-09-16T10:23:18.839Z",
       "count": 0,
       "items": []
     }
