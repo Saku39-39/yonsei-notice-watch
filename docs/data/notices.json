@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T20:32:13.535Z",
+  "generated_at": "2026-09-16T01:59:09.259Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-15T20:32:07.922Z",
+      "fetched_at": "2026-09-16T01:59:02.123Z",
       "count": 20,
       "items": [
+        {
+          "id": "480030",
+          "title": "[공지] [기타] 2026 외국인 유학생 취업컨설팅(취업·비자 MATCH-up Day)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=480030&article.offset=0&articleLimit=10",
+          "date": "2026-09-16",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "479986",
           "title": "[공지] [기타] 2026학년도 2학기 K-STAR 비자트랙 설명회 (K-STAR Visa Track Information Session for Fall 2026) | 9. 21.(월) 12:00",
@@ -161,14 +169,6 @@
           "date": "2026-09-03",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "478412",
-          "title": "[기타] 2026학년도 2학기 대학원생 정기 주차권 등록 및 등록 전 주차비 지원 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478412&article.offset=0&articleLimit=10",
-          "date": "2026-09-03",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-15T20:32:10.117Z",
+      "fetched_at": "2026-09-16T01:59:05.257Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-15T20:32:12.690Z",
+      "fetched_at": "2026-09-16T01:59:07.890Z",
       "count": 20,
       "items": [
         {
@@ -474,7 +474,7 @@
         },
         {
           "id": "2172",
-          "title": "2026 강동 『미네르바 액티브러닝』 유학생멘토 모집 New",
+          "title": "2026 강동 『미네르바 액티브러닝』 유학생멘토 모집",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2172",
           "date": "2026-09-15",
           "category": "일반",
@@ -482,7 +482,7 @@
         },
         {
           "id": "2171",
-          "title": "[현대자동차그룹] 현대자동차그룹 HINT 2기 교육생 모집 (~10/5) New",
+          "title": "[현대자동차그룹] 현대자동차그룹 HINT 2기 교육생 모집 (~10/5)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2171",
           "date": "2026-09-15",
           "category": "취업",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-15T20:32:13.534Z",
+      "fetched_at": "2026-09-16T01:59:09.258Z",
       "count": 0,
       "items": []
     }
