@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T20:32:04.880Z",
+  "generated_at": "2026-09-17T02:03:10.325Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-16T20:31:59.846Z",
+      "fetched_at": "2026-09-17T02:03:06.001Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-16T20:32:01.789Z",
+      "fetched_at": "2026-09-17T02:03:07.713Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-16T20:32:03.494Z",
+      "fetched_at": "2026-09-17T02:03:08.970Z",
       "count": 20,
       "items": [
         {
@@ -381,30 +381,6 @@
           "title": "글쓰기 대면지도 신청 방법 변경 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2153",
           "date": "2026-08-27",
-          "category": "일반",
-          "pinned": true
-        },
-        {
-          "id": "2149",
-          "title": "2026년 2학기 GLC 버디 프로그램 참가자 모집 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2149",
-          "date": "2026-08-26",
-          "category": "일반",
-          "pinned": true
-        },
-        {
-          "id": "2145",
-          "title": "2026-2 GLC 튜터링 신청 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2145",
-          "date": "2026-08-20",
-          "category": "일반",
-          "pinned": true
-        },
-        {
-          "id": "2143",
-          "title": "2026-2학기 GLC 서울 문화체험 행사 참가 신청",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2143",
-          "date": "2026-08-19",
           "category": "일반",
           "pinned": true
         },
@@ -511,6 +487,30 @@
           "date": "2026-09-09",
           "category": "일반",
           "pinned": false
+        },
+        {
+          "id": "2167",
+          "title": "[삼성화재] 2026년 하반기 신입사원 채용",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2167",
+          "date": "2026-09-09",
+          "category": "취업",
+          "pinned": false
+        },
+        {
+          "id": "2166",
+          "title": "[국제처] 외국인 학위과정 유학생 민간단체보험 제도 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2166",
+          "date": "2026-09-08",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2165",
+          "title": "[Fall 2026] Language Exchange Program 참가자 모집",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2165",
+          "date": "2026-09-07",
+          "category": "일반",
+          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-16T20:32:04.879Z",
+      "fetched_at": "2026-09-17T02:03:10.325Z",
       "count": 0,
       "items": []
     }
