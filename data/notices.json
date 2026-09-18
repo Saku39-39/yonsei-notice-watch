@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T20:38:55.781Z",
+  "generated_at": "2026-09-18T01:50:15.391Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-17T20:38:46.400Z",
+      "fetched_at": "2026-09-18T01:50:07.383Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-17T20:38:49.864Z",
+      "fetched_at": "2026-09-18T01:50:10.880Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-17T20:38:51.651Z",
+      "fetched_at": "2026-09-18T01:50:13.485Z",
       "count": 20,
       "items": [
         {
@@ -449,6 +449,14 @@
           "pinned": true
         },
         {
+          "id": "2177",
+          "title": "World Bank Group YPP Economics Session & Career Opportunities New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2177",
+          "date": "2026-09-18",
+          "category": "취업",
+          "pinned": false
+        },
+        {
           "id": "2176",
           "title": "2026 산학연협력 EXPO 외국인 유학생 취업 컨설팅 New",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2176",
@@ -503,14 +511,6 @@
           "date": "2026-09-09",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2166",
-          "title": "[국제처] 외국인 학위과정 유학생 민간단체보험 제도 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2166",
-          "date": "2026-09-08",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-17T20:38:55.781Z",
+      "fetched_at": "2026-09-18T01:50:15.391Z",
       "count": 0,
       "items": []
     }
