@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T01:50:15.391Z",
+  "generated_at": "2026-09-18T10:09:09.162Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-18T01:50:07.383Z",
+      "fetched_at": "2026-09-18T10:09:01.952Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-18T01:50:10.880Z",
+      "fetched_at": "2026-09-18T10:09:04.465Z",
       "count": 20,
       "items": [
         {
@@ -349,9 +349,17 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-18T01:50:13.485Z",
+      "fetched_at": "2026-09-18T10:09:07.048Z",
       "count": 20,
       "items": [
+        {
+          "id": "2178",
+          "title": "2026 세종학당 학습자 서포터즈 모집 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2178",
+          "date": "2026-09-18",
+          "category": "일반",
+          "pinned": true
+        },
         {
           "id": "2175",
           "title": "2026학년도 2학기 졸업앨범 사진촬영 안내",
@@ -458,7 +466,7 @@
         },
         {
           "id": "2176",
-          "title": "2026 산학연협력 EXPO 외국인 유학생 취업 컨설팅 New",
+          "title": "2026 산학연협력 EXPO 외국인 유학생 취업 컨설팅",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2176",
           "date": "2026-09-17",
           "category": "취업",
@@ -503,14 +511,6 @@
           "date": "2026-09-09",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2167",
-          "title": "[삼성화재] 2026년 하반기 신입사원 채용",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2167",
-          "date": "2026-09-09",
-          "category": "취업",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-18T01:50:15.391Z",
+      "fetched_at": "2026-09-18T10:09:09.162Z",
       "count": 0,
       "items": []
     }
