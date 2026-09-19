@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T01:55:24.849Z",
+  "generated_at": "2026-09-19T09:50:14.828Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-19T01:55:19.440Z",
+      "fetched_at": "2026-09-19T09:50:10.434Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-19T01:55:21.713Z",
+      "fetched_at": "2026-09-19T09:50:12.106Z",
       "count": 20,
       "items": [
         {
@@ -349,12 +349,12 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-19T01:55:23.760Z",
+      "fetched_at": "2026-09-19T09:50:13.952Z",
       "count": 20,
       "items": [
         {
           "id": "2178",
-          "title": "2026 세종학당 학습자 서포터즈 모집 New",
+          "title": "2026 세종학당 학습자 서포터즈 모집",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2178",
           "date": "2026-09-18",
           "category": "일반",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-19T01:55:24.849Z",
+      "fetched_at": "2026-09-19T09:50:14.827Z",
       "count": 0,
       "items": []
     }
