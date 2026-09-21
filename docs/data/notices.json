@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T11:15:06.082Z",
+  "generated_at": "2026-09-21T17:17:07.652Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-21T11:14:59.772Z",
+      "fetched_at": "2026-09-21T17:17:03.850Z",
       "count": 20,
       "items": [
         {
@@ -15,14 +15,6 @@
           "title": "[공지] [기타] [대학원 혁신] 2026-2학기 온라인 세종학당 한국어 교육 프로그램 신청 안내(~10.4.) / 100% Free Online King Sejong Korean Language Program",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=480231&article.offset=0&articleLimit=10",
           "date": "2026-09-17",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "479986",
-          "title": "[공지] [기타] 2026학년도 2학기 K-STAR 비자트랙 설명회 (K-STAR Visa Track Information Session for Fall 2026) | 9. 21.(월) 12:00",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479986&article.offset=0&articleLimit=10",
-          "date": "2026-09-15",
           "category": null,
           "pinned": true
         },
@@ -123,6 +115,14 @@
           "pinned": true
         },
         {
+          "id": "479986",
+          "title": "[기타] 2026학년도 2학기 K-STAR 비자트랙 설명회 (K-STAR Visa Track Information Session for Fall 2026) | 9. 21.(월) 12:00",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479986&article.offset=0&articleLimit=10",
+          "date": "2026-09-15",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "479561",
           "title": "[기타] 2026년 후기 자연계대학원 박사과정 전문연구요원 편입대상자 선발 공고 - 온라인신청(9.21.(월)~10.13.(화))",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479561&article.offset=0&articleLimit=10",
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-21T11:15:02.062Z",
+      "fetched_at": "2026-09-21T17:17:05.417Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-21T11:15:04.260Z",
+      "fetched_at": "2026-09-21T17:17:06.706Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-21T11:15:06.082Z",
+      "fetched_at": "2026-09-21T17:17:07.652Z",
       "count": 0,
       "items": []
     }
