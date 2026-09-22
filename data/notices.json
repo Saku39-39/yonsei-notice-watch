@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:17:54.337Z",
+  "generated_at": "2026-09-22T02:05:57.572Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-21T21:17:46.795Z",
+      "fetched_at": "2026-09-22T02:05:49.852Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-21T21:17:50.174Z",
+      "fetched_at": "2026-09-22T02:05:52.753Z",
       "count": 20,
       "items": [
         {
@@ -349,9 +349,17 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-21T21:17:52.512Z",
+      "fetched_at": "2026-09-22T02:05:55.052Z",
       "count": 20,
       "items": [
+        {
+          "id": "2181",
+          "title": "2026 GLC 10월 콜로퀴움 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2181",
+          "date": "2026-09-22",
+          "category": "일반",
+          "pinned": true
+        },
         {
           "id": "2178",
           "title": "2026 세종학당 학습자 서포터즈 모집",
@@ -458,7 +466,7 @@
         },
         {
           "id": "2180",
-          "title": "AX 산학협력 프로젝트(AXP) 홍보 New",
+          "title": "AX 산학협력 프로젝트(AXP) 홍보",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2180",
           "date": "2026-09-21",
           "category": "일반",
@@ -503,14 +511,6 @@
           "date": "2026-09-15",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2169",
-          "title": "[삼성SDS] '26년 하반기 신입채용 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2169",
-          "date": "2026-09-10",
-          "category": "취업",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-21T21:17:54.336Z",
+      "fetched_at": "2026-09-22T02:05:57.572Z",
       "count": 0,
       "items": []
     }
