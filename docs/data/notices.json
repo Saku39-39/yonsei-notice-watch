@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T10:27:01.874Z",
+  "generated_at": "2026-09-22T15:50:29.344Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-22T10:26:53.908Z",
+      "fetched_at": "2026-09-22T15:50:21.096Z",
       "count": 20,
       "items": [
         {
@@ -39,22 +39,6 @@
           "title": "[공지] [등록] 2026-2학기 대학원 추가등록 및 학기초과생·특수교육대상자 등록 안내 (2차 추가등록 안내 포함)",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479492&article.offset=0&articleLimit=10",
           "date": "2026-09-10",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "478393",
-          "title": "[공지] [입학] [2027학년도 전기] 외국인 학부생 및 한국어학당 학생 대상 - 일반대학원 입학설명회 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478393&article.offset=0&articleLimit=10",
-          "date": "2026-09-02",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "478029",
-          "title": "[공지] [기타] [대학원혁신사업] 2026학년도 대학원혁신 기초학력보완 교육 프로그램 제작사업 시행 안내(~9/21)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478029&article.offset=0&articleLimit=10",
-          "date": "2026-09-01",
           "category": null,
           "pinned": true
         },
@@ -169,6 +153,22 @@
           "date": "2026-09-03",
           "category": null,
           "pinned": false
+        },
+        {
+          "id": "478412",
+          "title": "[기타] 2026학년도 2학기 대학원생 정기 주차권 등록 및 등록 전 주차비 지원 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478412&article.offset=0&articleLimit=10",
+          "date": "2026-09-03",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "478393",
+          "title": "[입학] [2027학년도 전기] 외국인 학부생 및 한국어학당 학생 대상 - 일반대학원 입학설명회 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478393&article.offset=0&articleLimit=10",
+          "date": "2026-09-02",
+          "category": null,
+          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-22T10:26:57.572Z",
+      "fetched_at": "2026-09-22T15:50:24.638Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-22T10:27:00.048Z",
+      "fetched_at": "2026-09-22T15:50:27.269Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-22T10:27:01.874Z",
+      "fetched_at": "2026-09-22T15:50:29.343Z",
       "count": 0,
       "items": []
     }
