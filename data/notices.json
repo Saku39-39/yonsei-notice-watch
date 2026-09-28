@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T02:13:33.813Z",
+  "generated_at": "2026-09-28T12:10:07.924Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-28T02:13:28.900Z",
+      "fetched_at": "2026-09-28T12:10:03.224Z",
       "count": 20,
       "items": [
+        {
+          "id": "480931",
+          "title": "[공지] [기타] [대학원 교학팀] 2027학년도 전기 입학전형 지원조교 모집",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=480931&article.offset=0&articleLimit=10",
+          "date": "2026-09-28",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "480231",
           "title": "[공지] [기타] [대학원 혁신] 2026-2학기 온라인 세종학당 한국어 교육 프로그램 신청 안내(~10.4.) / 100% Free Online King Sejong Korean Language Program",
@@ -161,14 +169,6 @@
           "date": "2026-09-03",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "478393",
-          "title": "[입학] [2027학년도 전기] 외국인 학부생 및 한국어학당 학생 대상 - 일반대학원 입학설명회 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478393&article.offset=0&articleLimit=10",
-          "date": "2026-09-02",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-28T02:13:30.345Z",
+      "fetched_at": "2026-09-28T12:10:04.620Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-28T02:13:32.330Z",
+      "fetched_at": "2026-09-28T12:10:06.478Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-28T02:13:33.812Z",
+      "fetched_at": "2026-09-28T12:10:07.924Z",
       "count": 0,
       "items": []
     }
