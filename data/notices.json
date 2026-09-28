@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T20:31:26.487Z",
+  "generated_at": "2026-09-28T02:13:33.813Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-27T20:31:19.643Z",
+      "fetched_at": "2026-09-28T02:13:28.900Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-27T20:31:22.286Z",
+      "fetched_at": "2026-09-28T02:13:30.345Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-27T20:31:24.682Z",
+      "fetched_at": "2026-09-28T02:13:32.330Z",
       "count": 20,
       "items": [
         {
@@ -381,14 +381,6 @@
           "title": "2026-2 학술 한국어 말하기 워크숍 신청 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2173",
           "date": "2026-09-15",
-          "category": "일반",
-          "pinned": true
-        },
-        {
-          "id": "2156",
-          "title": "외국인 유학생 대상 TOPIK 심화 프로그램 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2156",
-          "date": "2026-09-01",
           "category": "일반",
           "pinned": true
         },
@@ -511,6 +503,14 @@
           "date": "2026-09-15",
           "category": "취업",
           "pinned": false
+        },
+        {
+          "id": "2169",
+          "title": "[삼성SDS] '26년 하반기 신입채용 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2169",
+          "date": "2026-09-10",
+          "category": "취업",
+          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-27T20:31:26.487Z",
+      "fetched_at": "2026-09-28T02:13:33.812Z",
       "count": 0,
       "items": []
     }
