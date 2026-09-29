@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T22:41:17.594Z",
+  "generated_at": "2026-09-29T02:58:52.773Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-28T22:41:12.921Z",
+      "fetched_at": "2026-09-29T02:58:48.112Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-28T22:41:15.038Z",
+      "fetched_at": "2026-09-29T02:58:49.936Z",
       "count": 20,
       "items": [
         {
@@ -349,22 +349,22 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-28T22:41:16.674Z",
+      "fetched_at": "2026-09-29T02:58:51.651Z",
       "count": 20,
       "items": [
+        {
+          "id": "2182",
+          "title": "2026학년도 2학기 학부 수강과목 철회 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2182",
+          "date": "2026-09-29",
+          "category": "학사",
+          "pinned": true
+        },
         {
           "id": "2181",
           "title": "2026 GLC 10월 콜로퀴움 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2181",
           "date": "2026-09-22",
-          "category": "일반",
-          "pinned": true
-        },
-        {
-          "id": "2178",
-          "title": "2026 세종학당 학습자 서포터즈 모집",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2178",
-          "date": "2026-09-18",
           "category": "일반",
           "pinned": true
         },
@@ -393,25 +393,9 @@
           "pinned": true
         },
         {
-          "id": "2113",
-          "title": "2026-2 글로벌인재학부 복학생 진리장학금(소급) 신청 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2113",
-          "date": "2026-07-01",
-          "category": "장학",
-          "pinned": true
-        },
-        {
           "id": "2074",
           "title": "전공 진입 및 졸업 요건 안내(부모 모두 외국인인 외국인 학생)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2074",
-          "date": "2026-05-06",
-          "category": "일반",
-          "pinned": true
-        },
-        {
-          "id": "2073",
-          "title": "2026년 한국어능력시험(TOPIK) 시행 계획 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2073",
           "date": "2026-05-06",
           "category": "일반",
           "pinned": true
@@ -465,6 +449,14 @@
           "pinned": false
         },
         {
+          "id": "2178",
+          "title": "2026 세종학당 학습자 서포터즈 모집",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2178",
+          "date": "2026-09-18",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2177",
           "title": "World Bank Group YPP Economics Session & Career Opportunities",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2177",
@@ -511,6 +503,14 @@
           "date": "2026-09-10",
           "category": "취업",
           "pinned": false
+        },
+        {
+          "id": "2168",
+          "title": "[서울대학교 KDT] 빅데이터 핀테크 AI 고급 전문가 과정 제14기 모집 (~9/20)",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2168",
+          "date": "2026-09-09",
+          "category": "일반",
+          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-28T22:41:17.593Z",
+      "fetched_at": "2026-09-29T02:58:52.773Z",
       "count": 0,
       "items": []
     }
