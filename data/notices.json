@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T11:41:29.292Z",
+  "generated_at": "2026-09-29T17:08:01.758Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-29T11:41:23.927Z",
+      "fetched_at": "2026-09-29T17:07:54.631Z",
       "count": 20,
       "items": [
         {
@@ -23,14 +23,6 @@
           "title": "[공지] [기타] [대학원 혁신] 2026-2학기 온라인 세종학당 한국어 교육 프로그램 신청 안내(~10.4.) / 100% Free Online King Sejong Korean Language Program",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=480231&article.offset=0&articleLimit=10",
           "date": "2026-09-17",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "479914",
-          "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 특강 < AI가 코딩하고 논문 쓰는 시대, 대학원생은 무엇을 해야 하는가?> 안내 (9/30, 14:00~)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479914&article.offset=0&articleLimit=10",
-          "date": "2026-09-15",
           "category": null,
           "pinned": true
         },
@@ -115,6 +107,14 @@
           "pinned": false
         },
         {
+          "id": "479914",
+          "title": "[기타] [진로지원]대학원 멘토 초청 커리어 특강 < AI가 코딩하고 논문 쓰는 시대, 대학원생은 무엇을 해야 하는가?> 안내 (9/30, 14:00~)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479914&article.offset=0&articleLimit=10",
+          "date": "2026-09-15",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "479561",
           "title": "[기타] 2026년 후기 자연계대학원 박사과정 전문연구요원 편입대상자 선발 공고 - 온라인신청(9.21.(월)~10.13.(화))",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479561&article.offset=0&articleLimit=10",
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-29T11:41:26.027Z",
+      "fetched_at": "2026-09-29T17:07:57.089Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-29T11:41:27.585Z",
+      "fetched_at": "2026-09-29T17:07:58.493Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-29T11:41:29.292Z",
+      "fetched_at": "2026-09-29T17:08:01.758Z",
       "count": 0,
       "items": []
     }
