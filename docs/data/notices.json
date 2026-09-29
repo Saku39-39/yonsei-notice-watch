@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T02:58:52.773Z",
+  "generated_at": "2026-09-29T11:41:29.292Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-29T02:58:48.112Z",
+      "fetched_at": "2026-09-29T11:41:23.927Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-29T02:58:49.936Z",
+      "fetched_at": "2026-09-29T11:41:26.027Z",
       "count": 20,
       "items": [
         {
@@ -278,6 +278,14 @@
           "pinned": true
         },
         {
+          "id": "481092",
+          "title": "2026학년도 2학기 학부 수강과목 철회 안내( 2026. 10. 13.(화) 09:00 ∼ 10. 15.(목) 23:59)",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=481092&article.offset=0&articleLimit=10",
+          "date": "2026-09-29",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "480749",
           "title": "2026 대한민국 AI 콘텐츠 어워즈 개최 안내",
           "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=480749&article.offset=0&articleLimit=10",
@@ -332,14 +340,6 @@
           "date": "2026-08-19",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "476201",
-          "title": "2026년 8월 학부 졸업자 대상 졸업 후 진로(취업·진학) 현황 조사 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=476201&article.offset=0&articleLimit=10",
-          "date": "2026-08-07",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-29T02:58:51.651Z",
+      "fetched_at": "2026-09-29T11:41:27.585Z",
       "count": 20,
       "items": [
         {
@@ -441,6 +441,22 @@
           "pinned": true
         },
         {
+          "id": "2184",
+          "title": "[연세대학교 바른ICT연구소] 제15회 Asia Privacy Bridge Forum 2026 행사 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2184",
+          "date": "2026-09-29",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2183",
+          "title": "[IDP] 2026 세계유학박람회 (10/31~11/1) New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2183",
+          "date": "2026-09-29",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2180",
           "title": "AX 산학협력 프로젝트(AXP) 홍보",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2180",
@@ -495,22 +511,6 @@
           "date": "2026-09-15",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2169",
-          "title": "[삼성SDS] '26년 하반기 신입채용 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2169",
-          "date": "2026-09-10",
-          "category": "취업",
-          "pinned": false
-        },
-        {
-          "id": "2168",
-          "title": "[서울대학교 KDT] 빅데이터 핀테크 AI 고급 전문가 과정 제14기 모집 (~9/20)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2168",
-          "date": "2026-09-09",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-29T02:58:52.773Z",
+      "fetched_at": "2026-09-29T11:41:29.292Z",
       "count": 0,
       "items": []
     }
