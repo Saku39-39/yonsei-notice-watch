@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T02:40:36.392Z",
+  "generated_at": "2026-09-30T11:28:17.786Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-30T02:40:29.671Z",
+      "fetched_at": "2026-09-30T11:28:12.877Z",
       "count": 20,
       "items": [
+        {
+          "id": "481269",
+          "title": "[공지] [장학] 2026학년도 2학기 가계 곤란 장학금(Need-based Fellowship) 시행 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481269&article.offset=0&articleLimit=10",
+          "date": "2026-09-30",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "480231",
           "title": "[공지] [기타] [대학원 혁신] 2026-2학기 온라인 세종학당 한국어 교육 프로그램 신청 안내(~10.4.) / 100% Free Online King Sejong Korean Language Program",
@@ -161,14 +169,6 @@
           "date": "2026-09-07",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "478553",
-          "title": "[기타] K-STAR Visa Track for Fall 2026: Information for International STEM Students",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478553&article.offset=0&articleLimit=10",
-          "date": "2026-09-03",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-09-30T02:40:31.825Z",
+      "fetched_at": "2026-09-30T11:28:14.661Z",
       "count": 20,
       "items": [
         {
@@ -349,9 +349,17 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-09-30T02:40:34.263Z",
+      "fetched_at": "2026-09-30T11:28:17.056Z",
       "count": 20,
       "items": [
+        {
+          "id": "2185",
+          "title": "2026-2 TOPIK 시험 대비 워크숍 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2185",
+          "date": "2026-09-30",
+          "category": "일반",
+          "pinned": true
+        },
         {
           "id": "2182",
           "title": "2026학년도 2학기 학부 수강과목 철회 안내",
@@ -442,7 +450,7 @@
         },
         {
           "id": "2184",
-          "title": "[연세대학교 바른ICT연구소] 제15회 Asia Privacy Bridge Forum 2026 행사 안내 New",
+          "title": "[연세대학교 바른ICT연구소] 제15회 Asia Privacy Bridge Forum 2026 행사 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2184",
           "date": "2026-09-29",
           "category": "일반",
@@ -450,7 +458,7 @@
         },
         {
           "id": "2183",
-          "title": "[IDP] 2026 세계유학박람회 (10/31~11/1) New",
+          "title": "[IDP] 2026 세계유학박람회 (10/31~11/1)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2183",
           "date": "2026-09-29",
           "category": "일반",
@@ -503,14 +511,6 @@
           "date": "2026-09-15",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2171",
-          "title": "[현대자동차그룹] 현대자동차그룹 HINT 2기 교육생 모집 (~10/5)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2171",
-          "date": "2026-09-15",
-          "category": "취업",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-09-30T02:40:36.392Z",
+      "fetched_at": "2026-09-30T11:28:17.786Z",
       "count": 0,
       "items": []
     }
