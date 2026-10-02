@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T02:48:50.150Z",
+  "generated_at": "2026-10-02T11:27:55.823Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-02T02:48:44.587Z",
+      "fetched_at": "2026-10-02T11:27:51.844Z",
       "count": 20,
       "items": [
+        {
+          "id": "481463",
+          "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 특강 <민간 비영리 연구기관에서의 연구활동> 안내 (10/15, 18:00~)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481463&article.offset=0&articleLimit=10",
+          "date": "2026-10-02",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "481442",
           "title": "[공지] [기타] [기획실] 2026학년도 교육수요자 만족도 설문조사 진행 안내",
@@ -91,6 +99,22 @@
           "pinned": true
         },
         {
+          "id": "481483",
+          "title": "[논문] [주시경교양교육연구소] 교양교육 전문 학술지 「대학교양교육연구」제11권 제3호(통권 24호) 발간 사업 시행",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481483&article.offset=0&articleLimit=10",
+          "date": "2026-10-02",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "481482",
+          "title": "[논문] 국방대학교-카이스트 공동주최 「2026년 대학원생 국방학술대회」",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481482&article.offset=0&articleLimit=10",
+          "date": "2026-10-02",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "481170",
           "title": "[Recruitment / Updated Scholarship] Graduate-level student Class TA for Prof. Jon Bailey",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481170&article.offset=0&articleLimit=10",
@@ -145,30 +169,6 @@
           "date": "2026-09-09",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "478958",
-          "title": "[기타] 2026학년도 대학원생 인권 보호와 증진을 위한 정책 제안 및 아이디어 공모전",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478958&article.offset=0&articleLimit=10",
-          "date": "2026-09-08",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "478854",
-          "title": "[수업] 2026학년도 2학기 수강철회 안내 [9. 8.(화) ~ 9. 10.(목)]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478854&article.offset=0&articleLimit=10",
-          "date": "2026-09-07",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "478787",
-          "title": "[기타] [2026-2학기 재학생 대상] 외국인 유학생 민간단체보험 안내자료 Foreign Student Insurance",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=478787&article.offset=0&articleLimit=10",
-          "date": "2026-09-07",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-02T02:48:47.741Z",
+      "fetched_at": "2026-10-02T11:27:53.524Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-02T02:48:49.236Z",
+      "fetched_at": "2026-10-02T11:27:54.795Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-02T02:48:50.150Z",
+      "fetched_at": "2026-10-02T11:27:55.822Z",
       "count": 0,
       "items": []
     }
