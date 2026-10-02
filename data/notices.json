@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:04:17.157Z",
+  "generated_at": "2026-10-02T02:48:50.150Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-01T22:04:08.688Z",
-      "count": 19,
+      "fetched_at": "2026-10-02T02:48:44.587Z",
+      "count": 20,
       "items": [
+        {
+          "id": "481442",
+          "title": "[공지] [기타] [기획실] 2026학년도 교육수요자 만족도 설문조사 진행 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481442&article.offset=0&articleLimit=10",
+          "date": "2026-10-02",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "481269",
           "title": "[공지] [장학] 2026학년도 2학기 가계 곤란 장학금(Need-based Fellowship) 시행 안내",
@@ -170,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-01T22:04:12.321Z",
+      "fetched_at": "2026-10-02T02:48:47.741Z",
       "count": 20,
       "items": [
         {
@@ -341,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-01T22:04:14.019Z",
+      "fetched_at": "2026-10-02T02:48:49.236Z",
       "count": 20,
       "items": [
         {
@@ -373,14 +381,6 @@
           "title": "2026학년도 2학기 졸업앨범 사진촬영 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2175",
           "date": "2026-09-16",
-          "category": "일반",
-          "pinned": true
-        },
-        {
-          "id": "2173",
-          "title": "2026-2 학술 한국어 말하기 워크숍 신청 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2173",
-          "date": "2026-09-15",
           "category": "일반",
           "pinned": true
         },
@@ -497,6 +497,14 @@
           "pinned": false
         },
         {
+          "id": "2173",
+          "title": "2026-2 학술 한국어 말하기 워크숍 신청 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2173",
+          "date": "2026-09-15",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2172",
           "title": "2026 강동 『미네르바 액티브러닝』 유학생멘토 모집",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2172",
@@ -512,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-01T22:04:17.157Z",
+      "fetched_at": "2026-10-02T02:48:50.150Z",
       "count": 0,
       "items": []
     }
