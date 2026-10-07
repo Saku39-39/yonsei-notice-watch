@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:56:47.304Z",
+  "generated_at": "2026-10-07T02:57:46.181Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-06T21:56:42.752Z",
+      "fetched_at": "2026-10-07T02:57:41.507Z",
       "count": 20,
       "items": [
+        {
+          "id": "481669",
+          "title": "[공지] [기타] [일반대학원 총학생회] 2026 대학원생 건강 증진을 위한 가을맞이 단풍놀이 프로젝트 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481669&article.offset=0&articleLimit=10",
+          "date": "2026-10-07",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "481463",
           "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 특강 <민간 비영리 연구기관에서의 연구활동> 안내 (10/15, 18:00~)",
@@ -161,14 +169,6 @@
           "date": "2026-09-10",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "479103",
-          "title": "[기타] [Recruitment] Graduate-level student Class Teaching Assistant for Prof. Jon Bailey",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479103&article.offset=0&articleLimit=10",
-          "date": "2026-09-09",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-06T21:56:43.972Z",
+      "fetched_at": "2026-10-07T02:57:43.541Z",
       "count": 20,
       "items": [
         {
@@ -278,6 +278,22 @@
           "pinned": true
         },
         {
+          "id": "481665",
+          "title": "2026년「제12회 서울 29초 영화제 안내(~11.10.(화))",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=481665&article.offset=0&articleLimit=10",
+          "date": "2026-10-07",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "481655",
+          "title": "2026학년도 2학기 학부 강의정보 공유 설문 실시 안내",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=481655&article.offset=0&articleLimit=10",
+          "date": "2026-10-07",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "481092",
           "title": "2026학년도 2학기 학부 수강과목 철회 안내( 2026. 10. 13.(화) 09:00 ∼ 10. 15.(목) 23:59)",
           "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=481092&article.offset=0&articleLimit=10",
@@ -324,22 +340,6 @@
           "date": "2026-09-04",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "477234",
-          "title": "[문화인류학과 BK21 예비교육연구단] 9월 10일(목) 리장 교수 초청 특별 강연 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=477234&article.offset=0&articleLimit=10",
-          "date": "2026-08-24",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "476771",
-          "title": "[홍보] 제3회 SCI-SCI Korea Workshop 참가 등록 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=476771&article.offset=0&articleLimit=10",
-          "date": "2026-08-19",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-06T21:56:46.161Z",
+      "fetched_at": "2026-10-07T02:57:45.085Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-06T21:56:47.304Z",
+      "fetched_at": "2026-10-07T02:57:46.181Z",
       "count": 0,
       "items": []
     }
