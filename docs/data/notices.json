@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:10:23.861Z",
+  "generated_at": "2026-10-07T22:21:15.407Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-07T12:10:16.493Z",
+      "fetched_at": "2026-10-07T22:21:10.167Z",
       "count": 20,
       "items": [
         {
@@ -31,14 +31,6 @@
           "title": "[공지] [기타] [기획실] 2026학년도 교육수요자 만족도 설문조사 진행 안내",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481442&article.offset=0&articleLimit=10",
           "date": "2026-10-02",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "481269",
-          "title": "[공지] [장학] 2026학년도 2학기 가계 곤란 장학금(Need-based Fellowship) 시행 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481269&article.offset=0&articleLimit=10",
-          "date": "2026-09-30",
           "category": null,
           "pinned": true
         },
@@ -131,6 +123,14 @@
           "pinned": false
         },
         {
+          "id": "481269",
+          "title": "[장학] 2026학년도 2학기 가계 곤란 장학금(Need-based Fellowship) 시행 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481269&article.offset=0&articleLimit=10",
+          "date": "2026-09-30",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "481170",
           "title": "[Recruitment / Updated Scholarship] Graduate-level student Class TA for Prof. Jon Bailey",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481170&article.offset=0&articleLimit=10",
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-07T12:10:19.111Z",
+      "fetched_at": "2026-10-07T22:21:11.919Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-07T12:10:21.699Z",
+      "fetched_at": "2026-10-07T22:21:14.023Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-07T12:10:23.860Z",
+      "fetched_at": "2026-10-07T22:21:15.406Z",
       "count": 0,
       "items": []
     }
