@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T02:57:46.181Z",
+  "generated_at": "2026-10-07T12:10:23.861Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-07T02:57:41.507Z",
+      "fetched_at": "2026-10-07T12:10:16.493Z",
       "count": 20,
       "items": [
         {
@@ -107,6 +107,14 @@
           "pinned": true
         },
         {
+          "id": "481760",
+          "title": "[기타] [진로지원]대학원 멘토 초청 커리어 멘토링 <엔터테인먼트 회사의 진짜 일: 사람에서 IP, 그리고 비즈니스까지> (10/28, 12:00~)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481760&article.offset=0&articleLimit=10",
+          "date": "2026-10-07",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "481483",
           "title": "[논문] [주시경교양교육연구소] 교양교육 전문 학술지 「대학교양교육연구」제11권 제3호(통권 24호) 발간 사업 시행",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481483&article.offset=0&articleLimit=10",
@@ -161,14 +169,6 @@
           "date": "2026-09-11",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "479492",
-          "title": "[등록] 2026-2학기 대학원 추가등록 및 학기초과생·특수교육대상자 등록 안내 (2차 추가등록 안내 포함)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479492&article.offset=0&articleLimit=10",
-          "date": "2026-09-10",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-07T02:57:43.541Z",
+      "fetched_at": "2026-10-07T12:10:19.111Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-07T02:57:45.085Z",
+      "fetched_at": "2026-10-07T12:10:21.699Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-07T02:57:46.181Z",
+      "fetched_at": "2026-10-07T12:10:23.860Z",
       "count": 0,
       "items": []
     }
