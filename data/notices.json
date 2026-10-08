@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:21:15.407Z",
+  "generated_at": "2026-10-08T03:14:55.879Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-07T22:21:10.167Z",
+      "fetched_at": "2026-10-08T03:14:48.981Z",
       "count": 20,
       "items": [
+        {
+          "id": "481782",
+          "title": "[공지] [기타] [진로지원]대학원생을 위한, 대기업 인사팀 출신과 함께하는 모의면접 1:1 컨설팅",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481782&article.offset=0&articleLimit=10",
+          "date": "2026-10-08",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "481669",
           "title": "[공지] [기타] [일반대학원 총학생회] 2026 대학원생 건강 증진을 위한 가을맞이 단풍놀이 프로젝트 안내",
@@ -161,14 +169,6 @@
           "date": "2026-09-15",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "479561",
-          "title": "[기타] 2026년 후기 자연계대학원 박사과정 전문연구요원 편입대상자 선발 공고 - 온라인신청(9.21.(월)~10.13.(화))",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479561&article.offset=0&articleLimit=10",
-          "date": "2026-09-11",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-07T22:21:11.919Z",
+      "fetched_at": "2026-10-08T03:14:51.283Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-07T22:21:14.023Z",
+      "fetched_at": "2026-10-08T03:14:54.493Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-07T22:21:15.406Z",
+      "fetched_at": "2026-10-08T03:14:55.878Z",
       "count": 0,
       "items": []
     }
