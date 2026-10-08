@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T03:14:55.879Z",
+  "generated_at": "2026-10-08T12:21:00.520Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-08T03:14:48.981Z",
+      "fetched_at": "2026-10-08T12:20:55.444Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-08T03:14:51.283Z",
+      "fetched_at": "2026-10-08T12:20:57.898Z",
       "count": 20,
       "items": [
         {
@@ -349,9 +349,17 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-08T03:14:54.493Z",
+      "fetched_at": "2026-10-08T12:20:59.538Z",
       "count": 20,
       "items": [
+        {
+          "id": "2186",
+          "title": "2026-2 GLC 전공생 대상 학술 한국어 워크숍 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2186",
+          "date": "2026-10-08",
+          "category": "일반",
+          "pinned": true
+        },
         {
           "id": "2185",
           "title": "2026-2 TOPIK 시험 대비 워크숍 안내",
@@ -503,14 +511,6 @@
           "date": "2026-09-15",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2172",
-          "title": "2026 강동 『미네르바 액티브러닝』 유학생멘토 모집",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2172",
-          "date": "2026-09-15",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-08T03:14:55.878Z",
+      "fetched_at": "2026-10-08T12:21:00.519Z",
       "count": 0,
       "items": []
     }
