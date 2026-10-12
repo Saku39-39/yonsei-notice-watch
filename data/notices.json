@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T02:55:18.238Z",
+  "generated_at": "2026-10-12T13:41:26.866Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-12T02:55:12.479Z",
+      "fetched_at": "2026-10-12T13:41:19.677Z",
       "count": 20,
       "items": [
+        {
+          "id": "481978",
+          "title": "[공지] [대학원 혁신] 대학원생을 위한 Career Talk 연사초청 커리어 멘토링 특강 프로그램 신청 안내 (10. 21. 18:00)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481978&article.offset=0&articleLimit=10",
+          "date": "2026-10-12",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "481782",
           "title": "[공지] [기타] [진로지원]대학원생을 위한, 대기업 인사팀 출신과 함께하는 모의면접 1:1 컨설팅",
@@ -161,14 +169,6 @@
           "date": "2026-09-15",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "479914",
-          "title": "[기타] [진로지원]대학원 멘토 초청 커리어 특강 < AI가 코딩하고 논문 쓰는 시대, 대학원생은 무엇을 해야 하는가?> 안내 (9/30, 14:00~)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479914&article.offset=0&articleLimit=10",
-          "date": "2026-09-15",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-12T02:55:15.249Z",
+      "fetched_at": "2026-10-12T13:41:21.842Z",
       "count": 20,
       "items": [
         {
@@ -349,9 +349,17 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-12T02:55:16.943Z",
+      "fetched_at": "2026-10-12T13:41:24.667Z",
       "count": 20,
       "items": [
+        {
+          "id": "2187",
+          "title": "2027학년도 1학기 캠퍼스내 소속변경 전형 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2187",
+          "date": "2026-10-12",
+          "category": "학사",
+          "pinned": true
+        },
         {
           "id": "2186",
           "title": "2026-2 GLC 전공생 대상 학술 한국어 워크숍",
@@ -503,14 +511,6 @@
           "date": "2026-09-15",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2173",
-          "title": "2026-2 학술 한국어 말하기 워크숍 신청 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2173",
-          "date": "2026-09-15",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-12T02:55:18.238Z",
+      "fetched_at": "2026-10-12T13:41:26.866Z",
       "count": 0,
       "items": []
     }
