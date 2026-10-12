@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:08:41.229Z",
+  "generated_at": "2026-10-12T02:55:18.238Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-11T21:08:31.758Z",
+      "fetched_at": "2026-10-12T02:55:12.479Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-11T21:08:36.165Z",
+      "fetched_at": "2026-10-12T02:55:15.249Z",
       "count": 20,
       "items": [
         {
@@ -278,6 +278,14 @@
           "pinned": true
         },
         {
+          "id": "481905",
+          "title": "2027학년도 캠퍼스 내 소속변경 전형 안내(10. 27.(화) 09:00 ~ 11. 2.(월) 17:00)",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=481905&article.offset=0&articleLimit=10",
+          "date": "2026-10-12",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "481665",
           "title": "2026년「제12회 서울 29초 영화제 안내(~11.10.(화))",
           "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=481665&article.offset=0&articleLimit=10",
@@ -332,14 +340,6 @@
           "date": "2026-09-04",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "478671",
-          "title": "[홍보] 베트남 VinUniversity 조교수 채용 공고",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=478671&article.offset=0&articleLimit=10",
-          "date": "2026-09-04",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-11T21:08:40.384Z",
+      "fetched_at": "2026-10-12T02:55:16.943Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-11T21:08:41.228Z",
+      "fetched_at": "2026-10-12T02:55:18.238Z",
       "count": 0,
       "items": []
     }
