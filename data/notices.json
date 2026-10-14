@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:01:25.017Z",
+  "generated_at": "2026-10-14T02:23:45.651Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-13T22:01:16.424Z",
+      "fetched_at": "2026-10-14T02:23:41.949Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-13T22:01:20.763Z",
+      "fetched_at": "2026-10-14T02:23:43.163Z",
       "count": 20,
       "items": [
         {
@@ -349,9 +349,17 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-13T22:01:23.355Z",
+      "fetched_at": "2026-10-14T02:23:44.701Z",
       "count": 20,
       "items": [
+        {
+          "id": "2188",
+          "title": "2026 태재연구재단 장학생 신청 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2188",
+          "date": "2026-10-14",
+          "category": "장학",
+          "pinned": true
+        },
         {
           "id": "2187",
           "title": "2027학년도 1학기 캠퍼스내 소속변경 전형 안내",
@@ -503,14 +511,6 @@
           "date": "2026-09-17",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2174",
-          "title": "[Fall 2026] Business Writing Program for International Students (limited spots!)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2174",
-          "date": "2026-09-15",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-13T22:01:25.016Z",
+      "fetched_at": "2026-10-14T02:23:45.650Z",
       "count": 0,
       "items": []
     }
