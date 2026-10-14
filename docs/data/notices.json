@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T02:23:45.651Z",
+  "generated_at": "2026-10-14T10:44:20.005Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-14T02:23:41.949Z",
+      "fetched_at": "2026-10-14T10:44:14.590Z",
       "count": 20,
       "items": [
+        {
+          "id": "482238",
+          "title": "[공지] [대학원 혁신] 외국인 대학원생을 위한 실전 한국어 특강 프로그램 신청 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482238&article.offset=0&articleLimit=10",
+          "date": "2026-10-14",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "481978",
           "title": "[공지] [대학원 혁신] 대학원생을 위한 외국계 연사초청 Career Talk & 멘토링 특강 프로그램 신청 안내 (10. 21. 18:00)",
@@ -161,14 +169,6 @@
           "date": "2026-09-17",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "479986",
-          "title": "[기타] 2026학년도 2학기 K-STAR 비자트랙 설명회 (K-STAR Visa Track Information Session for Fall 2026) | 9. 21.(월) 12:00",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479986&article.offset=0&articleLimit=10",
-          "date": "2026-09-15",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-14T02:23:43.163Z",
+      "fetched_at": "2026-10-14T10:44:16.173Z",
       "count": 20,
       "items": [
         {
@@ -349,9 +349,17 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-14T02:23:44.701Z",
+      "fetched_at": "2026-10-14T10:44:18.385Z",
       "count": 20,
       "items": [
+        {
+          "id": "2189",
+          "title": "2026-2 GLC 전용 온라인 세종학당 한국어 학습강좌 우수 수료자 발표 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2189",
+          "date": "2026-10-14",
+          "category": "일반",
+          "pinned": true
+        },
         {
           "id": "2188",
           "title": "2026 태재연구재단 장학생 신청 안내 New",
@@ -390,14 +398,6 @@
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2182",
           "date": "2026-09-29",
           "category": "학사",
-          "pinned": true
-        },
-        {
-          "id": "2181",
-          "title": "2026 GLC 10월 콜로퀴움 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2181",
-          "date": "2026-09-22",
-          "category": "일반",
           "pinned": true
         },
         {
@@ -481,6 +481,14 @@
           "pinned": false
         },
         {
+          "id": "2181",
+          "title": "2026 GLC 10월 콜로퀴움 안내",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2181",
+          "date": "2026-09-22",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2180",
           "title": "AX 산학협력 프로젝트(AXP) 홍보",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2180",
@@ -503,14 +511,6 @@
           "date": "2026-09-18",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2176",
-          "title": "2026 산학연협력 EXPO 외국인 유학생 취업 컨설팅",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2176",
-          "date": "2026-09-17",
-          "category": "취업",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-14T02:23:45.650Z",
+      "fetched_at": "2026-10-14T10:44:20.005Z",
       "count": 0,
       "items": []
     }
