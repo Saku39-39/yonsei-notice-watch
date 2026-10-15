@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:02:26.479Z",
+  "generated_at": "2026-10-15T02:04:41.448Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-14T21:02:21.022Z",
+      "fetched_at": "2026-10-15T02:04:33.221Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-14T21:02:22.523Z",
+      "fetched_at": "2026-10-15T02:04:38.441Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-14T21:02:24.666Z",
+      "fetched_at": "2026-10-15T02:04:39.833Z",
       "count": 20,
       "items": [
         {
@@ -362,7 +362,7 @@
         },
         {
           "id": "2188",
-          "title": "2026 태재연구재단 장학생 신청 안내 New",
+          "title": "2026 태재연구재단 장학생 신청 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2188",
           "date": "2026-10-14",
           "category": "장학",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-14T21:02:26.478Z",
+      "fetched_at": "2026-10-15T02:04:41.448Z",
       "count": 0,
       "items": []
     }
