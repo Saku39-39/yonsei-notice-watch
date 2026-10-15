@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T02:04:41.448Z",
+  "generated_at": "2026-10-15T10:27:06.150Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-15T02:04:33.221Z",
+      "fetched_at": "2026-10-15T10:27:02.171Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-15T02:04:38.441Z",
+      "fetched_at": "2026-10-15T10:27:03.502Z",
       "count": 20,
       "items": [
         {
@@ -349,12 +349,12 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-15T02:04:39.833Z",
+      "fetched_at": "2026-10-15T10:27:04.627Z",
       "count": 20,
       "items": [
         {
           "id": "2189",
-          "title": "2026-2 GLC 전용 온라인 세종학당 한국어 학습강좌 우수 수료자 발표 New",
+          "title": "2026-2 GLC 전용 온라인 세종학당 한국어 학습강좌 우수 수료자 발표",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2189",
           "date": "2026-10-14",
           "category": "일반",
@@ -465,6 +465,14 @@
           "pinned": true
         },
         {
+          "id": "2190",
+          "title": "[국제처] 2026 국제 동계대학 수강 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2190",
+          "date": "2026-10-15",
+          "category": "학사",
+          "pinned": false
+        },
+        {
           "id": "2184",
           "title": "[연세대학교 바른ICT연구소] 제15회 Asia Privacy Bridge Forum 2026 행사 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2184",
@@ -503,14 +511,6 @@
           "date": "2026-09-18",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2177",
-          "title": "World Bank Group YPP Economics Session & Career Opportunities",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2177",
-          "date": "2026-09-18",
-          "category": "취업",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-15T02:04:41.448Z",
+      "fetched_at": "2026-10-15T10:27:06.150Z",
       "count": 0,
       "items": []
     }
