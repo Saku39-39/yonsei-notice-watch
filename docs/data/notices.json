@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T01:55:02.772Z",
+  "generated_at": "2026-10-16T10:14:28.831Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-16T01:54:57.022Z",
+      "fetched_at": "2026-10-16T10:14:23.089Z",
       "count": 20,
       "items": [
         {
@@ -107,6 +107,14 @@
           "pinned": true
         },
         {
+          "id": "482419",
+          "title": "[기타] [진로지원]대학원 멘토 초청 커리어 멘토링 <석사 졸업 후 뭐하지? 제약·바이오 취업부터 회사생활까지> 안내 (11/4, 17:00~)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482419&article.offset=0&articleLimit=10",
+          "date": "2026-10-16",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "481760",
           "title": "[기타] [진로지원]대학원 멘토 초청 커리어 멘토링 <엔터테인먼트 회사의 진짜 일: 사람에서 IP, 그리고 비즈니스까지> (10/28, 12:00~)",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481760&article.offset=0&articleLimit=10",
@@ -161,14 +169,6 @@
           "date": "2026-09-28",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "480231",
-          "title": "[기타] [대학원 혁신] 2026-2학기 온라인 세종학당 한국어 교육 프로그램 신청 안내(~10.4.) / 100% Free Online King Sejong Korean Language Program",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=480231&article.offset=0&articleLimit=10",
-          "date": "2026-09-17",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-16T01:54:58.864Z",
+      "fetched_at": "2026-10-16T10:14:24.750Z",
       "count": 20,
       "items": [
         {
@@ -278,6 +278,14 @@
           "pinned": true
         },
         {
+          "id": "482390",
+          "title": "AI 기반 한국어 학습지원 프로그램 'TOPIK-ON' 안내",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=482390&article.offset=0&articleLimit=10",
+          "date": "2026-10-16",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "481905",
           "title": "2027학년도 캠퍼스 내 소속변경 전형 안내(10. 27.(화) 09:00 ~ 11. 2.(월) 17:00)",
           "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=481905&article.offset=0&articleLimit=10",
@@ -332,14 +340,6 @@
           "date": "2026-09-10",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "478672",
-          "title": "[홍보] 2027학년도 전기 일반대학원 외국인 학부 및 한국어학당 학생 대상 대학원 입학설명회",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=478672&article.offset=0&articleLimit=10",
-          "date": "2026-09-04",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-16T01:55:00.568Z",
+      "fetched_at": "2026-10-16T10:14:26.688Z",
       "count": 20,
       "items": [
         {
@@ -465,8 +465,24 @@
           "pinned": true
         },
         {
+          "id": "2192",
+          "title": "[IDP] 제54회 세계유학박람회 - 호주유학 특별관 (10/31-11/1) New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2192",
+          "date": "2026-10-16",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2191",
+          "title": "파수 AI, 스패로우 - 2026년 3차 신입 공개 채용 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2191",
+          "date": "2026-10-16",
+          "category": "취업",
+          "pinned": false
+        },
+        {
           "id": "2190",
-          "title": "[국제처] 2026 국제 동계대학 수강 안내 New",
+          "title": "[국제처] 2026 국제 동계대학 수강 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2190",
           "date": "2026-10-15",
           "category": "학사",
@@ -495,22 +511,6 @@
           "date": "2026-09-22",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2180",
-          "title": "AX 산학협력 프로젝트(AXP) 홍보",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2180",
-          "date": "2026-09-21",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2178",
-          "title": "2026 세종학당 학습자 서포터즈 모집",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2178",
-          "date": "2026-09-18",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-16T01:55:02.771Z",
+      "fetched_at": "2026-10-16T10:14:28.830Z",
       "count": 0,
       "items": []
     }
