@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:14:28.831Z",
+  "generated_at": "2026-10-16T15:39:43.370Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-16T10:14:23.089Z",
+      "fetched_at": "2026-10-16T15:39:37.173Z",
       "count": 20,
       "items": [
         {
@@ -31,22 +31,6 @@
           "title": "[공지] [기타] [진로지원]대학원생을 위한, 대기업 인사팀 출신과 함께하는 모의면접 1:1 컨설팅",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481782&article.offset=0&articleLimit=10",
           "date": "2026-10-08",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "481669",
-          "title": "[공지] [기타] [일반대학원 총학생회] 2026 대학원생 건강 증진을 위한 가을맞이 단풍놀이 프로젝트 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481669&article.offset=0&articleLimit=10",
-          "date": "2026-10-07",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "481442",
-          "title": "[공지] [기타] [기획실] 2026학년도 교육수요자 만족도 설문조사 진행 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481442&article.offset=0&articleLimit=10",
-          "date": "2026-10-02",
           "category": null,
           "pinned": true
         },
@@ -123,6 +107,14 @@
           "pinned": false
         },
         {
+          "id": "481669",
+          "title": "[기타] [일반대학원 총학생회] 2026 대학원생 건강 증진을 위한 가을맞이 단풍놀이 프로젝트 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481669&article.offset=0&articleLimit=10",
+          "date": "2026-10-07",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "481483",
           "title": "[논문] [주시경교양교육연구소] 교양교육 전문 학술지 「대학교양교육연구」제11권 제3호(통권 24호) 발간 사업 시행",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481483&article.offset=0&articleLimit=10",
@@ -142,6 +134,14 @@
           "id": "481463",
           "title": "[기타] [진로지원]대학원 멘토 초청 커리어 특강 <민간 비영리 연구기관에서의 연구활동> 안내 (10/15, 18:00~)",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481463&article.offset=0&articleLimit=10",
+          "date": "2026-10-02",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "481442",
+          "title": "[기타] [기획실] 2026학년도 교육수요자 만족도 설문조사 진행 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481442&article.offset=0&articleLimit=10",
           "date": "2026-10-02",
           "category": null,
           "pinned": false
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-16T10:14:24.750Z",
+      "fetched_at": "2026-10-16T15:39:40.024Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-16T10:14:26.688Z",
+      "fetched_at": "2026-10-16T15:39:41.942Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-16T10:14:28.830Z",
+      "fetched_at": "2026-10-16T15:39:43.370Z",
       "count": 0,
       "items": []
     }
