@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T01:49:42.916Z",
+  "generated_at": "2026-10-17T09:48:36.977Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-17T01:49:34.280Z",
+      "fetched_at": "2026-10-17T09:48:30.022Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-17T01:49:37.992Z",
+      "fetched_at": "2026-10-17T09:48:32.336Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-17T01:49:39.251Z",
+      "fetched_at": "2026-10-17T09:48:35.454Z",
       "count": 20,
       "items": [
         {
@@ -466,7 +466,7 @@
         },
         {
           "id": "2192",
-          "title": "[IDP] 제54회 세계유학박람회 - 호주유학 특별관 (10/31-11/1) New",
+          "title": "[IDP] 제54회 세계유학박람회 - 호주유학 특별관 (10/31-11/1)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2192",
           "date": "2026-10-16",
           "category": "일반",
@@ -474,7 +474,7 @@
         },
         {
           "id": "2191",
-          "title": "파수 AI, 스패로우 - 2026년 3차 신입 공개 채용 New",
+          "title": "파수 AI, 스패로우 - 2026년 3차 신입 공개 채용",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2191",
           "date": "2026-10-16",
           "category": "취업",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-17T01:49:42.916Z",
+      "fetched_at": "2026-10-17T09:48:36.977Z",
       "count": 0,
       "items": []
     }
