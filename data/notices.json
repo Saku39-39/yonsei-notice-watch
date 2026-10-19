@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T02:04:51.214Z",
+  "generated_at": "2026-10-19T11:24:01.612Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,25 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-19T02:04:44.219Z",
+      "fetched_at": "2026-10-19T11:23:53.264Z",
       "count": 20,
       "items": [
+        {
+          "id": "482519",
+          "title": "[공지] [기타] [진로지원]박사과정 및 박사후연구 위한 <Ph.D. 커리어 네트워킹> 개최 (11/3, 15:00~ 계열별 진행)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482519&article.offset=0&articleLimit=10",
+          "date": "2026-10-19",
+          "category": null,
+          "pinned": true
+        },
+        {
+          "id": "482419",
+          "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 멘토링 <석사 졸업 후 뭐하지? 제약·바이오 취업부터 회사생활까지> 안내 (11/4, 17:00~)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482419&article.offset=0&articleLimit=10",
+          "date": "2026-10-16",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "482238",
           "title": "[공지] [대학원 혁신] 외국인 대학원생을 위한 실전 한국어 특강 프로그램 신청 안내",
@@ -31,14 +47,6 @@
           "title": "[공지] [기타] [진로지원]대학원생을 위한, 대기업 인사팀 출신과 함께하는 모의면접 1:1 컨설팅",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481782&article.offset=0&articleLimit=10",
           "date": "2026-10-08",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "479680",
-          "title": "[공지] [기타] [진로지원]대학원생을 위한, 대기업 인사팀 출신과 함께하는 면접 특강 및 1:1 컨설팅",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=479680&article.offset=0&articleLimit=10",
-          "date": "2026-09-14",
           "category": null,
           "pinned": true
         },
@@ -89,14 +97,6 @@
           "date": "2023-04-18",
           "category": null,
           "pinned": true
-        },
-        {
-          "id": "482419",
-          "title": "[기타] [진로지원]대학원 멘토 초청 커리어 멘토링 <석사 졸업 후 뭐하지? 제약·바이오 취업부터 회사생활까지> 안내 (11/4, 17:00~)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482419&article.offset=0&articleLimit=10",
-          "date": "2026-10-16",
-          "category": null,
-          "pinned": false
         },
         {
           "id": "481760",
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-19T02:04:45.514Z",
+      "fetched_at": "2026-10-19T11:23:55.002Z",
       "count": 20,
       "items": [
         {
@@ -349,9 +349,17 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-19T02:04:49.341Z",
+      "fetched_at": "2026-10-19T11:23:58.557Z",
       "count": 20,
       "items": [
+        {
+          "id": "2194",
+          "title": "AI 기반 맞춤형 학습지원 'TOPIK-ON' 프로그램 참가자 모집 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2194",
+          "date": "2026-10-19",
+          "category": "일반",
+          "pinned": true
+        },
         {
           "id": "2189",
           "title": "2026-2 GLC 전용 온라인 세종학당 한국어 학습강좌 우수 수료자 발표",
@@ -503,14 +511,6 @@
           "date": "2026-09-29",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2183",
-          "title": "[IDP] 2026 세계유학박람회 (10/31~11/1)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2183",
-          "date": "2026-09-29",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-19T02:04:51.214Z",
+      "fetched_at": "2026-10-19T11:24:01.611Z",
       "count": 0,
       "items": []
     }
