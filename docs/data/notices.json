@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T02:21:16.367Z",
+  "generated_at": "2026-10-20T10:31:05.580Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-20T02:21:12.850Z",
+      "fetched_at": "2026-10-20T10:31:01.403Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-20T02:21:13.835Z",
+      "fetched_at": "2026-10-20T10:31:02.647Z",
       "count": 20,
       "items": [
         {
@@ -349,12 +349,12 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-20T02:21:15.322Z",
+      "fetched_at": "2026-10-20T10:31:03.851Z",
       "count": 20,
       "items": [
         {
           "id": "2194",
-          "title": "AI 기반 맞춤형 학습지원 'TOPIK-ON' 프로그램 참가자 모집 New",
+          "title": "AI 기반 맞춤형 학습지원 'TOPIK-ON' 프로그램 참가자 모집",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2194",
           "date": "2026-10-19",
           "category": "일반",
@@ -473,9 +473,25 @@
           "pinned": true
         },
         {
-          "id": "2196",
+          "id": "2199",
+          "title": "[AlphaSights] 2027년 Asia Case Competition New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2199",
+          "date": "2026-10-20",
+          "category": "취업",
+          "pinned": false
+        },
+        {
+          "id": "2198",
+          "title": "[AlphaSights] 2027년 상반기 글로벌 기업 주요 고객사 프로젝트 담당자 채용 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2198",
+          "date": "2026-10-20",
+          "category": "취업",
+          "pinned": false
+        },
+        {
+          "id": "2197",
           "title": "[한국고등교육재단] 2026 SK SUNNY 청년발전행동(장시 지역) 참가자 모집 New",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2196",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2197",
           "date": "2026-10-20",
           "category": "일반",
           "pinned": false
@@ -495,22 +511,6 @@
           "date": "2026-10-19",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2192",
-          "title": "[IDP] 제54회 세계유학박람회 - 호주유학 특별관 (10/31-11/1)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2192",
-          "date": "2026-10-16",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2191",
-          "title": "파수 AI, 스패로우 - 2026년 3차 신입 공개 채용",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2191",
-          "date": "2026-10-16",
-          "category": "취업",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-20T02:21:16.367Z",
+      "fetched_at": "2026-10-20T10:31:05.580Z",
       "count": 0,
       "items": []
     }
