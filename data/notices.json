@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:47:22.966Z",
+  "generated_at": "2026-10-20T02:21:16.367Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-19T21:47:17.470Z",
+      "fetched_at": "2026-10-20T02:21:12.850Z",
       "count": 20,
       "items": [
         {
@@ -99,6 +99,14 @@
           "pinned": true
         },
         {
+          "id": "482600",
+          "title": "[기타] [인문예술발전기획사업단] 2026 제2회 연세국제창작공모전",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482600&article.offset=0&articleLimit=10",
+          "date": "2026-10-20",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "481760",
           "title": "[기타] [진로지원]대학원 멘토 초청 커리어 멘토링 <엔터테인먼트 회사의 진짜 일: 사람에서 IP, 그리고 비즈니스까지> (10/28, 12:00~)",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481760&article.offset=0&articleLimit=10",
@@ -161,14 +169,6 @@
           "date": "2026-09-30",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "480931",
-          "title": "[기타] [대학원 교학팀] 2027학년도 전기 입학전형 지원조교 모집",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=480931&article.offset=0&articleLimit=10",
-          "date": "2026-09-28",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-19T21:47:18.994Z",
+      "fetched_at": "2026-10-20T02:21:13.835Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-19T21:47:20.344Z",
+      "fetched_at": "2026-10-20T02:21:15.322Z",
       "count": 20,
       "items": [
         {
@@ -473,8 +473,24 @@
           "pinned": true
         },
         {
+          "id": "2196",
+          "title": "[한국고등교육재단] 2026 SK SUNNY 청년발전행동(장시 지역) 참가자 모집 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2196",
+          "date": "2026-10-20",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2195",
+          "title": "[연세노벨위크] 2026 제2회 연세국제창작공모전 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2195",
+          "date": "2026-10-20",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2193",
-          "title": "[메디테라피] 크리에티이브 마케팅 인턴 채용 공고 New",
+          "title": "[메디테라피] 크리에티이브 마케팅 인턴 채용 공고",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2193",
           "date": "2026-10-19",
           "category": "취업",
@@ -495,22 +511,6 @@
           "date": "2026-10-16",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2190",
-          "title": "[국제처] 2026 국제 동계대학 수강 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2190",
-          "date": "2026-10-15",
-          "category": "학사",
-          "pinned": false
-        },
-        {
-          "id": "2184",
-          "title": "[연세대학교 바른ICT연구소] 제15회 Asia Privacy Bridge Forum 2026 행사 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2184",
-          "date": "2026-09-29",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-19T21:47:22.966Z",
+      "fetched_at": "2026-10-20T02:21:16.367Z",
       "count": 0,
       "items": []
     }
