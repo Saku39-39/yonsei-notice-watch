@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:57:20.749Z",
+  "generated_at": "2026-10-21T02:14:45.587Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-20T20:57:12.842Z",
+      "fetched_at": "2026-10-21T02:14:39.563Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-20T20:57:16.101Z",
+      "fetched_at": "2026-10-21T02:14:41.506Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-20T20:57:18.435Z",
+      "fetched_at": "2026-10-21T02:14:43.601Z",
       "count": 20,
       "items": [
         {
@@ -498,7 +498,7 @@
         },
         {
           "id": "2195",
-          "title": "[연세노벨위크] 2026 제2회 연세국제창작공모전 New",
+          "title": "[연세노벨위크] 2026 제2회 연세국제창작공모전",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2195",
           "date": "2026-10-20",
           "category": "일반",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-20T20:57:20.749Z",
+      "fetched_at": "2026-10-21T02:14:45.586Z",
       "count": 0,
       "items": []
     }
