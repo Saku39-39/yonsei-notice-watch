@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:14:45.587Z",
+  "generated_at": "2026-10-21T10:43:28.537Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-21T02:14:39.563Z",
+      "fetched_at": "2026-10-21T10:43:21.673Z",
       "count": 20,
       "items": [
+        {
+          "id": "482817",
+          "title": "[공지] [기타] 2026학년도 대학원생 권익 증진 및 제도 개선을 위한 설문조사",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482817&article.offset=0&articleLimit=10",
+          "date": "2026-10-21",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "482519",
           "title": "[공지] [기타] [진로지원]박사과정 및 박사후연구 위한 <Ph.D. 커리어 네트워킹> 개최 (11/3, 15:00~ 계열별 진행)",
@@ -161,14 +169,6 @@
           "date": "2026-09-30",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "481170",
-          "title": "[Recruitment / Updated Scholarship] Graduate-level student Class TA for Prof. Jon Bailey",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481170&article.offset=0&articleLimit=10",
-          "date": "2026-09-30",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-21T02:14:41.506Z",
+      "fetched_at": "2026-10-21T10:43:24.234Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-21T02:14:43.601Z",
+      "fetched_at": "2026-10-21T10:43:26.612Z",
       "count": 20,
       "items": [
         {
@@ -397,22 +397,6 @@
           "title": "2026-2 TOPIK 시험 대비 워크숍 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2185",
           "date": "2026-09-30",
-          "category": "일반",
-          "pinned": true
-        },
-        {
-          "id": "2182",
-          "title": "2026학년도 2학기 학부 수강과목 철회 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2182",
-          "date": "2026-09-29",
-          "category": "학사",
-          "pinned": true
-        },
-        {
-          "id": "2175",
-          "title": "2026학년도 2학기 졸업앨범 사진촬영 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2175",
-          "date": "2026-09-16",
           "category": "일반",
           "pinned": true
         },
@@ -473,8 +457,24 @@
           "pinned": true
         },
         {
+          "id": "2201",
+          "title": "[교육부] 2026년도 국회고성연수원 의회정치 리더십 과정 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2201",
+          "date": "2026-10-21",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2200",
+          "title": "[국립국악원] 2026 창작악단 정기공연 <전통의 재발견 Ⅶ> 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2200",
+          "date": "2026-10-21",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2199",
-          "title": "[AlphaSights] 2027년 Asia Case Competition New",
+          "title": "[AlphaSights] 2027년 Asia Case Competition",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2199",
           "date": "2026-10-20",
           "category": "취업",
@@ -482,7 +482,7 @@
         },
         {
           "id": "2198",
-          "title": "[AlphaSights] 2027년 상반기 글로벌 기업 주요 고객사 프로젝트 담당자 채용 New",
+          "title": "[AlphaSights] 2027년 상반기 글로벌 기업 주요 고객사 프로젝트 담당자 채용",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2198",
           "date": "2026-10-20",
           "category": "취업",
@@ -490,7 +490,7 @@
         },
         {
           "id": "2197",
-          "title": "[한국고등교육재단] 2026 SK SUNNY 청년발전행동(장시 지역) 참가자 모집 New",
+          "title": "[한국고등교육재단] 2026 SK SUNNY 청년발전행동(장시 지역) 참가자 모집",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2197",
           "date": "2026-10-20",
           "category": "일반",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-21T02:14:45.586Z",
+      "fetched_at": "2026-10-21T10:43:28.537Z",
       "count": 0,
       "items": []
     }
