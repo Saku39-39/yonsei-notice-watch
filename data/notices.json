@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T20:57:48.231Z",
+  "generated_at": "2026-10-22T02:09:11.155Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-21T20:57:25.070Z",
+      "fetched_at": "2026-10-22T02:09:07.075Z",
       "count": 20,
       "items": [
         {
@@ -28,7 +28,7 @@
         },
         {
           "id": "482419",
-          "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 멘토링 <석사 졸업 후 뭐하지? 제약·바이오 취업부터 회사생활까지> 안내 (11/4, 17:00~)",
+          "title": "[공지] [기타] (시간 변경!) [진로지원]대학원 멘토 초청 커리어 멘토링 <석사 졸업 후 뭐하지? 제약·바이오 취업부터 회사생활까지> 안내 (11/4, 16:00~)",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482419&article.offset=0&articleLimit=10",
           "date": "2026-10-16",
           "category": null,
@@ -178,9 +178,25 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-21T20:57:28.218Z",
+      "fetched_at": "2026-10-22T02:09:08.663Z",
       "count": 20,
       "items": [
+        {
+          "id": "482859",
+          "title": "[공지] 제13차 그린라운드테이블(10. 28.(수) 14:00 ~ 17:00)",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=482859&article.offset=0&articleLimit=10",
+          "date": "2026-10-22",
+          "category": null,
+          "pinned": true
+        },
+        {
+          "id": "480749",
+          "title": "[공지] 2026 대한민국 AI 콘텐츠 어워즈 개최 안내",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=480749&article.offset=0&articleLimit=10",
+          "date": "2026-09-23",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "451529",
           "title": "[공지] 장기미개설 과목에 대한 대체재수강 제도 시행 안내(매 학기 수강신청 확인 및 변경기간 종료 후 2주간 (계절학기에는 신청 불가)",
@@ -318,26 +334,10 @@
           "pinned": false
         },
         {
-          "id": "480749",
-          "title": "2026 대한민국 AI 콘텐츠 어워즈 개최 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=480749&article.offset=0&articleLimit=10",
-          "date": "2026-09-23",
-          "category": null,
-          "pinned": false
-        },
-        {
           "id": "480497",
           "title": "2026학년도 2학기 외국 국적 교내 구성원 금융 ID카드 발급 및 등록 재안내",
           "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=480497&article.offset=0&articleLimit=10",
           "date": "2026-09-21",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "479488",
-          "title": "2026학년도 2학기 졸업앨범 사진촬영 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=479488&article.offset=0&articleLimit=10",
-          "date": "2026-09-10",
           "category": null,
           "pinned": false
         }
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-21T20:57:46.636Z",
+      "fetched_at": "2026-10-22T02:09:10.219Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-21T20:57:48.230Z",
+      "fetched_at": "2026-10-22T02:09:11.155Z",
       "count": 0,
       "items": []
     }
