@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:09:11.155Z",
+  "generated_at": "2026-10-22T10:44:55.038Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-22T02:09:07.075Z",
+      "fetched_at": "2026-10-22T10:44:50.711Z",
       "count": 20,
       "items": [
         {
@@ -107,6 +107,14 @@
           "pinned": true
         },
         {
+          "id": "482922",
+          "title": "[수업] 2026학년도 2학기 대학원 중간 강의평가 실시 안내 (Mid-term Course Evaluations for 2026 Fall Semester)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482922&article.offset=0&articleLimit=10",
+          "date": "2026-10-22",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "482600",
           "title": "[기타] [인문예술발전기획사업단] 2026 제2회 연세국제창작공모전",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482600&article.offset=0&articleLimit=10",
@@ -161,14 +169,6 @@
           "date": "2026-10-02",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "481269",
-          "title": "[장학] 2026학년도 2학기 가계 곤란 장학금(Need-based Fellowship) 시행 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481269&article.offset=0&articleLimit=10",
-          "date": "2026-09-30",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-22T02:09:08.663Z",
+      "fetched_at": "2026-10-22T10:44:52.433Z",
       "count": 20,
       "items": [
         {
@@ -349,9 +349,17 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-22T02:09:10.219Z",
+      "fetched_at": "2026-10-22T10:44:53.899Z",
       "count": 20,
       "items": [
+        {
+          "id": "2202",
+          "title": "2026-2학기 GLC 인천 문화 체험 참가 신청 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2202",
+          "date": "2026-10-22",
+          "category": "일반",
+          "pinned": true
+        },
         {
           "id": "2194",
           "title": "AI 기반 맞춤형 학습지원 'TOPIK-ON' 프로그램 참가자 모집",
@@ -458,7 +466,7 @@
         },
         {
           "id": "2201",
-          "title": "[교육부] 2026년도 국회고성연수원 의회정치 리더십 과정 New",
+          "title": "[교육부] 2026년도 국회고성연수원 의회정치 리더십 과정",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2201",
           "date": "2026-10-21",
           "category": "일반",
@@ -466,7 +474,7 @@
         },
         {
           "id": "2200",
-          "title": "[국립국악원] 2026 창작악단 정기공연 <전통의 재발견 Ⅶ> 안내 New",
+          "title": "[국립국악원] 2026 창작악단 정기공연 <전통의 재발견 Ⅶ> 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2200",
           "date": "2026-10-21",
           "category": "일반",
@@ -503,14 +511,6 @@
           "date": "2026-10-20",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2193",
-          "title": "[메디테라피] 크리에티이브 마케팅 인턴 채용 공고",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2193",
-          "date": "2026-10-19",
-          "category": "취업",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-22T02:09:11.155Z",
+      "fetched_at": "2026-10-22T10:44:55.038Z",
       "count": 0,
       "items": []
     }
