@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:55:19.916Z",
+  "generated_at": "2026-10-23T02:14:35.990Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-22T20:55:13.171Z",
+      "fetched_at": "2026-10-23T02:14:28.420Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-22T20:55:15.634Z",
+      "fetched_at": "2026-10-23T02:14:31.153Z",
       "count": 20,
       "items": [
         {
@@ -349,9 +349,25 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-22T20:55:17.993Z",
+      "fetched_at": "2026-10-23T02:14:34.544Z",
       "count": 20,
       "items": [
+        {
+          "id": "2204",
+          "title": "2027년 2월 학부 졸업신청 확인 및 변경 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2204",
+          "date": "2026-10-23",
+          "category": "학사",
+          "pinned": true
+        },
+        {
+          "id": "2203",
+          "title": "2026-2학기 GLC 웰투시 벤처 캠프(Well to Sea Venture Camp) 신청 안내 (~11/27(금) 23:59) New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2203",
+          "date": "2026-10-23",
+          "category": "취업",
+          "pinned": true
+        },
         {
           "id": "2202",
           "title": "2026-2학기 GLC 인천 문화 체험 참가 신청 New",
@@ -374,14 +390,6 @@
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2189",
           "date": "2026-10-14",
           "category": "일반",
-          "pinned": true
-        },
-        {
-          "id": "2188",
-          "title": "2026 태재연구재단 장학생 신청 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2188",
-          "date": "2026-10-14",
-          "category": "장학",
           "pinned": true
         },
         {
@@ -503,14 +511,6 @@
           "date": "2026-10-20",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2195",
-          "title": "[연세노벨위크] 2026 제2회 연세국제창작공모전",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2195",
-          "date": "2026-10-20",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-22T20:55:19.916Z",
+      "fetched_at": "2026-10-23T02:14:35.990Z",
       "count": 0,
       "items": []
     }
