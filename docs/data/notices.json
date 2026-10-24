@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T02:13:02.336Z",
+  "generated_at": "2026-10-24T09:54:59.270Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-24T02:12:55.537Z",
+      "fetched_at": "2026-10-24T09:54:52.458Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-24T02:12:57.870Z",
+      "fetched_at": "2026-10-24T09:54:55.372Z",
       "count": 20,
       "items": [
         {
@@ -349,12 +349,12 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-24T02:13:00.961Z",
+      "fetched_at": "2026-10-24T09:54:57.328Z",
       "count": 20,
       "items": [
         {
           "id": "2205",
-          "title": "GLD 연세장학금 및 자유장학금 신청 안내 [2027-1 학비 감면 재정보조장학금] New",
+          "title": "GLD 연세장학금 및 자유장학금 신청 안내 [2027-1 학비 감면 재정보조장학금]",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2205",
           "date": "2026-10-23",
           "category": "장학",
@@ -466,7 +466,7 @@
         },
         {
           "id": "2207",
-          "title": "외국인 유학생 대상 한국 취업 지원 서비스 '커리어맵(CareerMap)' 안내 (KOR/ENG) New",
+          "title": "외국인 유학생 대상 한국 취업 지원 서비스 '커리어맵(CareerMap)' 안내 (KOR/ENG)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2207",
           "date": "2026-10-23",
           "category": "취업",
@@ -474,7 +474,7 @@
         },
         {
           "id": "2206",
-          "title": "[Nao Now] 미국 에듀테크 스타트업 Nao Now 2027 상반기 마케팅 인턴 모집 (전환형) New",
+          "title": "[Nao Now] 미국 에듀테크 스타트업 Nao Now 2027 상반기 마케팅 인턴 모집 (전환형)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2206",
           "date": "2026-10-23",
           "category": "취업",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-24T02:13:02.336Z",
+      "fetched_at": "2026-10-24T09:54:59.270Z",
       "count": 0,
       "items": []
     }
