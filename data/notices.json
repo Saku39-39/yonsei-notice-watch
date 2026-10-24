@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T20:43:06.660Z",
+  "generated_at": "2026-10-24T02:13:02.336Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-23T20:43:02.789Z",
+      "fetched_at": "2026-10-24T02:12:55.537Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-23T20:43:03.854Z",
+      "fetched_at": "2026-10-24T02:12:57.870Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-23T20:43:05.621Z",
+      "fetched_at": "2026-10-24T02:13:00.961Z",
       "count": 20,
       "items": [
         {
@@ -362,7 +362,7 @@
         },
         {
           "id": "2204",
-          "title": "2027년 2월 학부 졸업신청 확인 및 변경 안내 New",
+          "title": "2027년 2월 학부 졸업신청 확인 및 변경 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2204",
           "date": "2026-10-23",
           "category": "학사",
@@ -370,7 +370,7 @@
         },
         {
           "id": "2203",
-          "title": "2026-2학기 GLC 웰투시 벤처 캠프(Well to Sea Venture Camp) 신청 안내 (~11/27(금) 23:59) New",
+          "title": "2026-2학기 GLC 웰투시 벤처 캠프(Well to Sea Venture Camp) 신청 안내 (~11/27(금) 23:59)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2203",
           "date": "2026-10-23",
           "category": "취업",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-23T20:43:06.660Z",
+      "fetched_at": "2026-10-24T02:13:02.336Z",
       "count": 0,
       "items": []
     }
