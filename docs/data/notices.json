@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:16:18.653Z",
+  "generated_at": "2026-10-25T15:08:25.697Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-25T10:16:15.525Z",
+      "fetched_at": "2026-10-25T15:08:22.592Z",
       "count": 20,
       "items": [
+        {
+          "id": "482976",
+          "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 특강 <<연구 주제를 바꾸는 용기, 연구 커리어의 확장> 안내 (11/11, 10:00~)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482976&article.offset=0&articleLimit=10",
+          "date": "2026-10-23",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "482817",
           "title": "[공지] [기타] 2026학년도 대학원생 권익 증진 및 제도 개선을 위한 설문조사",
@@ -99,14 +107,6 @@
           "pinned": true
         },
         {
-          "id": "482976",
-          "title": "[기타] [진로지원]대학원 멘토 초청 커리어 특강 <<연구 주제를 바꾸는 용기, 연구 커리어의 확장> 안내 (11/11, 10:00~)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482976&article.offset=0&articleLimit=10",
-          "date": "2026-10-23",
-          "category": null,
-          "pinned": false
-        },
-        {
           "id": "482922",
           "title": "[수업] 2026학년도 2학기 대학원 중간 강의평가 실시 안내 (Mid-term Course Evaluations for 2026 Fall Semester)",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482922&article.offset=0&articleLimit=10",
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-25T10:16:16.396Z",
+      "fetched_at": "2026-10-25T15:08:23.442Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-25T10:16:17.725Z",
+      "fetched_at": "2026-10-25T15:08:24.650Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-25T10:16:18.653Z",
+      "fetched_at": "2026-10-25T15:08:25.696Z",
       "count": 0,
       "items": []
     }
