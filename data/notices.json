@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T02:38:31.709Z",
+  "generated_at": "2026-10-27T11:09:52.502Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-27T02:38:25.390Z",
+      "fetched_at": "2026-10-27T11:09:45.909Z",
       "count": 20,
       "items": [
+        {
+          "id": "483322",
+          "title": "[공지] [대학원 혁신] 외국인 대학원생을 위한 기업 HR 인사 전문가 초청 취업진로 특강 / Invited Lecture for International Students: Meet the HR Professionals",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483322&article.offset=0&articleLimit=10",
+          "date": "2026-10-27",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "482976",
           "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 특강 <연구 주제를 바꾸는 용기, 연구 커리어의 확장> 안내 (11/11, 10:00~)",
@@ -161,14 +169,6 @@
           "date": "2026-10-02",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "481482",
-          "title": "[논문] 국방대학교-카이스트 공동주최 「2026년 대학원생 국방학술대회」",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481482&article.offset=0&articleLimit=10",
-          "date": "2026-10-02",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-27T02:38:28.233Z",
+      "fetched_at": "2026-10-27T11:09:48.664Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-27T02:38:30.241Z",
+      "fetched_at": "2026-10-27T11:09:51.001Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-27T02:38:31.709Z",
+      "fetched_at": "2026-10-27T11:09:52.501Z",
       "count": 0,
       "items": []
     }
