@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T21:59:17.746Z",
+  "generated_at": "2026-10-27T02:38:31.709Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-26T21:59:11.813Z",
+      "fetched_at": "2026-10-27T02:38:25.390Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-26T21:59:14.351Z",
+      "fetched_at": "2026-10-27T02:38:28.233Z",
       "count": 20,
       "items": [
         {
@@ -349,12 +349,28 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-26T21:59:16.153Z",
+      "fetched_at": "2026-10-27T02:38:30.241Z",
       "count": 20,
       "items": [
         {
+          "id": "2213",
+          "title": "2026 GLC 11월 콜로퀴움 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2213",
+          "date": "2026-10-27",
+          "category": "일반",
+          "pinned": true
+        },
+        {
+          "id": "2212",
+          "title": "[CareerMap][참가자 모집 (~11.10)] 외국인 유학생 대상 한국식 이력서 및 자기소개서 작성 클리닉 개최 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2212",
+          "date": "2026-10-27",
+          "category": "취업",
+          "pinned": true
+        },
+        {
           "id": "2208",
-          "title": "2026학년도 2학기 학생 선택에 따른 S/U 평가제도 신청 안내 New",
+          "title": "2026학년도 2학기 학생 선택에 따른 S/U 평가제도 신청 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2208",
           "date": "2026-10-26",
           "category": "학사",
@@ -473,42 +489,26 @@
           "pinned": true
         },
         {
-          "id": "2207",
-          "title": "외국인 유학생 대상 한국 취업 지원 서비스 '커리어맵(CareerMap)' 안내 (KOR/ENG)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2207",
-          "date": "2026-10-23",
+          "id": "2211",
+          "title": "AI역량부터 취업까지 한 번에 준비할 기회! 삼성이 만든 AI교육 SSAFY! 17기 모집 시작(~11/9) New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2211",
+          "date": "2026-10-27",
           "category": "취업",
           "pinned": false
         },
         {
-          "id": "2206",
-          "title": "[Nao Now] 미국 에듀테크 스타트업 Nao Now 2027 상반기 마케팅 인턴 모집 (전환형)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2206",
-          "date": "2026-10-23",
-          "category": "취업",
-          "pinned": false
-        },
-        {
-          "id": "2201",
-          "title": "[교육부] 2026년도 국회고성연수원 의회정치 리더십 과정",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2201",
-          "date": "2026-10-21",
+          "id": "2210",
+          "title": "2026년 아프리카 국제기구•싱크탱크 진출 설명회 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2210",
+          "date": "2026-10-27",
           "category": "일반",
           "pinned": false
         },
         {
-          "id": "2200",
-          "title": "[국립국악원] 2026 창작악단 정기공연 <전통의 재발견 Ⅶ> 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2200",
-          "date": "2026-10-21",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2199",
-          "title": "[AlphaSights] 2027년 Asia Case Competition",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2199",
-          "date": "2026-10-20",
+          "id": "2209",
+          "title": "[알파사이츠] 원데이 프로젝트 워크샵 및 글로벌 오피스 채용 공고 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2209",
+          "date": "2026-10-27",
           "category": "취업",
           "pinned": false
         }
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-26T21:59:17.745Z",
+      "fetched_at": "2026-10-27T02:38:31.709Z",
       "count": 0,
       "items": []
     }
