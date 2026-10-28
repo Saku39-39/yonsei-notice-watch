@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T21:31:16.372Z",
+  "generated_at": "2026-10-28T02:46:54.786Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-27T21:31:10.294Z",
+      "fetched_at": "2026-10-28T02:46:48.445Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-27T21:31:11.999Z",
+      "fetched_at": "2026-10-28T02:46:51.871Z",
       "count": 20,
       "items": [
         {
@@ -349,12 +349,20 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-27T21:31:14.384Z",
+      "fetched_at": "2026-10-28T02:46:53.815Z",
       "count": 20,
       "items": [
         {
+          "id": "2214",
+          "title": "2027년 세종학당 문화인턴 파견 사업 설명회 안내 (온라인) New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2214",
+          "date": "2026-10-28",
+          "category": "일반",
+          "pinned": true
+        },
+        {
           "id": "2213",
-          "title": "2026 GLC 11월 콜로퀴움 안내 New",
+          "title": "2026 GLC 11월 콜로퀴움 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2213",
           "date": "2026-10-27",
           "category": "일반",
@@ -362,7 +370,7 @@
         },
         {
           "id": "2212",
-          "title": "[CareerMap][참가자 모집 (~11.10)] 외국인 유학생 대상 한국식 이력서 및 자기소개서 작성 클리닉 개최 안내 New",
+          "title": "[CareerMap][참가자 모집 (~11.10)] 외국인 유학생 대상 한국식 이력서 및 자기소개서 작성 클리닉 개최 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2212",
           "date": "2026-10-27",
           "category": "취업",
@@ -490,7 +498,7 @@
         },
         {
           "id": "2211",
-          "title": "AI역량부터 취업까지 한 번에 준비할 기회! 삼성이 만든 AI교육 SSAFY! 17기 모집 시작(~11/9) New",
+          "title": "AI역량부터 취업까지 한 번에 준비할 기회! 삼성이 만든 AI교육 SSAFY! 17기 모집 시작(~11/9)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2211",
           "date": "2026-10-27",
           "category": "취업",
@@ -498,18 +506,10 @@
         },
         {
           "id": "2210",
-          "title": "2026년 아프리카 국제기구•싱크탱크 진출 설명회 안내 New",
+          "title": "2026년 아프리카 국제기구•싱크탱크 진출 설명회 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2210",
           "date": "2026-10-27",
           "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2209",
-          "title": "[알파사이츠] 원데이 프로젝트 워크샵 및 글로벌 오피스 채용 공고 New",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2209",
-          "date": "2026-10-27",
-          "category": "취업",
           "pinned": false
         }
       ]
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-27T21:31:16.372Z",
+      "fetched_at": "2026-10-28T02:46:54.785Z",
       "count": 0,
       "items": []
     }
