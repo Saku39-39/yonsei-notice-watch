@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T11:52:25.038Z",
+  "generated_at": "2026-10-29T17:41:11.092Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-29T11:52:18.869Z",
+      "fetched_at": "2026-10-29T17:41:05.348Z",
       "count": 20,
       "items": [
         {
@@ -178,17 +178,9 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-29T11:52:20.975Z",
+      "fetched_at": "2026-10-29T17:41:07.138Z",
       "count": 20,
       "items": [
-        {
-          "id": "482859",
-          "title": "[공지] 제13차 그린라운드테이블(10. 28.(수) 14:00 ~ 17:00)",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=482859&article.offset=0&articleLimit=10",
-          "date": "2026-10-22",
-          "category": null,
-          "pinned": true
-        },
         {
           "id": "451529",
           "title": "[공지] 장기미개설 과목에 대한 대체재수강 제도 시행 안내(매 학기 수강신청 확인 및 변경기간 종료 후 2주간 (계절학기에는 신청 불가)",
@@ -286,6 +278,14 @@
           "pinned": true
         },
         {
+          "id": "482859",
+          "title": "제13차 그린라운드테이블(10. 28.(수) 14:00 ~ 17:00)",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=482859&article.offset=0&articleLimit=10",
+          "date": "2026-10-22",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "482390",
           "title": "AI 기반 한국어 학습지원 프로그램 'TOPIK-ON' 안내",
           "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=482390&article.offset=0&articleLimit=10",
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-29T11:52:22.902Z",
+      "fetched_at": "2026-10-29T17:41:09.448Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-29T11:52:25.038Z",
+      "fetched_at": "2026-10-29T17:41:11.092Z",
       "count": 0,
       "items": []
     }
