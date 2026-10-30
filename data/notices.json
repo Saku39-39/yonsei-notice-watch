@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T11:45:29.025Z",
+  "generated_at": "2026-10-30T17:20:24.092Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-30T11:45:22.465Z",
+      "fetched_at": "2026-10-30T17:20:16.883Z",
       "count": 20,
       "items": [
         {
@@ -51,26 +51,10 @@
           "pinned": true
         },
         {
-          "id": "482419",
-          "title": "[공지] [기타] (시간 변경!) [진로지원]대학원 멘토 초청 커리어 멘토링 <석사 졸업 후 뭐하지? 제약·바이오 취업부터 회사생활까지> 안내 (11/4, 16:00~)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482419&article.offset=0&articleLimit=10",
-          "date": "2026-10-16",
-          "category": null,
-          "pinned": true
-        },
-        {
           "id": "482238",
           "title": "[공지] [대학원 혁신] 외국인 대학원생을 위한 실전 한국어 특강 프로그램 신청 안내",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482238&article.offset=0&articleLimit=10",
           "date": "2026-10-14",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "481782",
-          "title": "[공지] [기타] [진로지원]대학원생을 위한, 대기업 인사팀 출신과 함께하는 모의면접 1:1 컨설팅",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481782&article.offset=0&articleLimit=10",
-          "date": "2026-10-08",
           "category": null,
           "pinned": true
         },
@@ -147,10 +131,26 @@
           "pinned": false
         },
         {
+          "id": "482419",
+          "title": "[기타] (시간 변경!) [진로지원]대학원 멘토 초청 커리어 멘토링 <석사 졸업 후 뭐하지? 제약·바이오 취업부터 회사생활까지> 안내 (11/4, 16:00~)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482419&article.offset=0&articleLimit=10",
+          "date": "2026-10-16",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "481978",
           "title": "[대학원 혁신] 대학원생을 위한 외국계 연사초청 Career Talk & 멘토링 특강 프로그램 신청 안내 (10. 21. 18:00)",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481978&article.offset=0&articleLimit=10",
           "date": "2026-10-12",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "481782",
+          "title": "[기타] [진로지원]대학원생을 위한, 대기업 인사팀 출신과 함께하는 모의면접 1:1 컨설팅",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481782&article.offset=0&articleLimit=10",
+          "date": "2026-10-08",
           "category": null,
           "pinned": false
         },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-10-30T11:45:25.394Z",
+      "fetched_at": "2026-10-30T17:20:20.509Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-30T11:45:27.352Z",
+      "fetched_at": "2026-10-30T17:20:22.457Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-30T11:45:29.025Z",
+      "fetched_at": "2026-10-30T17:20:24.092Z",
       "count": 0,
       "items": []
     }
