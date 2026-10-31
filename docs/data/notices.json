@@ -1,347 +1,27 @@
 {
-  "generated_at": "2026-10-31T11:19:03.051Z",
+  "generated_at": "2026-10-31T16:25:45.283Z",
   "sites": [
     {
       "site_id": "graduate",
       "site_name": "대학원 교내공지",
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
-      "status": "ok",
-      "fetched_at": "2026-10-31T11:18:59.726Z",
-      "count": 20,
-      "items": [
-        {
-          "id": "483494",
-          "title": "[공지] [대학원혁신] 2026학년도 2학기 외국인 대학원생 학사생활 지원 Peer-Mentoring 프로그램 운영 및 신청 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483494&article.offset=0&articleLimit=10",
-          "date": "2026-10-29",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "483322",
-          "title": "[공지] [대학원 혁신] 외국인 대학원생을 위한 기업 HR 인사 전문가 초청 취업진로 특강 / Invited Lecture for International Students: Meet the HR Professionals",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483322&article.offset=0&articleLimit=10",
-          "date": "2026-10-27",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "482976",
-          "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 특강 <연구 주제를 바꾸는 용기, 연구 커리어의 확장> 안내 (11/11, 10:00~)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482976&article.offset=0&articleLimit=10",
-          "date": "2026-10-23",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "482817",
-          "title": "[공지] [기타] 2026학년도 대학원생 권익 증진 및 제도 개선을 위한 설문조사",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482817&article.offset=0&articleLimit=10",
-          "date": "2026-10-21",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "482519",
-          "title": "[공지] [기타] [진로지원]박사과정 및 박사후연구 위한 <Ph.D. 커리어 네트워킹> 개최 (11/3, 15:00~ 계열별 진행)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482519&article.offset=0&articleLimit=10",
-          "date": "2026-10-19",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "482238",
-          "title": "[공지] [대학원 혁신] 외국인 대학원생을 위한 실전 한국어 특강 프로그램 신청 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482238&article.offset=0&articleLimit=10",
-          "date": "2026-10-14",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "477970",
-          "title": "[공지] [기타] 2026-2학기 대학원혁신 Y-ARF 대학원생 우수 학술논문 게재료 지원사업 시행 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=477970&article.offset=0&articleLimit=10",
-          "date": "2026-09-01",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "476482",
-          "title": "[공지] [기타] 연세메일 신청 방법 안내 / Yonsei Email Account Application Guide",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476482&article.offset=0&articleLimit=10",
-          "date": "2026-08-13",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "476459",
-          "title": "[공지] [논문] 2026학년도 2학기 학위논문 연구계획서 제출 및 논문심사 일정 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=476459&article.offset=0&articleLimit=10",
-          "date": "2026-08-12",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "464804",
-          "title": "[공지] [기타] [미래캠퍼스 국제교류원] 2026학년도 미래캠퍼스 기관토플(TOEFL ITP) 시행 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=464804&article.offset=0&articleLimit=10",
-          "date": "2026-02-25",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "462347",
-          "title": "[공지] [기타] 2026년 연세대학교 대학원 기관토플 시행 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=462347&article.offset=0&articleLimit=10",
-          "date": "2026-01-08",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "164637",
-          "title": "[공지] [입학] 일반대학원 학과 및 전공 소개자료 [첨부파일 참고]",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=164637&article.offset=0&articleLimit=10",
-          "date": "2023-04-18",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "483143",
-          "title": "[기타] 교내 구성원 사칭 및 관련 피해 예방 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483143&article.offset=0&articleLimit=10",
-          "date": "2026-10-26",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "482922",
-          "title": "[수업] 2026학년도 2학기 대학원 중간 강의평가 실시 안내 (Mid-term Course Evaluations for 2026 Fall Semester)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482922&article.offset=0&articleLimit=10",
-          "date": "2026-10-22",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "482600",
-          "title": "[기타] [인문예술발전기획사업단] 2026 제2회 연세국제창작공모전",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482600&article.offset=0&articleLimit=10",
-          "date": "2026-10-20",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "482419",
-          "title": "[기타] (시간 변경!) [진로지원]대학원 멘토 초청 커리어 멘토링 <석사 졸업 후 뭐하지? 제약·바이오 취업부터 회사생활까지> 안내 (11/4, 16:00~)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482419&article.offset=0&articleLimit=10",
-          "date": "2026-10-16",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "481978",
-          "title": "[대학원 혁신] 대학원생을 위한 외국계 연사초청 Career Talk & 멘토링 특강 프로그램 신청 안내 (10. 21. 18:00)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481978&article.offset=0&articleLimit=10",
-          "date": "2026-10-12",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "481782",
-          "title": "[기타] [진로지원]대학원생을 위한, 대기업 인사팀 출신과 함께하는 모의면접 1:1 컨설팅",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481782&article.offset=0&articleLimit=10",
-          "date": "2026-10-08",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "481760",
-          "title": "[기타] [진로지원]대학원 멘토 초청 커리어 멘토링 <엔터테인먼트 회사의 진짜 일: 사람에서 IP, 그리고 비즈니스까지> (10/28, 12:00~)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481760&article.offset=0&articleLimit=10",
-          "date": "2026-10-07",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "481669",
-          "title": "[기타] [일반대학원 총학생회] 2026 대학원생 건강 증진을 위한 가을맞이 단풍놀이 프로젝트 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481669&article.offset=0&articleLimit=10",
-          "date": "2026-10-07",
-          "category": null,
-          "pinned": false
-        }
-      ]
+      "status": "error",
+      "fetched_at": "2026-10-31T16:25:10.993Z",
+      "error": "This operation was aborted",
+      "count": 0,
+      "items": []
     },
     {
       "site_id": "socsci",
       "site_name": "사회과학대학 공지사항",
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
-      "status": "ok",
-      "fetched_at": "2026-10-31T11:19:00.717Z",
-      "count": 20,
-      "items": [
-        {
-          "id": "451529",
-          "title": "[공지] 장기미개설 과목에 대한 대체재수강 제도 시행 안내(매 학기 수강신청 확인 및 변경기간 종료 후 2주간 (계절학기에는 신청 불가)",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=451529&article.offset=0&articleLimit=10",
-          "date": "2025-07-24",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "448211",
-          "title": "[공지] 생성형 AI 활용 가이드라인 ver 1.0 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=448211&article.offset=0&articleLimit=10",
-          "date": "2025-06-04",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "213367",
-          "title": "[공지] [필독] 사회과학대학 대관 요청 전 확인 사항 안내 (연희관, 빌링슬리관)",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=213367&article.offset=0&articleLimit=10",
-          "date": "2024-10-16",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "211305",
-          "title": "[공지] 2026-1학기 (최)우등상 및 지난 학위증 수령 관련 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=211305&article.offset=0&articleLimit=10",
-          "date": "2024-09-19",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "210315",
-          "title": "[공지] [졸업요건] 학사포탈 졸업자가진단 점검 시 참고사항",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=210315&article.offset=0&articleLimit=10",
-          "date": "2024-09-05",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "209012",
-          "title": "[공지] [중요] SOS4003 \"파이썬을이용한온라인데이터분석\" 관련 공지 (기존 SOS2003 수강자)",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=209012&article.offset=0&articleLimit=10",
-          "date": "2024-08-19",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "179015",
-          "title": "[공지] 사회과학대학 AI융합심화전공 교과과정 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=179015&article.offset=0&articleLimit=10",
-          "date": "2023-12-06",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "176574",
-          "title": "[공지] 사회과학대학 인증 발급 기준 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=176574&article.offset=0&articleLimit=10",
-          "date": "2023-10-23",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "167092",
-          "title": "[공지] 연세대학교 온라인 폭력예방교육 이수 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=167092&article.offset=0&articleLimit=10",
-          "date": "2023-05-26",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "121788",
-          "title": "[공지] [졸업요건] 사회과학대학 공통과목(SOS) 전공과목 인정 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=121788&article.offset=0&articleLimit=10",
-          "date": "2021-06-21",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "107410",
-          "title": "[공지] 사회과학대학 데이터사회과학과정 인증제 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=107410&article.offset=0&articleLimit=10",
-          "date": "2020-11-26",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "104451",
-          "title": "[공지] 사회과학대학 법제과정 인증제 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=104451&article.offset=0&articleLimit=10",
-          "date": "2020-09-29",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "482859",
-          "title": "제13차 그린라운드테이블(10. 28.(수) 14:00 ~ 17:00)",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=482859&article.offset=0&articleLimit=10",
-          "date": "2026-10-22",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "482390",
-          "title": "AI 기반 한국어 학습지원 프로그램 'TOPIK-ON' 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=482390&article.offset=0&articleLimit=10",
-          "date": "2026-10-16",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "481905",
-          "title": "2027학년도 캠퍼스 내 소속변경 전형 안내(10. 27.(화) 09:00 ~ 11. 2.(월) 17:00)",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=481905&article.offset=0&articleLimit=10",
-          "date": "2026-10-12",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "481665",
-          "title": "2026년「제12회 서울 29초 영화제 안내(~11.10.(화))",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=481665&article.offset=0&articleLimit=10",
-          "date": "2026-10-07",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "481655",
-          "title": "2026학년도 2학기 학부 강의정보 공유 설문 실시 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=481655&article.offset=0&articleLimit=10",
-          "date": "2026-10-07",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "481092",
-          "title": "2026학년도 2학기 학부 수강과목 철회 안내( 2026. 10. 13.(화) 09:00 ∼ 10. 15.(목) 23:59)",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=481092&article.offset=0&articleLimit=10",
-          "date": "2026-09-29",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "480749",
-          "title": "2026 대한민국 AI 콘텐츠 어워즈 개최 안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=480749&article.offset=0&articleLimit=10",
-          "date": "2026-09-23",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "480497",
-          "title": "2026학년도 2학기 외국 국적 교내 구성원 금융 ID카드 발급 및 등록 재안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=480497&article.offset=0&articleLimit=10",
-          "date": "2026-09-21",
-          "category": null,
-          "pinned": false
-        }
-      ]
+      "status": "error",
+      "fetched_at": "2026-10-31T16:25:40.993Z",
+      "error": "This operation was aborted",
+      "count": 0,
+      "items": []
     },
     {
       "site_id": "glc",
@@ -349,7 +29,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-10-31T11:19:02.029Z",
+      "fetched_at": "2026-10-31T16:25:43.428Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +200,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-10-31T11:19:03.051Z",
+      "fetched_at": "2026-10-31T16:25:45.283Z",
       "count": 0,
       "items": []
     }
