@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:25:40.990Z",
+  "generated_at": "2026-11-02T02:58:45.156Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-01T21:25:36.355Z",
+      "fetched_at": "2026-11-02T02:58:38.039Z",
       "count": 20,
       "items": [
+        {
+          "id": "483624",
+          "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 멘토링 <스타트업의 A to Z> 안내 (11/18, 12:00~)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483624&article.offset=0&articleLimit=10",
+          "date": "2026-11-02",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "483494",
           "title": "[공지] [대학원혁신] 2026학년도 2학기 외국인 대학원생 학사생활 지원 Peer-Mentoring 프로그램 운영 및 신청 안내",
@@ -161,14 +169,6 @@
           "date": "2026-10-07",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "481669",
-          "title": "[기타] [일반대학원 총학생회] 2026 대학원생 건강 증진을 위한 가을맞이 단풍놀이 프로젝트 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481669&article.offset=0&articleLimit=10",
-          "date": "2026-10-07",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-01T21:25:38.458Z",
+      "fetched_at": "2026-11-02T02:58:41.133Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-01T21:25:39.783Z",
+      "fetched_at": "2026-11-02T02:58:43.495Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-01T21:25:40.990Z",
+      "fetched_at": "2026-11-02T02:58:45.155Z",
       "count": 0,
       "items": []
     }
