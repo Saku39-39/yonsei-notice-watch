@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:07:15.226Z",
+  "generated_at": "2026-11-03T22:38:21.272Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-03T13:07:09.095Z",
+      "fetched_at": "2026-11-03T22:38:15.983Z",
       "count": 20,
       "items": [
         {
@@ -47,14 +47,6 @@
           "title": "[공지] [기타] 2026학년도 대학원생 권익 증진 및 제도 개선을 위한 설문조사",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482817&article.offset=0&articleLimit=10",
           "date": "2026-10-21",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "482238",
-          "title": "[공지] [대학원 혁신] 외국인 대학원생을 위한 실전 한국어 특강 프로그램 신청 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482238&article.offset=0&articleLimit=10",
-          "date": "2026-10-14",
           "category": null,
           "pinned": true
         },
@@ -147,6 +139,14 @@
           "pinned": false
         },
         {
+          "id": "482238",
+          "title": "[대학원 혁신] 외국인 대학원생을 위한 실전 한국어 특강 프로그램 신청 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482238&article.offset=0&articleLimit=10",
+          "date": "2026-10-14",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "481978",
           "title": "[대학원 혁신] 대학원생을 위한 외국계 연사초청 Career Talk & 멘토링 특강 프로그램 신청 안내 (10. 21. 18:00)",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481978&article.offset=0&articleLimit=10",
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-03T13:07:11.888Z",
+      "fetched_at": "2026-11-03T22:38:17.992Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-03T13:07:13.476Z",
+      "fetched_at": "2026-11-03T22:38:19.503Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-03T13:07:15.226Z",
+      "fetched_at": "2026-11-03T22:38:21.272Z",
       "count": 0,
       "items": []
     }
