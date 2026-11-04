@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T03:36:08.396Z",
+  "generated_at": "2026-11-04T13:23:03.482Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-04T03:36:02.939Z",
+      "fetched_at": "2026-11-04T13:22:53.046Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-04T03:36:05.555Z",
+      "fetched_at": "2026-11-04T13:22:56.351Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-04T03:36:07.462Z",
+      "fetched_at": "2026-11-04T13:22:59.784Z",
       "count": 20,
       "items": [
         {
@@ -498,7 +498,7 @@
         },
         {
           "id": "2222",
-          "title": "[학생복지처] World Bank Group 채용설명회 New",
+          "title": "[학생복지처] World Bank Group 채용설명회",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2222",
           "date": "2026-11-03",
           "category": "취업",
@@ -506,7 +506,7 @@
         },
         {
           "id": "2221",
-          "title": "[학생복지처] OECD 채용설명회 New",
+          "title": "[학생복지처] OECD 채용설명회",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2221",
           "date": "2026-11-03",
           "category": "취업",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-04T03:36:08.395Z",
+      "fetched_at": "2026-11-04T13:23:03.482Z",
       "count": 0,
       "items": []
     }
