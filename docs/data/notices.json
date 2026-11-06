@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T22:57:55.421Z",
+  "generated_at": "2026-11-06T03:53:57.712Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-05T22:57:49.816Z",
+      "fetched_at": "2026-11-06T03:53:51.720Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-05T22:57:52.248Z",
+      "fetched_at": "2026-11-06T03:53:54.161Z",
       "count": 20,
       "items": [
         {
@@ -278,6 +278,14 @@
           "pinned": true
         },
         {
+          "id": "484058",
+          "title": "제26회 윤동주 시문학상(11. 9.(월) ~ 12. 11.(금))",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=484058&article.offset=0&articleLimit=10",
+          "date": "2026-11-06",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "482859",
           "title": "제13차 그린라운드테이블(10. 28.(수) 14:00 ~ 17:00)",
           "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=482859&article.offset=0&articleLimit=10",
@@ -332,14 +340,6 @@
           "date": "2026-09-23",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "480497",
-          "title": "2026학년도 2학기 외국 국적 교내 구성원 금융 ID카드 발급 및 등록 재안내",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=480497&article.offset=0&articleLimit=10",
-          "date": "2026-09-21",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-05T22:57:54.148Z",
+      "fetched_at": "2026-11-06T03:53:55.978Z",
       "count": 20,
       "items": [
         {
@@ -441,14 +441,6 @@
           "pinned": true
         },
         {
-          "id": "2185",
-          "title": "2026-2 TOPIK 시험 대비 워크숍 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2185",
-          "date": "2026-09-30",
-          "category": "일반",
-          "pinned": true
-        },
-        {
           "id": "2153",
           "title": "글쓰기 대면지도 신청 방법 변경 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2153",
@@ -511,6 +503,14 @@
           "date": "2026-11-03",
           "category": "취업",
           "pinned": false
+        },
+        {
+          "id": "2220",
+          "title": "[학생복지처] EBRD(유럽부흥개발은행) 채용설명회",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2220",
+          "date": "2026-11-03",
+          "category": "취업",
+          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-05T22:57:55.420Z",
+      "fetched_at": "2026-11-06T03:53:57.712Z",
       "count": 0,
       "items": []
     }
