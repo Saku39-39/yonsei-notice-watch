@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T13:20:37.770Z",
+  "generated_at": "2026-11-06T22:28:04.688Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,8 +7,8 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-06T13:20:33.069Z",
-      "count": 20,
+      "fetched_at": "2026-11-06T22:28:00.868Z",
+      "count": 18,
       "items": [
         {
           "id": "483624",
@@ -23,30 +23,6 @@
           "title": "[공지] [대학원혁신] 2026학년도 2학기 외국인 대학원생 학사생활 지원 Peer-Mentoring 프로그램 운영 및 신청 안내",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483494&article.offset=0&articleLimit=10",
           "date": "2026-10-29",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "483322",
-          "title": "[공지] [대학원 혁신] 외국인 대학원생을 위한 기업 HR 인사 전문가 초청 취업진로 특강 / Invited Lecture for International Students: Meet the HR Professionals",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483322&article.offset=0&articleLimit=10",
-          "date": "2026-10-27",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "482976",
-          "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 특강 <연구 주제를 바꾸는 용기, 연구 커리어의 확장> 안내 (11/11, 10:00~)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482976&article.offset=0&articleLimit=10",
-          "date": "2026-10-23",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "482817",
-          "title": "[공지] [기타] 2026학년도 대학원생 권익 증진 및 제도 개선을 위한 설문조사",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482817&article.offset=0&articleLimit=10",
-          "date": "2026-10-21",
           "category": null,
           "pinned": true
         },
@@ -99,6 +75,14 @@
           "pinned": true
         },
         {
+          "id": "483322",
+          "title": "[대학원 혁신] 외국인 대학원생을 위한 기업 HR 인사 전문가 초청 취업진로 특강 / Invited Lecture for International Students: Meet the HR Professionals",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483322&article.offset=0&articleLimit=10",
+          "date": "2026-10-27",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "483143",
           "title": "[기타] 교내 구성원 사칭 및 관련 피해 예방 안내",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483143&article.offset=0&articleLimit=10",
@@ -107,10 +91,26 @@
           "pinned": false
         },
         {
+          "id": "482976",
+          "title": "[기타] [진로지원]대학원 멘토 초청 커리어 특강 <연구 주제를 바꾸는 용기, 연구 커리어의 확장> 안내 (11/11, 10:00~)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482976&article.offset=0&articleLimit=10",
+          "date": "2026-10-23",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "482922",
           "title": "[수업] 2026학년도 2학기 대학원 중간 강의평가 실시 안내 (Mid-term Course Evaluations for 2026 Fall Semester)",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482922&article.offset=0&articleLimit=10",
           "date": "2026-10-22",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "482817",
+          "title": "[기타] 2026학년도 대학원생 권익 증진 및 제도 개선을 위한 설문조사",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482817&article.offset=0&articleLimit=10",
+          "date": "2026-10-21",
           "category": null,
           "pinned": false
         },
@@ -153,22 +153,6 @@
           "date": "2026-10-12",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "481782",
-          "title": "[기타] [진로지원]대학원생을 위한, 대기업 인사팀 출신과 함께하는 모의면접 1:1 컨설팅",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481782&article.offset=0&articleLimit=10",
-          "date": "2026-10-08",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "481760",
-          "title": "[기타] [진로지원]대학원 멘토 초청 커리어 멘토링 <엔터테인먼트 회사의 진짜 일: 사람에서 IP, 그리고 비즈니스까지> (10/28, 12:00~)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481760&article.offset=0&articleLimit=10",
-          "date": "2026-10-07",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +162,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-06T13:20:34.812Z",
+      "fetched_at": "2026-11-06T22:28:02.279Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +333,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-06T13:20:36.799Z",
+      "fetched_at": "2026-11-06T22:28:03.430Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +504,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-06T13:20:37.770Z",
+      "fetched_at": "2026-11-06T22:28:04.688Z",
       "count": 0,
       "items": []
     }
