@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:25:17.200Z",
+  "generated_at": "2026-11-09T03:18:03.185Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-08T21:25:11.721Z",
-      "count": 18,
+      "fetched_at": "2026-11-09T03:17:57.038Z",
+      "count": 19,
       "items": [
+        {
+          "id": "484180",
+          "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 특강 <인지과학 석사에서 UX 실무자까지> 안내 (11/25, 11:00~)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=484180&article.offset=0&articleLimit=10",
+          "date": "2026-11-09",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "483624",
           "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 멘토링 <스타트업의 A to Z> 안내 (11/18, 12:00~)",
@@ -75,6 +83,22 @@
           "pinned": true
         },
         {
+          "id": "484210",
+          "title": "[기타] 연세대학교 총장실 시간제근로자 채용 공고",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=484210&article.offset=0&articleLimit=10",
+          "date": "2026-11-09",
+          "category": null,
+          "pinned": false
+        },
+        {
+          "id": "484202",
+          "title": "[기타] '제26회 윤동주 시문학상' 공모 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=484202&article.offset=0&articleLimit=10",
+          "date": "2026-11-09",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "483322",
           "title": "[대학원 혁신] 외국인 대학원생을 위한 기업 HR 인사 전문가 초청 취업진로 특강 / Invited Lecture for International Students: Meet the HR Professionals",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483322&article.offset=0&articleLimit=10",
@@ -137,22 +161,6 @@
           "date": "2026-10-16",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "482238",
-          "title": "[대학원 혁신] 외국인 대학원생을 위한 실전 한국어 특강 프로그램 신청 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482238&article.offset=0&articleLimit=10",
-          "date": "2026-10-14",
-          "category": null,
-          "pinned": false
-        },
-        {
-          "id": "481978",
-          "title": "[대학원 혁신] 대학원생을 위한 외국계 연사초청 Career Talk & 멘토링 특강 프로그램 신청 안내 (10. 21. 18:00)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=481978&article.offset=0&articleLimit=10",
-          "date": "2026-10-12",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -162,7 +170,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-08T21:25:13.680Z",
+      "fetched_at": "2026-11-09T03:17:59.117Z",
       "count": 20,
       "items": [
         {
@@ -333,7 +341,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-08T21:25:15.940Z",
+      "fetched_at": "2026-11-09T03:18:01.533Z",
       "count": 20,
       "items": [
         {
@@ -504,7 +512,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-08T21:25:17.199Z",
+      "fetched_at": "2026-11-09T03:18:03.185Z",
       "count": 0,
       "items": []
     }
