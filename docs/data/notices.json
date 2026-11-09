@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T03:18:03.185Z",
+  "generated_at": "2026-11-09T14:31:14.582Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-09T03:17:57.038Z",
+      "fetched_at": "2026-11-09T14:31:10.790Z",
       "count": 19,
       "items": [
         {
@@ -170,7 +170,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-09T03:17:59.117Z",
+      "fetched_at": "2026-11-09T14:31:11.820Z",
       "count": 20,
       "items": [
         {
@@ -341,9 +341,17 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-09T03:18:01.533Z",
+      "fetched_at": "2026-11-09T14:31:13.644Z",
       "count": 20,
       "items": [
+        {
+          "id": "2224",
+          "title": "[GLC 경력지원센터] 학생 경력개발 및 취업 지원 프로그램 수요조사 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2224",
+          "date": "2026-11-09",
+          "category": "취업",
+          "pinned": true
+        },
         {
           "id": "2215",
           "title": "2027학년도 1학기 연세대학교 글로벌인재대학 비전임교원(겸임교수) 채용공고",
@@ -481,25 +489,17 @@
           "pinned": true
         },
         {
+          "id": "2223",
+          "title": "[국제처] 연세대 국제처 국제팀 사무보조 조교 모집 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2223",
+          "date": "2026-11-09",
+          "category": "취업",
+          "pinned": false
+        },
+        {
           "id": "2222",
           "title": "[학생복지처] World Bank Group 채용설명회",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2222",
-          "date": "2026-11-03",
-          "category": "취업",
-          "pinned": false
-        },
-        {
-          "id": "2221",
-          "title": "[학생복지처] OECD 채용설명회",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2221",
-          "date": "2026-11-03",
-          "category": "취업",
-          "pinned": false
-        },
-        {
-          "id": "2220",
-          "title": "[학생복지처] EBRD(유럽부흥개발은행) 채용설명회",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2220",
           "date": "2026-11-03",
           "category": "취업",
           "pinned": false
@@ -512,7 +512,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-09T03:18:03.185Z",
+      "fetched_at": "2026-11-09T14:31:14.581Z",
       "count": 0,
       "items": []
     }
