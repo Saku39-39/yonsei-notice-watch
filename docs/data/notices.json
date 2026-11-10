@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T00:55:13.475Z",
+  "generated_at": "2026-11-10T13:52:16.159Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-10T00:55:08.102Z",
+      "fetched_at": "2026-11-10T13:52:09.911Z",
       "count": 19,
       "items": [
         {
@@ -170,7 +170,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-10T00:55:09.636Z",
+      "fetched_at": "2026-11-10T13:52:12.079Z",
       "count": 20,
       "items": [
         {
@@ -341,12 +341,12 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-10T00:55:11.714Z",
+      "fetched_at": "2026-11-10T13:52:14.266Z",
       "count": 20,
       "items": [
         {
           "id": "2224",
-          "title": "[GLC 경력지원센터] 학생 경력개발 및 취업 지원 프로그램 수요조사 New",
+          "title": "[GLC 경력지원센터] 학생 경력개발 및 취업 지원 프로그램 수요조사",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2224",
           "date": "2026-11-09",
           "category": "취업",
@@ -489,19 +489,19 @@
           "pinned": true
         },
         {
-          "id": "2225",
-          "title": "제26회 윤동주 시문학상 New",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2225",
+          "id": "2227",
+          "title": "[한국문화예술교육진흥원] 2026 미래세대 문화교류 프로그램 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2227",
           "date": "2026-11-10",
           "category": "일반",
           "pinned": false
         },
         {
-          "id": "2223",
-          "title": "[국제처] 연세대 국제처 국제팀 사무보조 조교 모집 New",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2223",
-          "date": "2026-11-09",
-          "category": "취업",
+          "id": "2226",
+          "title": "[Fall 2026] Company Visit Program / 【2026秋季】企业参观项目 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2226",
+          "date": "2026-11-10",
+          "category": "일반",
           "pinned": false
         }
       ]
@@ -512,7 +512,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-10T00:55:13.474Z",
+      "fetched_at": "2026-11-10T13:52:16.159Z",
       "count": 0,
       "items": []
     }
