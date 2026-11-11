@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T22:36:43.600Z",
+  "generated_at": "2026-11-11T03:26:41.923Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-10T22:36:36.822Z",
+      "fetched_at": "2026-11-11T03:26:37.530Z",
       "count": 19,
       "items": [
         {
@@ -170,7 +170,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-10T22:36:39.804Z",
+      "fetched_at": "2026-11-11T03:26:39.228Z",
       "count": 20,
       "items": [
         {
@@ -341,7 +341,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-10T22:36:41.913Z",
+      "fetched_at": "2026-11-11T03:26:40.475Z",
       "count": 20,
       "items": [
         {
@@ -489,17 +489,17 @@
           "pinned": true
         },
         {
-          "id": "2227",
-          "title": "[한국문화예술교육진흥원] 2026 미래세대 문화교류 프로그램 New",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2227",
-          "date": "2026-11-10",
-          "category": "일반",
+          "id": "2228",
+          "title": "[KOTRA 물류지원실] 2026 청년 수출물류 도약캠프 개최 안내(11.27.금, KOTRA 서울 본사) New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2228",
+          "date": "2026-11-11",
+          "category": "취업",
           "pinned": false
         },
         {
-          "id": "2226",
-          "title": "[Fall 2026] Company Visit Program / 【2026秋季】企业参观项目 New",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2226",
+          "id": "2227",
+          "title": "[한국문화예술교육진흥원] 2026 미래세대 문화교류 프로그램 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2227",
           "date": "2026-11-10",
           "category": "일반",
           "pinned": false
@@ -512,7 +512,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-10T22:36:43.600Z",
+      "fetched_at": "2026-11-11T03:26:41.922Z",
       "count": 0,
       "items": []
     }
