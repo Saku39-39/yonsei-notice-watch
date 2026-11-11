@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T03:26:41.923Z",
+  "generated_at": "2026-11-11T13:03:37.882Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-11T03:26:37.530Z",
+      "fetched_at": "2026-11-11T13:03:31.036Z",
       "count": 19,
       "items": [
         {
@@ -170,7 +170,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-11T03:26:39.228Z",
+      "fetched_at": "2026-11-11T13:03:34.006Z",
       "count": 20,
       "items": [
         {
@@ -341,7 +341,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-11T03:26:40.475Z",
+      "fetched_at": "2026-11-11T13:03:36.034Z",
       "count": 20,
       "items": [
         {
@@ -498,7 +498,7 @@
         },
         {
           "id": "2227",
-          "title": "[한국문화예술교육진흥원] 2026 미래세대 문화교류 프로그램 New",
+          "title": "[한국문화예술교육진흥원] 2026 미래세대 문화교류 프로그램",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2227",
           "date": "2026-11-10",
           "category": "일반",
@@ -512,7 +512,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-11T03:26:41.922Z",
+      "fetched_at": "2026-11-11T13:03:37.882Z",
       "count": 0,
       "items": []
     }
