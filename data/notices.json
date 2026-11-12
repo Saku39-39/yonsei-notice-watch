@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T23:46:01.489Z",
+  "generated_at": "2026-11-12T04:36:41.399Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-11T23:45:56.488Z",
+      "fetched_at": "2026-11-12T04:36:36.582Z",
       "count": 19,
       "items": [
         {
@@ -170,7 +170,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-11T23:45:58.613Z",
+      "fetched_at": "2026-11-12T04:36:38.650Z",
       "count": 20,
       "items": [
         {
@@ -341,7 +341,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-11T23:46:00.517Z",
+      "fetched_at": "2026-11-12T04:36:39.995Z",
       "count": 20,
       "items": [
         {
@@ -489,19 +489,19 @@
           "pinned": true
         },
         {
-          "id": "2228",
-          "title": "[KOTRA 물류지원실] 2026 청년 수출물류 도약캠프 개최 안내(11.27.금, KOTRA 서울 본사) New",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2228",
-          "date": "2026-11-11",
-          "category": "취업",
+          "id": "2229",
+          "title": "[독도재단] 글로벌 독도 서포터즈 모집 및 세미나 개최 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2229",
+          "date": "2026-11-12",
+          "category": "일반",
           "pinned": false
         },
         {
-          "id": "2227",
-          "title": "[한국문화예술교육진흥원] 2026 미래세대 문화교류 프로그램",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2227",
-          "date": "2026-11-10",
-          "category": "일반",
+          "id": "2228",
+          "title": "[KOTRA 물류지원실] 2026 청년 수출물류 도약캠프 개최 안내(11.27.금, KOTRA 서울 본사)",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2228",
+          "date": "2026-11-11",
+          "category": "취업",
           "pinned": false
         }
       ]
@@ -512,7 +512,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-11T23:46:01.488Z",
+      "fetched_at": "2026-11-12T04:36:41.399Z",
       "count": 0,
       "items": []
     }
