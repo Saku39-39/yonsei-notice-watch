@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T04:36:41.399Z",
+  "generated_at": "2026-11-12T14:06:05.276Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,9 +7,17 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-12T04:36:36.582Z",
-      "count": 19,
+      "fetched_at": "2026-11-12T14:06:00.742Z",
+      "count": 20,
       "items": [
+        {
+          "id": "484531",
+          "title": "[공지] [기타] [진로지원]대학원생 커리어 멘토링 <연세대 박사에서 중국대학 취업까지: 실제 경험과 준비 노하우> 안내 (11/30, 10:00~)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=484531&article.offset=0&articleLimit=10",
+          "date": "2026-11-12",
+          "category": null,
+          "pinned": true
+        },
         {
           "id": "484180",
           "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 특강 <인지과학 석사에서 UX 실무자까지> 안내 (11/25, 11:00~)",
@@ -170,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-12T04:36:38.650Z",
+      "fetched_at": "2026-11-12T14:06:02.046Z",
       "count": 20,
       "items": [
         {
@@ -341,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-12T04:36:39.995Z",
+      "fetched_at": "2026-11-12T14:06:03.668Z",
       "count": 20,
       "items": [
         {
@@ -361,27 +369,11 @@
           "pinned": true
         },
         {
-          "id": "2214",
-          "title": "2027년 세종학당 문화인턴 파견 사업 설명회 안내 (온라인)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2214",
-          "date": "2026-10-28",
-          "category": "일반",
-          "pinned": true
-        },
-        {
           "id": "2213",
           "title": "2026 GLC 11월 콜로퀴움 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2213",
           "date": "2026-10-27",
           "category": "일반",
-          "pinned": true
-        },
-        {
-          "id": "2212",
-          "title": "[CareerMap][참가자 모집 (~11.10)] 외국인 유학생 대상 한국식 이력서 및 자기소개서 작성 클리닉 개최 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2212",
-          "date": "2026-10-27",
-          "category": "취업",
           "pinned": true
         },
         {
@@ -414,14 +406,6 @@
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2203",
           "date": "2026-10-23",
           "category": "취업",
-          "pinned": true
-        },
-        {
-          "id": "2202",
-          "title": "2026-2학기 GLC 인천 문화 체험 참가 신청",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2202",
-          "date": "2026-10-22",
-          "category": "일반",
           "pinned": true
         },
         {
@@ -489,6 +473,14 @@
           "pinned": true
         },
         {
+          "id": "2230",
+          "title": "2027년 해외 현지 초중등학교 한국어교원 파견 사업 <스리랑카 지역> 선발 공고 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2230",
+          "date": "2026-11-12",
+          "category": "취업",
+          "pinned": false
+        },
+        {
           "id": "2229",
           "title": "[독도재단] 글로벌 독도 서포터즈 모집 및 세미나 개최 안내 New",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2229",
@@ -503,6 +495,22 @@
           "date": "2026-11-11",
           "category": "취업",
           "pinned": false
+        },
+        {
+          "id": "2227",
+          "title": "[한국문화예술교육진흥원] 2026 미래세대 문화교류 프로그램",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2227",
+          "date": "2026-11-10",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2226",
+          "title": "[Fall 2026] Company Visit Program / 【2026秋季】企业参观项目",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2226",
+          "date": "2026-11-10",
+          "category": "일반",
+          "pinned": false
         }
       ]
     },
@@ -512,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-12T04:36:41.399Z",
+      "fetched_at": "2026-11-12T14:06:05.275Z",
       "count": 0,
       "items": []
     }
