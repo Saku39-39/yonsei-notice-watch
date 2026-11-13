@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T22:55:31.179Z",
+  "generated_at": "2026-11-13T03:49:58.009Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-12T22:55:27.042Z",
+      "fetched_at": "2026-11-13T03:49:51.919Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-12T22:55:28.166Z",
+      "fetched_at": "2026-11-13T03:49:54.489Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-12T22:55:29.552Z",
+      "fetched_at": "2026-11-13T03:49:56.826Z",
       "count": 20,
       "items": [
         {
@@ -377,27 +377,11 @@
           "pinned": true
         },
         {
-          "id": "2208",
-          "title": "2026학년도 2학기 학생 선택에 따른 S/U 평가제도 신청 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2208",
-          "date": "2026-10-26",
-          "category": "학사",
-          "pinned": true
-        },
-        {
           "id": "2205",
           "title": "GLD 연세장학금 및 자유장학금 신청 안내 [2027-1 학비 감면 재정보조장학금]",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2205",
           "date": "2026-10-23",
           "category": "장학",
-          "pinned": true
-        },
-        {
-          "id": "2204",
-          "title": "2027년 2월 학부 졸업신청 확인 및 변경 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2204",
-          "date": "2026-10-23",
-          "category": "학사",
           "pinned": true
         },
         {
@@ -482,7 +466,7 @@
         },
         {
           "id": "2229",
-          "title": "[독도재단] 글로벌 독도 서포터즈 모집 및 세미나 개최 안내 New",
+          "title": "[독도재단] 글로벌 독도 서포터즈 모집 및 세미나 개최 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2229",
           "date": "2026-11-12",
           "category": "일반",
@@ -511,6 +495,22 @@
           "date": "2026-11-10",
           "category": "일반",
           "pinned": false
+        },
+        {
+          "id": "2225",
+          "title": "제26회 윤동주 시문학상",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2225",
+          "date": "2026-11-10",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2223",
+          "title": "[국제처] 연세대 국제처 국제팀 사무보조 조교 모집",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2223",
+          "date": "2026-11-09",
+          "category": "취업",
+          "pinned": false
         }
       ]
     },
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-12T22:55:31.178Z",
+      "fetched_at": "2026-11-13T03:49:58.009Z",
       "count": 0,
       "items": []
     }
