@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T13:31:00.931Z",
+  "generated_at": "2026-11-13T22:57:55.072Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,8 +7,8 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-13T13:30:55.176Z",
-      "count": 20,
+      "fetched_at": "2026-11-13T22:57:48.051Z",
+      "count": 19,
       "items": [
         {
           "id": "484531",
@@ -23,14 +23,6 @@
           "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 특강 <인지과학 석사에서 UX 실무자까지> 안내 (11/25, 11:00~)",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=484180&article.offset=0&articleLimit=10",
           "date": "2026-11-09",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "483624",
-          "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 멘토링 <스타트업의 A to Z> 안내 (11/18, 12:00~)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483624&article.offset=0&articleLimit=10",
-          "date": "2026-11-02",
           "category": null,
           "pinned": true
         },
@@ -107,6 +99,14 @@
           "pinned": false
         },
         {
+          "id": "483624",
+          "title": "[기타] [진로지원]대학원 멘토 초청 커리어 멘토링 <스타트업의 A to Z> 안내 (11/18, 12:00~)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483624&article.offset=0&articleLimit=10",
+          "date": "2026-11-02",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "483322",
           "title": "[대학원 혁신] 외국인 대학원생을 위한 기업 HR 인사 전문가 초청 취업진로 특강 / Invited Lecture for International Students: Meet the HR Professionals",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483322&article.offset=0&articleLimit=10",
@@ -161,14 +161,6 @@
           "date": "2026-10-19",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "482419",
-          "title": "[기타] (시간 변경!) [진로지원]대학원 멘토 초청 커리어 멘토링 <석사 졸업 후 뭐하지? 제약·바이오 취업부터 회사생활까지> 안내 (11/4, 16:00~)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482419&article.offset=0&articleLimit=10",
-          "date": "2026-10-16",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -178,7 +170,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-13T13:30:57.747Z",
+      "fetched_at": "2026-11-13T22:57:50.516Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +341,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-13T13:30:59.716Z",
+      "fetched_at": "2026-11-13T22:57:52.589Z",
       "count": 20,
       "items": [
         {
@@ -520,7 +512,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-13T13:31:00.931Z",
+      "fetched_at": "2026-11-13T22:57:55.071Z",
       "count": 0,
       "items": []
     }
