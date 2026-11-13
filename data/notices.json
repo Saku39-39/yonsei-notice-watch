@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T03:49:58.009Z",
+  "generated_at": "2026-11-13T13:31:00.931Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-13T03:49:51.919Z",
+      "fetched_at": "2026-11-13T13:30:55.176Z",
       "count": 20,
       "items": [
         {
@@ -178,7 +178,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-13T03:49:54.489Z",
+      "fetched_at": "2026-11-13T13:30:57.747Z",
       "count": 20,
       "items": [
         {
@@ -349,7 +349,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-13T03:49:56.826Z",
+      "fetched_at": "2026-11-13T13:30:59.716Z",
       "count": 20,
       "items": [
         {
@@ -458,7 +458,7 @@
         },
         {
           "id": "2230",
-          "title": "2027년 해외 현지 초중등학교 한국어교원 파견 사업 <스리랑카 지역> 선발 공고 New",
+          "title": "2027년 해외 현지 초중등학교 한국어교원 파견 사업 <스리랑카 지역> 선발 공고",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2230",
           "date": "2026-11-12",
           "category": "취업",
@@ -520,7 +520,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-13T03:49:58.009Z",
+      "fetched_at": "2026-11-13T13:31:00.931Z",
       "count": 0,
       "items": []
     }
