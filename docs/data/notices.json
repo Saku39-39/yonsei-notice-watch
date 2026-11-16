@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T03:28:01.508Z",
+  "generated_at": "2026-11-16T14:07:26.339Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-16T03:27:54.481Z",
+      "fetched_at": "2026-11-16T14:07:20.823Z",
       "count": 19,
       "items": [
         {
@@ -170,7 +170,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-16T03:27:57.252Z",
+      "fetched_at": "2026-11-16T14:07:22.783Z",
       "count": 20,
       "items": [
         {
@@ -341,7 +341,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-16T03:27:59.511Z",
+      "fetched_at": "2026-11-16T14:07:24.862Z",
       "count": 20,
       "items": [
         {
@@ -449,6 +449,22 @@
           "pinned": true
         },
         {
+          "id": "2234",
+          "title": "국내 체류 외국인 대상 다국어 재난안전정보 앱 「Emergency Ready App」 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2234",
+          "date": "2026-11-16",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2233",
+          "title": "2026 연세노벨위크 문학심포지엄 개최 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2233",
+          "date": "2026-11-16",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2232",
           "title": "[국립국악원] 민속악단 정기공연 <풍화風化> 안내 New",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2232",
@@ -487,22 +503,6 @@
           "date": "2026-11-11",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2227",
-          "title": "[한국문화예술교육진흥원] 2026 미래세대 문화교류 프로그램",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2227",
-          "date": "2026-11-10",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2226",
-          "title": "[Fall 2026] Company Visit Program / 【2026秋季】企业参观项目",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2226",
-          "date": "2026-11-10",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -512,7 +512,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-16T03:28:01.507Z",
+      "fetched_at": "2026-11-16T14:07:26.338Z",
       "count": 0,
       "items": []
     }
