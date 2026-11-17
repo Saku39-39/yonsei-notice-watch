@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:07:26.339Z",
+  "generated_at": "2026-11-17T01:12:11.154Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,8 +7,8 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-16T14:07:20.823Z",
-      "count": 19,
+      "fetched_at": "2026-11-17T01:12:05.353Z",
+      "count": 18,
       "items": [
         {
           "id": "484531",
@@ -23,14 +23,6 @@
           "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 특강 <인지과학 석사에서 UX 실무자까지> 안내 (11/25, 11:00~)",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=484180&article.offset=0&articleLimit=10",
           "date": "2026-11-09",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "483494",
-          "title": "[공지] [대학원혁신] 2026학년도 2학기 외국인 대학원생 학사생활 지원 Peer-Mentoring 프로그램 운영 및 신청 안내",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483494&article.offset=0&articleLimit=10",
-          "date": "2026-10-29",
           "category": null,
           "pinned": true
         },
@@ -107,6 +99,14 @@
           "pinned": false
         },
         {
+          "id": "483494",
+          "title": "[대학원혁신] 2026학년도 2학기 외국인 대학원생 학사생활 지원 Peer-Mentoring 프로그램 운영 및 신청 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483494&article.offset=0&articleLimit=10",
+          "date": "2026-10-29",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "483322",
           "title": "[대학원 혁신] 외국인 대학원생을 위한 기업 HR 인사 전문가 초청 취업진로 특강 / Invited Lecture for International Students: Meet the HR Professionals",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483322&article.offset=0&articleLimit=10",
@@ -153,14 +153,6 @@
           "date": "2026-10-20",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "482519",
-          "title": "[기타] [진로지원]박사과정 및 박사후연구 위한 <Ph.D. 커리어 네트워킹> 개최 (11/3, 15:00~ 계열별 진행)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482519&article.offset=0&articleLimit=10",
-          "date": "2026-10-19",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -170,7 +162,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-16T14:07:22.783Z",
+      "fetched_at": "2026-11-17T01:12:08.161Z",
       "count": 20,
       "items": [
         {
@@ -270,6 +262,14 @@
           "pinned": true
         },
         {
+          "id": "484803",
+          "title": "2026 연세노벨위크 문학심포지엄 홍보 협조 요청",
+          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=484803&article.offset=0&articleLimit=10",
+          "date": "2026-11-17",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "484648",
           "title": "2027학년도 1학기 재입학 전형 안내",
           "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=484648&article.offset=0&articleLimit=10",
@@ -324,14 +324,6 @@
           "date": "2026-10-07",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "481092",
-          "title": "2026학년도 2학기 학부 수강과목 철회 안내( 2026. 10. 13.(화) 09:00 ∼ 10. 15.(목) 23:59)",
-          "url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do?mode=view&articleNo=481092&article.offset=0&articleLimit=10",
-          "date": "2026-09-29",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -341,7 +333,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-16T14:07:24.862Z",
+      "fetched_at": "2026-11-17T01:12:10.272Z",
       "count": 20,
       "items": [
         {
@@ -449,6 +441,14 @@
           "pinned": true
         },
         {
+          "id": "2235",
+          "title": "[휴롬엘에스] Country Affiliate Partner Manager (태국 담당 / 태국어 Native / 서울 본사 근무) 채용 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2235",
+          "date": "2026-11-17",
+          "category": "취업",
+          "pinned": false
+        },
+        {
           "id": "2234",
           "title": "국내 체류 외국인 대상 다국어 재난안전정보 앱 「Emergency Ready App」 안내 New",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2234",
@@ -495,14 +495,6 @@
           "date": "2026-11-12",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2228",
-          "title": "[KOTRA 물류지원실] 2026 청년 수출물류 도약캠프 개최 안내(11.27.금, KOTRA 서울 본사)",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2228",
-          "date": "2026-11-11",
-          "category": "취업",
-          "pinned": false
         }
       ]
     },
@@ -512,7 +504,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-16T14:07:26.338Z",
+      "fetched_at": "2026-11-17T01:12:11.154Z",
       "count": 0,
       "items": []
     }
