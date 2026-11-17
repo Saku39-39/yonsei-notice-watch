@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T01:12:11.154Z",
+  "generated_at": "2026-11-17T15:00:23.967Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-17T01:12:05.353Z",
+      "fetched_at": "2026-11-17T15:00:19.426Z",
       "count": 18,
       "items": [
         {
@@ -73,6 +73,14 @@
           "date": "2023-04-18",
           "category": null,
           "pinned": true
+        },
+        {
+          "id": "484877",
+          "title": "[기타] 2026 연세노벨위크 문학심포지엄 개최 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=484877&article.offset=0&articleLimit=10",
+          "date": "2026-11-17",
+          "category": null,
+          "pinned": false
         },
         {
           "id": "484210",
@@ -145,14 +153,6 @@
           "date": "2026-10-21",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "482600",
-          "title": "[기타] [인문예술발전기획사업단] 2026 제2회 연세국제창작공모전",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482600&article.offset=0&articleLimit=10",
-          "date": "2026-10-20",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -162,7 +162,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-17T01:12:08.161Z",
+      "fetched_at": "2026-11-17T15:00:20.827Z",
       "count": 20,
       "items": [
         {
@@ -333,9 +333,25 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-17T01:12:10.272Z",
+      "fetched_at": "2026-11-17T15:00:22.785Z",
       "count": 20,
       "items": [
+        {
+          "id": "2237",
+          "title": "2027학년도 1학기 재입학 전형 요강 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2237",
+          "date": "2026-11-17",
+          "category": "학사",
+          "pinned": true
+        },
+        {
+          "id": "2236",
+          "title": "[참가자 모집 (~11.25)] 외국인 유학생 대상 유학생용 한국어 면접 클리닉 개최 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2236",
+          "date": "2026-11-17",
+          "category": "취업",
+          "pinned": true
+        },
         {
           "id": "2224",
           "title": "[GLC 경력지원센터] 학생 경력개발 및 취업 지원 프로그램 수요조사",
@@ -441,6 +457,14 @@
           "pinned": true
         },
         {
+          "id": "2238",
+          "title": "LG CNS Global 외국인 인턴십(채용연계형) 추천 채용 공고 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2238",
+          "date": "2026-11-17",
+          "category": "취업",
+          "pinned": false
+        },
+        {
           "id": "2235",
           "title": "[휴롬엘에스] Country Affiliate Partner Manager (태국 담당 / 태국어 Native / 서울 본사 근무) 채용 New",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2235",
@@ -450,7 +474,7 @@
         },
         {
           "id": "2234",
-          "title": "국내 체류 외국인 대상 다국어 재난안전정보 앱 「Emergency Ready App」 안내 New",
+          "title": "국내 체류 외국인 대상 다국어 재난안전정보 앱 「Emergency Ready App」 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2234",
           "date": "2026-11-16",
           "category": "일반",
@@ -458,7 +482,7 @@
         },
         {
           "id": "2233",
-          "title": "2026 연세노벨위크 문학심포지엄 개최 안내 New",
+          "title": "2026 연세노벨위크 문학심포지엄 개최 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2233",
           "date": "2026-11-16",
           "category": "일반",
@@ -466,33 +490,9 @@
         },
         {
           "id": "2232",
-          "title": "[국립국악원] 민속악단 정기공연 <풍화風化> 안내 New",
+          "title": "[국립국악원] 민속악단 정기공연 <풍화風化> 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2232",
           "date": "2026-11-16",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2231",
-          "title": "[서울시립미술관] 2026 외국어 전시해설 - 천경자 상설전 《영혼을 울리는 바람을 향하여》 New",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2231",
-          "date": "2026-11-16",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2230",
-          "title": "2027년 해외 현지 초중등학교 한국어교원 파견 사업 <스리랑카 지역> 선발 공고",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2230",
-          "date": "2026-11-12",
-          "category": "취업",
-          "pinned": false
-        },
-        {
-          "id": "2229",
-          "title": "[독도재단] 글로벌 독도 서포터즈 모집 및 세미나 개최 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2229",
-          "date": "2026-11-12",
           "category": "일반",
           "pinned": false
         }
@@ -504,7 +504,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-17T01:12:11.154Z",
+      "fetched_at": "2026-11-17T15:00:23.967Z",
       "count": 0,
       "items": []
     }
