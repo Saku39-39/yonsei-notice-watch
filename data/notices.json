@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:06:04.011Z",
+  "generated_at": "2026-11-18T14:41:21.614Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-18T00:05:59.480Z",
+      "fetched_at": "2026-11-18T14:41:15.740Z",
       "count": 18,
       "items": [
         {
@@ -162,7 +162,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-18T00:06:01.322Z",
+      "fetched_at": "2026-11-18T14:41:17.462Z",
       "count": 20,
       "items": [
         {
@@ -333,12 +333,20 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-18T00:06:03.007Z",
+      "fetched_at": "2026-11-18T14:41:19.476Z",
       "count": 20,
       "items": [
         {
+          "id": "2239",
+          "title": "2026 글로벌인재대학 국제통상ㆍ한국언어문화교육전공 신입생 합동 전공설명회 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2239",
+          "date": "2026-11-18",
+          "category": "일반",
+          "pinned": true
+        },
+        {
           "id": "2237",
-          "title": "2027학년도 1학기 재입학 전형 요강 안내 New",
+          "title": "2027학년도 1학기 재입학 전형 요강 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2237",
           "date": "2026-11-17",
           "category": "학사",
@@ -346,7 +354,7 @@
         },
         {
           "id": "2236",
-          "title": "[참가자 모집 (~11.25)] 외국인 유학생 대상 유학생용 한국어 면접 클리닉 개최 안내 New",
+          "title": "[참가자 모집 (~11.25)] 외국인 유학생 대상 유학생용 한국어 면접 클리닉 개최 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2236",
           "date": "2026-11-17",
           "category": "취업",
@@ -366,14 +374,6 @@
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2215",
           "date": "2026-10-29",
           "category": "채용",
-          "pinned": true
-        },
-        {
-          "id": "2213",
-          "title": "2026 GLC 11월 콜로퀴움 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2213",
-          "date": "2026-10-27",
-          "category": "일반",
           "pinned": true
         },
         {
@@ -457,8 +457,16 @@
           "pinned": true
         },
         {
+          "id": "2240",
+          "title": "2026 국제개발협력 이해증진교육 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2240",
+          "date": "2026-11-18",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2238",
-          "title": "LG CNS Global 외국인 인턴십(채용연계형) 추천 채용 공고 New",
+          "title": "LG CNS Global 외국인 인턴십(채용연계형) 추천 채용 공고",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2238",
           "date": "2026-11-17",
           "category": "취업",
@@ -466,7 +474,7 @@
         },
         {
           "id": "2235",
-          "title": "[휴롬엘에스] Country Affiliate Partner Manager (태국 담당 / 태국어 Native / 서울 본사 근무) 채용 New",
+          "title": "[휴롬엘에스] Country Affiliate Partner Manager (태국 담당 / 태국어 Native / 서울 본사 근무) 채용",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2235",
           "date": "2026-11-17",
           "category": "취업",
@@ -487,14 +495,6 @@
           "date": "2026-11-16",
           "category": "일반",
           "pinned": false
-        },
-        {
-          "id": "2232",
-          "title": "[국립국악원] 민속악단 정기공연 <풍화風化> 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2232",
-          "date": "2026-11-16",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -504,7 +504,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-18T00:06:04.010Z",
+      "fetched_at": "2026-11-18T14:41:21.613Z",
       "count": 0,
       "items": []
     }
