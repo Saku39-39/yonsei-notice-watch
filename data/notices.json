@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T23:39:18.190Z",
+  "generated_at": "2026-11-19T04:45:53.594Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-18T23:39:09.452Z",
+      "fetched_at": "2026-11-19T04:45:49.328Z",
       "count": 18,
       "items": [
         {
@@ -162,7 +162,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-18T23:39:13.790Z",
+      "fetched_at": "2026-11-19T04:45:51.010Z",
       "count": 20,
       "items": [
         {
@@ -333,12 +333,20 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-18T23:39:15.595Z",
+      "fetched_at": "2026-11-19T04:45:52.498Z",
       "count": 20,
       "items": [
         {
+          "id": "2242",
+          "title": "2026-2학기 GLC Movie Night 참가 신청 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2242",
+          "date": "2026-11-19",
+          "category": "일반",
+          "pinned": true
+        },
+        {
           "id": "2239",
-          "title": "2026 글로벌인재대학 국제통상ㆍ한국언어문화교육전공 신입생 합동 전공설명회 New",
+          "title": "2026 글로벌인재대학 국제통상ㆍ한국언어문화교육전공 신입생 합동 전공설명회",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2239",
           "date": "2026-11-18",
           "category": "일반",
@@ -457,6 +465,14 @@
           "pinned": true
         },
         {
+          "id": "2241",
+          "title": "2027 IDP 수능유학박람회 · 캐나다유학박람회 개최 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2241",
+          "date": "2026-11-19",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2240",
           "title": "2026 국제개발협력 이해증진교육 안내 New",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2240",
@@ -479,22 +495,6 @@
           "date": "2026-11-17",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2234",
-          "title": "국내 체류 외국인 대상 다국어 재난안전정보 앱 「Emergency Ready App」 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2234",
-          "date": "2026-11-16",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2233",
-          "title": "2026 연세노벨위크 문학심포지엄 개최 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2233",
-          "date": "2026-11-16",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -504,7 +504,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-18T23:39:18.190Z",
+      "fetched_at": "2026-11-19T04:45:53.593Z",
       "count": 0,
       "items": []
     }
