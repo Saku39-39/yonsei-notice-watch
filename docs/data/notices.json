@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:57:54.630Z",
+  "generated_at": "2026-11-20T05:24:48.630Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-19T23:57:50.150Z",
+      "fetched_at": "2026-11-20T05:24:42.898Z",
       "count": 18,
       "items": [
         {
@@ -73,6 +73,14 @@
           "date": "2023-04-18",
           "category": null,
           "pinned": true
+        },
+        {
+          "id": "485294",
+          "title": "[기타] 2026 연세노벨위크 안내",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=485294&article.offset=0&articleLimit=10",
+          "date": "2026-11-20",
+          "category": null,
+          "pinned": false
         },
         {
           "id": "484877",
@@ -145,14 +153,6 @@
           "date": "2026-10-22",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "482817",
-          "title": "[기타] 2026학년도 대학원생 권익 증진 및 제도 개선을 위한 설문조사",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482817&article.offset=0&articleLimit=10",
-          "date": "2026-10-21",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -162,7 +162,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-19T23:57:51.843Z",
+      "fetched_at": "2026-11-20T05:24:44.971Z",
       "count": 20,
       "items": [
         {
@@ -333,12 +333,12 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-19T23:57:53.716Z",
+      "fetched_at": "2026-11-20T05:24:47.215Z",
       "count": 20,
       "items": [
         {
           "id": "2242",
-          "title": "2026-2학기 GLC Movie Night 참가 신청 안내 New",
+          "title": "2026-2학기 GLC Movie Night 참가 신청 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2242",
           "date": "2026-11-19",
           "category": "일반",
@@ -465,8 +465,16 @@
           "pinned": true
         },
         {
+          "id": "2243",
+          "title": "2026 연세노벨위크 행사 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2243",
+          "date": "2026-11-20",
+          "category": "일반",
+          "pinned": false
+        },
+        {
           "id": "2241",
-          "title": "2027 IDP 수능유학박람회 · 캐나다유학박람회 개최 New",
+          "title": "2027 IDP 수능유학박람회 · 캐나다유학박람회 개최",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2241",
           "date": "2026-11-19",
           "category": "일반",
@@ -487,14 +495,6 @@
           "date": "2026-11-17",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2235",
-          "title": "[휴롬엘에스] Country Affiliate Partner Manager (태국 담당 / 태국어 Native / 서울 본사 근무) 채용",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2235",
-          "date": "2026-11-17",
-          "category": "취업",
-          "pinned": false
         }
       ]
     },
@@ -504,7 +504,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-19T23:57:54.630Z",
+      "fetched_at": "2026-11-20T05:24:48.630Z",
       "count": 0,
       "items": []
     }
