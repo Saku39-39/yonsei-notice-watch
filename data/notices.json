@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T14:29:29.818Z",
+  "generated_at": "2026-11-20T23:26:49.775Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,22 +7,14 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-20T14:29:24.097Z",
-      "count": 18,
+      "fetched_at": "2026-11-20T23:26:44.129Z",
+      "count": 17,
       "items": [
         {
           "id": "484531",
           "title": "[공지] [기타] [진로지원]대학원생 커리어 멘토링 <연세대 박사에서 중국대학 취업까지: 실제 경험과 준비 노하우> 안내 (11/30, 10:00~)",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=484531&article.offset=0&articleLimit=10",
           "date": "2026-11-12",
-          "category": null,
-          "pinned": true
-        },
-        {
-          "id": "484180",
-          "title": "[공지] [기타] [진로지원]대학원 멘토 초청 커리어 특강 <인지과학 석사에서 UX 실무자까지> 안내 (11/25, 11:00~)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=484180&article.offset=0&articleLimit=10",
-          "date": "2026-11-09",
           "category": null,
           "pinned": true
         },
@@ -107,6 +99,14 @@
           "pinned": false
         },
         {
+          "id": "484180",
+          "title": "[기타] [진로지원]대학원 멘토 초청 커리어 특강 <인지과학 석사에서 UX 실무자까지> 안내 (11/25, 11:00~)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=484180&article.offset=0&articleLimit=10",
+          "date": "2026-11-09",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "483624",
           "title": "[기타] [진로지원]대학원 멘토 초청 커리어 멘토링 <스타트업의 A to Z> 안내 (11/18, 12:00~)",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=483624&article.offset=0&articleLimit=10",
@@ -145,14 +145,6 @@
           "date": "2026-10-23",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "482922",
-          "title": "[수업] 2026학년도 2학기 대학원 중간 강의평가 실시 안내 (Mid-term Course Evaluations for 2026 Fall Semester)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482922&article.offset=0&articleLimit=10",
-          "date": "2026-10-22",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -162,7 +154,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-20T14:29:25.568Z",
+      "fetched_at": "2026-11-20T23:26:45.761Z",
       "count": 20,
       "items": [
         {
@@ -333,7 +325,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-20T14:29:28.062Z",
+      "fetched_at": "2026-11-20T23:26:48.139Z",
       "count": 20,
       "items": [
         {
@@ -504,7 +496,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-20T14:29:29.817Z",
+      "fetched_at": "2026-11-20T23:26:49.774Z",
       "count": 0,
       "items": []
     }
