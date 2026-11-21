@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:26:49.775Z",
+  "generated_at": "2026-11-21T04:30:42.521Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-20T23:26:44.129Z",
+      "fetched_at": "2026-11-21T04:30:37.799Z",
       "count": 17,
       "items": [
         {
@@ -154,7 +154,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-20T23:26:45.761Z",
+      "fetched_at": "2026-11-21T04:30:39.723Z",
       "count": 20,
       "items": [
         {
@@ -325,7 +325,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-20T23:26:48.139Z",
+      "fetched_at": "2026-11-21T04:30:41.451Z",
       "count": 20,
       "items": [
         {
@@ -458,7 +458,7 @@
         },
         {
           "id": "2243",
-          "title": "2026 연세노벨위크 행사 안내 New",
+          "title": "2026 연세노벨위크 행사 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2243",
           "date": "2026-11-20",
           "category": "일반",
@@ -496,7 +496,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-20T23:26:49.774Z",
+      "fetched_at": "2026-11-21T04:30:42.521Z",
       "count": 0,
       "items": []
     }
