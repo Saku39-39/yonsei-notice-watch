@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T22:53:47.874Z",
+  "generated_at": "2026-11-23T04:21:56.826Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-22T22:53:42.309Z",
+      "fetched_at": "2026-11-23T04:21:52.215Z",
       "count": 17,
       "items": [
         {
@@ -154,7 +154,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-22T22:53:44.424Z",
+      "fetched_at": "2026-11-23T04:21:53.652Z",
       "count": 20,
       "items": [
         {
@@ -325,7 +325,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-22T22:53:46.699Z",
+      "fetched_at": "2026-11-23T04:21:55.507Z",
       "count": 20,
       "items": [
         {
@@ -369,14 +369,6 @@
           "pinned": true
         },
         {
-          "id": "2215",
-          "title": "2027학년도 1학기 연세대학교 글로벌인재대학 비전임교원(겸임교수) 채용공고",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2215",
-          "date": "2026-10-29",
-          "category": "채용",
-          "pinned": true
-        },
-        {
           "id": "2205",
           "title": "GLD 연세장학금 및 자유장학금 신청 안내 [2027-1 학비 감면 재정보조장학금]",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2205",
@@ -398,14 +390,6 @@
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2187",
           "date": "2026-10-12",
           "category": "학사",
-          "pinned": true
-        },
-        {
-          "id": "2186",
-          "title": "2026-2 GLC 전공생 대상 학술 한국어 워크숍",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2186",
-          "date": "2026-10-08",
-          "category": "일반",
           "pinned": true
         },
         {
@@ -457,6 +441,22 @@
           "pinned": true
         },
         {
+          "id": "2245",
+          "title": "벤처파크 Vol. 10, Beyond AI 기술이 현실을 바꾸는 순간 – 스타트업을 위한 강연 및 네트워킹 (11.26.(목)) 행사 안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2245",
+          "date": "2026-11-23",
+          "category": "일반",
+          "pinned": false
+        },
+        {
+          "id": "2244",
+          "title": "[바이오던스] 글로벌 인플루언서 마케팅 파트타이머 채용 공고 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2244",
+          "date": "2026-11-23",
+          "category": "취업",
+          "pinned": false
+        },
+        {
           "id": "2243",
           "title": "2026 연세노벨위크 행사 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2243",
@@ -496,7 +496,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-22T22:53:47.874Z",
+      "fetched_at": "2026-11-23T04:21:56.825Z",
       "count": 0,
       "items": []
     }
