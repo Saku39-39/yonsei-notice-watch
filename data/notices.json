@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T16:40:17.608Z",
+  "generated_at": "2026-11-24T03:31:46.097Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-23T16:40:10.873Z",
+      "fetched_at": "2026-11-24T03:31:40.887Z",
       "count": 17,
       "items": [
         {
@@ -154,7 +154,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-23T16:40:13.361Z",
+      "fetched_at": "2026-11-24T03:31:42.699Z",
       "count": 20,
       "items": [
         {
@@ -325,7 +325,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-23T16:40:15.407Z",
+      "fetched_at": "2026-11-24T03:31:45.140Z",
       "count": 20,
       "items": [
         {
@@ -450,7 +450,7 @@
         },
         {
           "id": "2245",
-          "title": "벤처파크 Vol. 10, Beyond AI 기술이 현실을 바꾸는 순간 – 스타트업을 위한 강연 및 네트워킹 (11.26.(목)) 행사 안내 New",
+          "title": "벤처파크 Vol. 10, Beyond AI 기술이 현실을 바꾸는 순간 – 스타트업을 위한 강연 및 네트워킹 (11.26.(목)) 행사 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2245",
           "date": "2026-11-23",
           "category": "일반",
@@ -458,7 +458,7 @@
         },
         {
           "id": "2244",
-          "title": "[바이오던스] 글로벌 인플루언서 마케팅 파트타이머 채용 공고 New",
+          "title": "[바이오던스] 글로벌 인플루언서 마케팅 파트타이머 채용 공고",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2244",
           "date": "2026-11-23",
           "category": "취업",
@@ -496,7 +496,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-23T16:40:17.608Z",
+      "fetched_at": "2026-11-24T03:31:46.097Z",
       "count": 0,
       "items": []
     }
