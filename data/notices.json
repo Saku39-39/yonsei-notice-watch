@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T01:41:19.684Z",
+  "generated_at": "2026-11-25T16:18:35.447Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,14 +7,14 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-25T01:41:13.286Z",
+      "fetched_at": "2026-11-25T16:18:30.858Z",
       "count": 17,
       "items": [
         {
-          "id": "484531",
-          "title": "[공지] [기타] [진로지원]대학원생 커리어 멘토링 <연세대 박사에서 중국대학 취업까지: 실제 경험과 준비 노하우> 안내 (11/30, 10:00~)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=484531&article.offset=0&articleLimit=10",
-          "date": "2026-11-12",
+          "id": "485673",
+          "title": "[공지] [졸업] 2027학년도 상반기(2월) 국내 신규박사학위 취득자 조사",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=485673&article.offset=0&articleLimit=10",
+          "date": "2026-11-25",
           "category": null,
           "pinned": true
         },
@@ -83,6 +83,14 @@
           "pinned": false
         },
         {
+          "id": "484531",
+          "title": "[기타] [진로지원]대학원생 커리어 멘토링 <연세대 박사에서 중국대학 취업까지: 실제 경험과 준비 노하우> 안내 (11/30, 10:00~)",
+          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=484531&article.offset=0&articleLimit=10",
+          "date": "2026-11-12",
+          "category": null,
+          "pinned": false
+        },
+        {
           "id": "484210",
           "title": "[기타] 연세대학교 총장실 시간제근로자 채용 공고",
           "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=484210&article.offset=0&articleLimit=10",
@@ -137,14 +145,6 @@
           "date": "2026-10-26",
           "category": null,
           "pinned": false
-        },
-        {
-          "id": "482976",
-          "title": "[기타] [진로지원]대학원 멘토 초청 커리어 특강 <연구 주제를 바꾸는 용기, 연구 커리어의 확장> 안내 (11/11, 10:00~)",
-          "url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do?mode=view&articleNo=482976&article.offset=0&articleLimit=10",
-          "date": "2026-10-23",
-          "category": null,
-          "pinned": false
         }
       ]
     },
@@ -154,7 +154,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-25T01:41:15.186Z",
+      "fetched_at": "2026-11-25T16:18:32.915Z",
       "count": 20,
       "items": [
         {
@@ -325,12 +325,12 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-25T01:41:17.706Z",
+      "fetched_at": "2026-11-25T16:18:34.375Z",
       "count": 20,
       "items": [
         {
           "id": "2248",
-          "title": "외국인 GLC 학생의 전공진입을 위한 한국어성적 제출 안내 New",
+          "title": "외국인 GLC 학생의 전공진입을 위한 한국어성적 제출 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2248",
           "date": "2026-11-24",
           "category": "학사",
@@ -338,7 +338,7 @@
         },
         {
           "id": "2247",
-          "title": "2027학년도 1학기 글로벌인재대학 전공신청 안내 New",
+          "title": "2027학년도 1학기 글로벌인재대학 전공신청 안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2247",
           "date": "2026-11-24",
           "category": "학사",
@@ -496,7 +496,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-25T01:41:19.683Z",
+      "fetched_at": "2026-11-25T16:18:35.447Z",
       "count": 0,
       "items": []
     }
