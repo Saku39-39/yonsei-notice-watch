@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:13:21.299Z",
+  "generated_at": "2026-11-27T15:42:48.239Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-27T01:13:10.931Z",
+      "fetched_at": "2026-11-27T15:42:40.051Z",
       "count": 17,
       "items": [
         {
@@ -154,7 +154,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-27T01:13:12.468Z",
+      "fetched_at": "2026-11-27T15:42:43.504Z",
       "count": 20,
       "items": [
         {
@@ -325,7 +325,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-27T01:13:17.353Z",
+      "fetched_at": "2026-11-27T15:42:46.327Z",
       "count": 20,
       "items": [
         {
@@ -449,6 +449,22 @@
           "pinned": true
         },
         {
+          "id": "2250",
+          "title": "[한국농어촌희망재단] 2027년 1학기 농림축산식품부 대학장학금 선발안내 New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2250",
+          "date": "2026-11-27",
+          "category": "장학",
+          "pinned": false
+        },
+        {
+          "id": "2249",
+          "title": "Adobe Sales Inbound 홍콩 / 대만 영업 담당자 (Adobe 香港／臺灣地區銷售代表（電話銷售）) New",
+          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2249",
+          "date": "2026-11-27",
+          "category": "취업",
+          "pinned": false
+        },
+        {
           "id": "2246",
           "title": "과학토크콘서트 「노벨의 지평선」 개최 안내(12/11(금))",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2246",
@@ -471,22 +487,6 @@
           "date": "2026-11-23",
           "category": "취업",
           "pinned": false
-        },
-        {
-          "id": "2243",
-          "title": "2026 연세노벨위크 행사 안내",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2243",
-          "date": "2026-11-20",
-          "category": "일반",
-          "pinned": false
-        },
-        {
-          "id": "2241",
-          "title": "2027 IDP 수능유학박람회 · 캐나다유학박람회 개최",
-          "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2241",
-          "date": "2026-11-19",
-          "category": "일반",
-          "pinned": false
         }
       ]
     },
@@ -496,7 +496,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-27T01:13:21.298Z",
+      "fetched_at": "2026-11-27T15:42:48.239Z",
       "count": 0,
       "items": []
     }
