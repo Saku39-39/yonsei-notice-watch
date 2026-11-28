@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T00:45:54.182Z",
+  "generated_at": "2026-11-28T14:38:56.155Z",
   "sites": [
     {
       "site_id": "graduate",
@@ -7,7 +7,7 @@
       "site_url": "https://graduate.yonsei.ac.kr/graduate/board/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-28T00:45:46.709Z",
+      "fetched_at": "2026-11-28T14:38:48.788Z",
       "count": 17,
       "items": [
         {
@@ -154,7 +154,7 @@
       "site_url": "https://socsci.yonsei.ac.kr/socsci/community/notice.do",
       "type": "jwxe",
       "status": "ok",
-      "fetched_at": "2026-11-28T00:45:49.446Z",
+      "fetched_at": "2026-11-28T14:38:51.494Z",
       "count": 20,
       "items": [
         {
@@ -325,7 +325,7 @@
       "site_url": "https://glc.yonsei.ac.kr/notice/",
       "type": "kboard",
       "status": "ok",
-      "fetched_at": "2026-11-28T00:45:52.279Z",
+      "fetched_at": "2026-11-28T14:38:54.223Z",
       "count": 20,
       "items": [
         {
@@ -450,7 +450,7 @@
         },
         {
           "id": "2250",
-          "title": "[한국농어촌희망재단] 2027년 1학기 농림축산식품부 대학장학금 선발안내 New",
+          "title": "[한국농어촌희망재단] 2027년 1학기 농림축산식품부 대학장학금 선발안내",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2250",
           "date": "2026-11-27",
           "category": "장학",
@@ -458,7 +458,7 @@
         },
         {
           "id": "2249",
-          "title": "Adobe Sales Inbound 홍콩 / 대만 영업 담당자 (Adobe 香港／臺灣地區銷售代表（電話銷售）) New",
+          "title": "Adobe Sales Inbound 홍콩 / 대만 영업 담당자 (Adobe 香港／臺灣地區銷售代表（電話銷售）)",
           "url": "https://glc.yonsei.ac.kr/notice/?mod=document&uid=2249",
           "date": "2026-11-27",
           "category": "취업",
@@ -496,7 +496,7 @@
       "site_url": "https://ysgsa.yonsei.ac.kr/notice1",
       "type": "generic",
       "status": "ok",
-      "fetched_at": "2026-11-28T00:45:54.181Z",
+      "fetched_at": "2026-11-28T14:38:56.154Z",
       "count": 0,
       "items": []
     }
